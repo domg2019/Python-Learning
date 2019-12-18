@@ -1,0 +1,8 @@
+数据类型：Number: int float    0b11,0o11,0x11, bin()
+         bool: bool(0),bool(1), None
+         str:  '', "", ",',"
+  
+
+
+函数： int(),bin(),Oct(),hex(),tpye(), print()
+          
