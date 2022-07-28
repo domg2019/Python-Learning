@@ -29,7 +29,7 @@ message_tracker_dict={
         "9":"https://b2bimcpapp2.sl3.comp.db.de:6443/ui/",
 }
 
-user_id="luisliu1"
-password="tus10Cac25!"
+user_id="***"
+password="***"
 
 from_id="Cisco_CISC"
