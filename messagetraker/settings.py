@@ -29,7 +29,37 @@ message_tracker_dict={
         "9":"https://b2bimcpapp2.sl3.comp.db.de:6443/ui/",
 }
 
-user_id="***"
-password="***"
+user_id="xxx"
+password="xxx!"
 
-from_id="Cisco_CISC"
+from_id="xxx"
+
+phonemessage_statusStr = {
+    '0': '短信发送成功',
+    '-1': '参数不全',
+    '-2': '服务器空间不支持,请确认支持curl或者fsocket,联系您的空间商解决或者更换空间',
+    '30': '密码错误',
+    '40': '账号不存在',
+    '41': '余额不足',
+    '42': '账户已过期',
+    '43': 'IP地址限制',
+    '50': '内容含有敏感词'
+}
+
+phonemessage_smsapi = "xxx"
+# 短信平台账号
+phonemessage_user = 'xxx'
+# 短信平台密码
+def md5(str):
+    import hashlib
+    m = hashlib.md5()
+    m.update(str.encode("utf8"))
+    return m.hexdigest()
+
+phonemessage_password = md5('xxx')
+# 要发送的短信内容
+# content = char_handle()
+# print(content)
+# 要发送短信的手机号码
+# phonemessage_phone = 'xxx'
+phonemessage_phone = 'xxx'
