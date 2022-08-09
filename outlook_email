@@ -1,0 +1,22 @@
+import win32com.client as win32
+
+
+def send_mail():
+    outlook = win32.Dispatch('Outlook.Application')
+    
+    main_item = outlook.CreateItem(0)
+    main_item.Recipients.Add('test@test.com')
+    main_item.Subject = 'Mail Test with signature'
+
+    main_item.BodyFormat = 2
+    main_item.HTMLBody = '''
+    <H2>Hello, this is a test mail with signature</H2>
+    
+    
+    xxxxx
+    '''
+    main_item.Send()
+
+
+if __name__ == '__main__':
+    send_mail()
