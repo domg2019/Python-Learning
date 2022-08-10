@@ -9,14 +9,156 @@ def send_mail():
     main_item.Subject = 'Mail Test with signature'
 
     main_item.BodyFormat = 2
-    main_item.HTMLBody = '''
-    <H2>Hello, this is a test mail with signature</H2>
-    
-    
-    xxxxx
-    '''
+    main_item.HTMLBody = main_body()
     main_item.Send()
 
+def main_body():
+    header = '''<H3>Dear Team, kindly assign To:SWORD:AO</H3>'''
+    signature = '''    
+    <div></div>
+    <div></div>
+    <div> <font size="2", color="#1F4E79">Mit freundlichen Grüßen / Best regards,</font> </div>
+    <div> <font size="2", color="#1F4E79">--</font> </div>
+    <div> <font font-weight: bold,size="2", color="#1F4E79">Luis Liu</font> </div>
+    <div> <font size="2", color="#1F4E79">2nd  Level Support</font> </div>
+    <div> <font size="2", color="#1F4E79">GTECH, Global Technology, Architecture and IT Services (F.LCA)</font> </div>
+    <div> <font size="2", color="#1F4E79"></font> </div>
+    <div> <font size="2", color="#1F4E79">Application Operations & Support</font> </div>
+    <div> <font size="2", color="#1F4E79">Technology Solution Center (L.LCS)</font> </div>
+    <div> <font size="2", color="#1F4E79"></font> </div>
+    <div> <font size="2", color="#1F4E79">Schenker Shared Services (Nanjing) Co., Ltd.</font> </div>
+    <div> <font size="2", color="#1F4E79">Building 7, Jiangsu Software Park, No. 699 -22 Xuanwu Avenue, 210042 Nanjing, P.R. China</font> </div>
+    <div> <font size="2", color="#1F4E79"></font> </div>
+    <div> <font size="2", color="#1F4E79">Phone: +86 25 6964-1709</font> </div>
+    <div> <font size="2", color="#1F4E79">E-Mail: </font>
+        <a href="luis.liu@dbschenker.com"> <font size="2", color="#1F4E79">luis.liu@dbschenker.com</font> </a> </div>
+    <div> <font size="2", color="#1F4E79">URL </font>
+        <a href="www.dbschenker.com"> <font size="2", color="#1F4E79">www.dbschenker.com</font> </a> </div>
+    <div> <font size="2", color="#1F4E79"></font> </div>
+    <div> <font size="2", color="#1F4E79">Service Desk: +49 201 59 25 25 25</font> </div>
+    <div> <font size="2", color="#1F4E79"></font> </div>'''
+    failure = '''Type Origination From ID To ID Status Failure reason Direction Core ID Delivery filename
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425782.39501963@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284923.P69CLNT130_ALEAUD_19677199.xml
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425779.39501943@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284928.P69CLNT130_MBGMCR_19677203.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425779.39501948@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284926.P69CLNT130_MBGMCR_19677195.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425778.39501933@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285014.P69CLNT130_WHSCON_19677260.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425778.39501938@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284929.P69CLNT130_MBGMCR_19677198.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425776.39501922@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284931.P69CLNT130_MBGMCR_19677205.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425776.39501914@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285015.P69CLNT130_WHSCON_19677261.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425770.39501841@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284935.P69CLNT130_MBGMCR_19677210.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425769.39501828@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284940.P69CLNT130_MBGMCR_19677202.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425728.39501585@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284938.P69CLNT130_MBGMCR_19677211.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425727.39501583@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284942.P69CLNT130_MBGMCR_19677213.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425725.39501552@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284927.P69CLNT130_MBGMCR_19677204.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425724.39501542@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285012.P69CLNT130_MBGMCR_19677288.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425724.39501541@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285013.P69CLNT130_MBGMCR_19677289.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425723.39501537@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285010.P69CLNT130_MBGMCR_19677286.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425722.39501533@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285011.P69CLNT130_MBGMCR_19677287.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425677.39501282@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284925.P69CLNT130_ALEAUD_19677257.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425676.39501277@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284932.P69CLNT130_MBGMCR_19677196.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425675.39501275@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284930.P69CLNT130_MBGMCR_19677200.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425674.39501264@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284936.P69CLNT130_MBGMCR_19677207.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425673.39501256@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284937.P69CLNT130_MBGMCR_19677206.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425673.39501263@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284933.P69CLNT130_MBGMCR_19677209.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425673.39501258@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284934.P69CLNT130_MBGMCR_19677197.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425672.39501250@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284979.P69CLNT130_MBGMCR_19677252.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425672.39501252@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284939.P69CLNT130_MBGMCR_19677201.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425671.39501234@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284982.P69CLNT130_MBGMCR_19677255.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425654.39501148@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284983.P69CLNT130_MBGMCR_19677256.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425654.39501149@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284984.P69CLNT130_MBGMCR_19677258.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425654.39501146@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284985.P69CLNT130_MBGMCR_19677259.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425653.39501144@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284981.P69CLNT130_MBGMCR_19677254.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425653.39501139@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284990.P69CLNT130_MBGMCR_19677266.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425653.39501142@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284986.P69CLNT130_MBGMCR_19677262.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425652.39501135@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284989.P69CLNT130_MBGMCR_19677265.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425652.39501137@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284987.P69CLNT130_MBGMCR_19677263.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425651.39501104@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285009.P69CLNT130_MBGMCR_19677285.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425651.39501121@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284991.P69CLNT130_MBGMCR_19677267.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425474.39501016@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285008.P69CLNT130_MBGMCR_19677284.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425455.39501013@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284988.P69CLNT130_MBGMCR_19677264.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425453.39501009@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284992.P69CLNT130_MBGMCR_19677268.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425452.39501004@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284995.P69CLNT130_MBGMCR_19677271.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425452.39501007@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284993.P69CLNT130_MBGMCR_19677269.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425450.39500997@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284997.P69CLNT130_MBGMCR_19677273.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425446.39500988@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284994.P69CLNT130_MBGMCR_19677270.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425444.39500983@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284996.P69CLNT130_MBGMCR_19677272.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425440.39500975@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284999.P69CLNT130_MBGMCR_19677275.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425433.39500962@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284998.P69CLNT130_MBGMCR_19677274.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425408.39500955@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285001.P69CLNT130_MBGMCR_19677277.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425406.39500953@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285000.P69CLNT130_MBGMCR_19677276.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425405.39500950@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285003.P69CLNT130_MBGMCR_19677279.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425405.39500952@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285002.P69CLNT130_MBGMCR_19677278.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425402.39500947@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285005.P69CLNT130_MBGMCR_19677281.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425398.39500945@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285007.P69CLNT130_MBGMCR_19677283.xml 
+    Details Payload  Aug 10, 2022 01:03:45 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660129425393.39500943@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_285004.P69CLNT130_MBGMCR_19677280.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828238.39378293@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284851.P69CLNT130_MBGMCR_19677113.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828238.39378294@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284849.P69CLNT130_MBGMCR_19677111.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828237.39378290@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284850.P69CLNT130_MBGMCR_19677114.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828228.39378226@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284852.P69CLNT130_MBGMCR_19677112.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828206.39378073@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284853.P69CLNT130_MBGMCR_19677120.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828205.39378069@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284854.P69CLNT130_MBGMCR_19677119.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828203.39378065@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284855.P69CLNT130_MBGMCR_19677118.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828197.39378049@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284856.P69CLNT130_MBGMCR_19677121.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828194.39378042@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284859.P69CLNT130_MBGMCR_19677124.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828189.39378027@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284861.P69CLNT130_MBGMCR_19677135.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828186.39377994@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284857.P69CLNT130_MBGMCR_19677122.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828177.39377883@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284862.P69CLNT130_MBGMCR_19677136.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828148.39377689@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284864.P69CLNT130_MBGMCR_19677138.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828146.39377666@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284866.P69CLNT130_MBGMCR_19677140.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828146.39377668@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284863.P69CLNT130_MBGMCR_19677137.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828145.39377652@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284865.P69CLNT130_MBGMCR_19677139.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828144.39377636@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284917.P69CLNT130_MBGMCR_19677193.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828142.39377618@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284919.P69CLNT130_WHSCON_19677116.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828140.39377608@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284920.P69CLNT130_WHSCON_19677117.xml 
+    Details Payload  Aug 10, 2022 12:53:48 PM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660128828138.39377595@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284922.P69CLNT130_WHSCON_19677153.xml 
+    Details Payload  Aug 10, 2022 12:17:10 PM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660126630899.38929434@b2biprdapp11_te  856o_ASG_FOX_20220810061314_70749.txt 
+    Details Payload  Aug 10, 2022 12:17:10 PM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660126630897.38929430@b2biprdapp11_te  856o_ASG_FOX_20220810061315_70757.txt 
+    Details Payload  Aug 10, 2022 11:57:23 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660125443818.38688473@b2biprdapp11_te  856o_ASG_FOX_20220810055521_70745.txt 
+    Details Payload  Aug 10, 2022 11:57:23 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660125443784.38688466@b2biprdapp11_te  856o_ASG_FOX_20220810055520_70720.txt 
+    Details Payload  Aug 10, 2022 11:42:11 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660124531520.38406085@b2biprdapp11_te  856o_ASG_FOX_20220810053703_70705.txt 
+    Details Payload  Aug 10, 2022 11:32:11 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660123931048.38236625@b2biprdapp11_te  856o_ASG_FOX_20220810053104_70700.txt 
+    Details Payload  Aug 10, 2022 11:32:11 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660123931032.38236618@b2biprdapp11_te  856o_ASG_FOX_20220810053104_70699.txt 
+    Details Payload  Aug 10, 2022 11:32:11 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660123931011.38236571@b2biprdapp11_te  856o_ASG_FOX_20220810053104_70702.txt 
+    Details Payload  Aug 10, 2022 11:27:08 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660123628932.38121693@b2biprdapp11_te  856o_ASG_FOX_20220810052504_70694.txt 
+    Details Payload  Aug 10, 2022 10:27:12 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660120032681.37058872@b2biprdapp11_te  856o_ASG_FOX_20220810042505_70684.txt 
+    Details Payload  Aug 10, 2022 09:52:14 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660117934435.36425959@b2biprdapp11_te  856o_ASG_FOX_20220810034908_70636.txt 
+    Details Payload  Aug 10, 2022 09:45:05 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660117505678.36274557@b2biprdapp11_te  856o_ASG_FOX_20220810030106_70622.txt 
+    Details Payload  Aug 10, 2022 09:32:15 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660116735506.36071186@b2biprdapp11_te  856o_ASG_FOX_20220810033103_70631.txt 
+    Details Payload  Aug 10, 2022 09:31:37 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660116697460.36060330@b2biprdapp11_te  856o_ASG_FOX_20220810025506_70618.txt 
+    Details Payload  Aug 10, 2022 09:27:13 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660116433143.35963963@b2biprdapp11_te  856o_ASG_FOX_20220810032505_70628.txt 
+    Details Payload  Aug 10, 2022 09:22:12 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660116132141.35890451@b2biprdapp11_te  856o_ASG_FOX_20220810031907_70625.txt 
+    Details Payload  Aug 10, 2022 09:02:12 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660114932778.35565957@b2biprdapp11_te  856o_ASG_FOX_20220810030106_70622.txt 
+    Details Payload  Aug 10, 2022 08:57:08 AM CEST  SAGB2BPROD  ING2CLOUDAS2WMPROD  Failed  Transport retries exhausted  Outbound  ci1660114628455.35491810@b2biprdapp11_te  856o_ASG_FOX_20220810025506_70618.txt 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424513.34591901@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284331.P69CLNT130_WHSCON_19676463.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424471.34591837@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284355.P69CLNT130_WHSCON_19676492.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424465.34591833@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284354.P69CLNT130_WHSCON_19676491.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424418.34591743@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284336.P69CLNT130_WHSCON_19676468.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424370.34591644@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284356.P69CLNT130_WHSCON_19676493.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424359.34591604@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284358.P69CLNT130_WHSCON_19676495.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424321.34591566@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284365.P69CLNT130_WHSCON_19676502.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424312.34591537@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284362.P69CLNT130_WHSCON_19676499.xml 
+    Details Payload  Aug 10, 2022 08:03:44 AM CEST  SWORD  VEST_HTTP  Failed  Transport retries exhausted  Outbound  ci1660111424274.34591477@b2biprdapp11_te  COMSYS.VESTEVESJD_inbound.C_284364.P69CLNT130_WHSCON_19676501.xml '''
+    failure_list = failure.split("\n")
+    inbound_ids, outbound_ids = [], []
+    for element in failure_list[1:]:
+        from_id = element.split()[14]
+        if from_id == "Outbound":
+            outbound_ids.append(element.split()[9])
+        else:
+            inbound_ids.append(element.split()[9])
+    line2, line4 = '', ''
+    line1 = f"<div>There are totally {len(inbound_ids)} inbound failures as below:</div>"
+    for inbound in set(inbound_ids):
+        line2 += f"<div>{inbound_ids.count(inbound)} failures from_ID: {inbound}.</div>"
+    line3 = f"<div>There are totally {len(outbound_ids)} outbound failures as below:</div>"
+    for outbound in set(outbound_ids):
+        # print(f"{outbound_ids.count(outbound)} failures from_ID: {outbound}.")
+        line4 += f"<div>{outbound_ids.count(outbound)} failures To_ID: {outbound}.</div>"
+    body = line1 + line2 + line3 + line4
+
+    return f'''{header} <div>General result for failures last 12 hours~~~~</div><H4> {body} </H4>
+            <div>Latest failure happened at: {failure_list[1].split()[5:8]}</div><div>Details as be
+            low: ~~~~</div>  {failure} <div>~~~~</div> {signature}'''
 
 if __name__ == '__main__':
     send_mail()
