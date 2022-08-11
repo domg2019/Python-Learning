@@ -141,8 +141,7 @@ def main_body():
     failure_list = failure.split("\n")
     inbound_ids, outbound_ids = [], []
     for element in failure_list[1:]:
-        from_id = element.split()[14]
-        if from_id == "Outbound":
+        if "Outbound" in element.split():
             outbound_ids.append(element.split()[9])
         else:
             inbound_ids.append(element.split()[9])
