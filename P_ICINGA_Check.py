@@ -15,26 +15,27 @@ warnings.filterwarnings("ignore")
 resp = requests.get(url, verify=False, headers=headers)
 # print(resp.text)
 html = etree.HTML(resp.text)
-print(html)
 
 # segments_list = html.xpath('/html/body/div[1]/div[3]/div[1]/div[3]/table/tbody/tr')
-segments_list = html.xpath('/html/body//tbody/tr')
-print(segments_list)
+segments_list = html.xpath('/html/body//table/tbody/tr')
+# print(segments_list)
 for segment in segments_list:
     general_elements_list = segment.xpath('.//text()')
+    # print(general_elements_list)
     elements_list = []
     for general_element in general_elements_list:
         if general_element.strip("\n").strip(" ") != "":
             elements_list.append(general_element)
-    if elements_list[1][0:3] == "for":
-        print(elements_list[1])
-        if re.search(r'[0-9]([a-z])', elements_list[1]).group(1) == "m":
-            if int(re.search(r'([0-9]+)m', elements_list[1]).group(1)) >= 10:
-                print("New alert more than 10 minutes!")
-            else:
-                print("check if there's is a ticket")
+    if elements_list[0].strip("\n").strip(" ") == 'CRITICAL':
+        if elements_list[1][0:3] == "for":
+            print(elements_list[1])
+            if re.search(r'[0-9]([a-z])', elements_list[1]).group(1) == "m":
+                if int(re.search(r'([0-9]+)m', elements_list[1]).group(1)) >= 10:
+                    print("New alert more than 10 minutes! See details below: ")
+                    for element in elements_list:
+                        print(element.strip("\n").strip(" "))
         else:
-            print("check if there's is a ticket")
-    else:
-        print("check if there's is a ticket")
+            critical_time = elements_list[1].strip("\n").strip(" ")
+            print(f"check if there is a ticket. One critical alert is existed {critical_time}")
+
 
