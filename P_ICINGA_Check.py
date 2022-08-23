@@ -32,35 +32,42 @@ def check_service_problems():
     segments_list = html.xpath('/html/body//table/tbody/tr')
     current_time = datetime.now().strftime('%m-%d %H:%M:%S')
 
-    # Detect if request is successful
-    if len(segments_list) != 0:
+    # check if it's successfully get dashboard page
+    is_login = html.xpath('/html/body/div[1]/div[1]/@id')  # fetch div-id: login
+    if is_login[0] == "login":
+        speak("Attention Attention Attention! login failed!")
+    # check the services problem dashboard once login successfully
+    else:
+        # print general request log
         print("Request Successful!" + current_time)
+        # handle resp results
+        for segment in segments_list:
+            if segment.xpath('.//span/i/@aria-label')[0] == 'Unhandled':
+                general_elements_list = segment.xpath('.//text()')
+                # print(general_elements_list)
+                elements_list = []
+                for general_element in general_elements_list:
+                    if general_element.strip("\n").strip(" ") != "":
+                        elements_list.append(general_element)
+                # print(elements_list)
+                if elements_list[0].strip("\n").strip(" ") == 'CRITICAL':
+                    if elements_list[1][0:3] == "for":
+                        if re.search(r'[0-9]([a-z])', elements_list[1]).group(1) == "m":
+                            if 5 <= int(re.search(r'([0-9]+)m', elements_list[1]).group(1)) <= 10:
+                                print("New alert more than 5 minutes! See details below: ")
+                                speak("Attention Attention Attention! New alert more than 5 minutes!")
+                                speak(elements_list[1].strip("\n").strip(" "))
+                                speak(elements_list[2].strip("\n").strip(" "))
+                                for element in elements_list:
+                                    print(element.strip("\n").strip(" "))
+                    else:
+                        critical_time = elements_list[1].strip("\n").strip(" ")
+                        print(f"check if there is a ticket. One critical alert is existed {critical_time}")
 
-    # handle resp results
-    for segment in segments_list:
-        if segment.xpath('.//span/i/@aria-label')[0] == 'Unhandled':
-            general_elements_list = segment.xpath('.//text()')
-            # print(general_elements_list)
-            elements_list = []
-            for general_element in general_elements_list:
-                if general_element.strip("\n").strip(" ") != "":
-                    elements_list.append(general_element)
-            # print(elements_list)
-            if elements_list[0].strip("\n").strip(" ") == 'CRITICAL':
-                if elements_list[1][0:3] == "for":
-                    if re.search(r'[0-9]([a-z])', elements_list[1]).group(1) == "m":
-                        if int(re.search(r'([0-9]+)m', elements_list[1]).group(1)) >= 5:
-                            print("New alert more than 5 minutes! See details below: ")
-                            speak("Attention Attention Attention! New alert more than 5 minutes! See details below: ")
-                            for element in elements_list:
-                                print(element.strip("\n").strip(" "))
-                else:
-                    critical_time = elements_list[1].strip("\n").strip(" ")
-                    print(f"check if there is a ticket. One critical alert is existed {critical_time}")
 
-
+# check_service_problems()
 # schedule job setup
-schedule.every(5).minutes.until('23:10').do(check_service_problems)
+schedule.every(5).minutes.until('23:05').do(check_service_problems)
 
 while True:
     schedule.run_pending()
