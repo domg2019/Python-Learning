@@ -7,6 +7,7 @@ from datetime import datetime
 from lxml import etree
 import schedule
 
+CRITICAL_ALERTS_COUNT = 8
 
 def speak(audio):
     engine = pyttsx3.init('sapi5')
@@ -55,7 +56,7 @@ def check_service_problems():
                                      if general_element.strip("\n").strip(" ") != ""]
                     if elements_list[0].strip("\n").strip(" ") == "CRITICAL":
                         critical_list.append(elements_list[0].strip("\n").strip(" "))
-            if len(critical_list) >= 8:
+            if len(critical_list) >= CRITICAL_ALERTS_COUNT:
                 speak(f"Attention Attention Attention!{len(critical_list)} unhandled critical alerts")
                 print(f"{len(critical_list)} unhandled critical alerts")
             else:
