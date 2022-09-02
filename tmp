@@ -1,3 +1,4 @@
 
 API_KEY = 'A6ZD3J6MDBZ9OH12'
 key 368c7cd7c9a542c5a519401f592c1ba9
+https://newsapi.org/v2/everything?q=tesla&from=2022-09-01&sortBy=publishedAt&apiKey=368c7cd7c9a542c5a519401f592c1ba9
