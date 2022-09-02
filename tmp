@@ -1,16 +1,3 @@
-import requests
 
-STOCK = 'TSLA'
-COMPANY_NAME = 'Tesla Inc'
 API_KEY = 'A6ZD3J6MDBZ9OH12'
-
-parameters =  {
-    'function': 'TIME_SERIES_INTRADAY',
-    'symbol': STOCK,
-    'interval': '5min',
-    'apikey': API_KEY
-}
-
-stock_url = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&outputsize=full&apikey=demo'
-resp = requests.get(stock_url, params=parameters)
-stock_data = resp.json()
+key 368c7cd7c9a542c5a519401f592c1ba9
