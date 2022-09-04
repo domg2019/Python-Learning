@@ -15,3 +15,15 @@ end_parameters = {
 }
 resp = requests.post(url=end_point, json=end_parameters)
 print(resp.text)
+
+graph_endpoint = f"{end_point}/{USERNAME}/graphs"
+graph_parameters = {
+    'id': 'graph1',
+    'name': 'Cycling Graph',
+    'unit': 'Km',
+    'type': 'float',
+    'color': 'shibafu',
+}
+
+resp = requests.post(graph_endpoint, json=graph_parameters)
+print(resp.text)
