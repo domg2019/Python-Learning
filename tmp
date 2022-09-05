@@ -35,3 +35,7 @@ https://docs.google.com/spreadsheets/d/1Gy2VZraAH3mJrHyG-h3Jk5Teo7rRu8Ne0JxkaFOs
 https://gist.github.com/mattsilv/d99cd145cc2d44d71fa5d15dd4829e03
 
 https://trackapi.nutritionix.com/v2/natural/exercise
+
+
+url = 'https://api.sheety.co/80f2c32d1920eb18ace84b51648e4b0e/workoutTracking/workouts'
+
