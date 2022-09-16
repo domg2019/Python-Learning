@@ -1,4 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet"> 
 
-https://api.sheety.co/80f2c32d1920eb18ace84b51648e4b0e/flightDeals/prices
+    font-family: 'Merriweather', serif;
 
-https://www.google.co.uk/flights?hl=en#flt=SHA.PAR.2022-11-05*PAR.SHA.2022-11-14
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Sacramento', cursive;
