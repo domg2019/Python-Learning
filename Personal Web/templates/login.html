@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+
+{% block content %}
+<head>
+    <title>Ticket Management</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            background-color: #e0f7fa;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .category {
+            border: 1px solid #ccc;
+            padding: 15px;
+            min-width: 250px;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .ticket {
+            margin: 10px 0;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+        }
+        .ticket-header {
+            cursor: pointer;
+            padding: 5px;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        .ticket-details {
+            margin-top: 10px;
+            padding: 10px;
+            border-left: 3px solid #4CAF50;
+            background: #f8f9fa;
+        }
+        .detail-item {
+            margin: 5px 0;
+            padding: 5px;
+            background: #fff;
+            border: 1px solid #eee;
+        }
+        h1 {
+            color: #333;
+        }
+        input[type="text"], button, select {
+            padding: 8px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+
+<div class="login-container">
+    <h1>用户登录</h1>
+    <form method="POST" action="{{ url_for('login') }}">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+            {{ form.username.label }}
+            {{ form.username(class="form-control") }}
+        </div>
+        <div class="form-group">
+            {{ form.password.label }}
+            {{ form.password(class="form-control") }}
+        </div>
+        {{ form.submit(class="btn btn-primary") }}
+    </form>
+    <p>没有账号？<a href="{{ url_for('register') }}">立即注册</a></p>
+</div>
+{% endblock %}

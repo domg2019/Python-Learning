@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ticket Management</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            background-color: #e0f7fa;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .category {
+            border: 1px solid #ccc;
+            padding: 15px;
+            min-width: 250px;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .ticket {
+            margin: 10px 0;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+        }
+        .ticket-header {
+            cursor: pointer;
+            padding: 5px;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        .ticket-details {
+            margin-top: 10px;
+            padding: 10px;
+            border-left: 3px solid #4CAF50;
+            background: #f8f9fa;
+        }
+        .detail-item {
+            margin: 5px 0;
+            padding: 5px;
+            background: #fff;
+            border: 1px solid #eee;
+        }
+        h1 {
+            color: #333;
+        }
+        input[type="text"], button, select {
+            padding: 8px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Collaborative Ticket System</h1>
+
+    <!-- 添加分类表单 -->
+    <form method="post" autocomplete="off">
+        <input type="text" name="new_category" placeholder="New category name">
+        <button type="submit">Add Category</button>
+    </form>
+
+    <div class="container">
+        {% for category in categories %}
+        <div class="category">
+            <h3>
+                {{ category.name }}
+                <button onclick="deleteCategory({{ category.id }})">Delete Category</button>
+            </h3>
+
+            <!-- 添加Ticket表单 -->
+            <form method="post" autocomplete="off">
+                <input type="hidden" name="category_id" value="{{ category.id }}">
+                <input type="text" name="ticket_content" placeholder="New ticket">
+                <button type="submit">Add</button>
+            </form>
+
+            <!-- Tickets列表 -->
+            {% for ticket in category.tickets|sort(attribute='timestamp', reverse=True) %}
+            <div class="ticket">
+                <div class="ticket-header" onclick="toggleDetails({{ ticket.id }})">
+                    {{ ticket.content }}
+                    <button onclick="deleteTicket({{ ticket.id }})">×</button>
+                    <div style="font-size:0.8em;color:#666">{{ ticket.timestamp.strftime('%Y-%m-%d %H:%M') }}</div>
+                </div>
+
+                <!-- 子内容折叠区域 -->
+                <div id="details-{{ ticket.id }}" class="ticket-details" style="display:none;">
+                    <!-- 现有子内容 -->
+                    {% for detail in ticket.details %}
+                    <div class="detail-item">
+                        <strong>{{ detail.field_name }}:</strong>
+                        {{ detail.field_value }}
+                        <button onclick="deleteDetail({{ detail.id }})">×</button>
+                    </div>
+                    {% endfor %}
+
+                    <!-- 添加子内容表单 -->
+                    <form class="add-detail-form" method="post" action="/add_detail/{{ ticket.id }}">
+                        <select name="field_name">
+                            <option value="Partner INFO">Partner INFO</option>
+                            <option value="Subject">Subject</option>
+                            <option value="General Resolution">General Resolution</option>
+                            <option value="Custom Field">Custom Field</option>
+                        </select>
+                        <input type="text" name="field_value" placeholder="Enter value">
+                        <button type="submit">Add Detail</button>
+                    </form>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        // 阻止页面刷新时重新提交表单
+        if (window.history.replaceState) {
+            window.history.replaceState(null, null, window.location.href);
+        }
+
+        // 自动刷新页面（每30秒）
+        setTimeout(() => location.reload(), 30000);
+
+        // AJAX删除Ticket
+        function deleteTicket(ticketId) {
+            $.ajax({
+                url: '/delete/' + ticketId,
+                type: 'GET',
+                success: () => location.reload()
+            });
+        }
+
+        // AJAX删除分类
+        function deleteCategory(categoryId) {
+            if (confirm('Are you sure you want to delete this category and all its tickets?')) {
+                $.ajax({
+                    url: '/delete_category/' + categoryId,
+                    type: 'GET',
+                    success: () => location.reload()
+                });
+            }
+        }
+
+        // 切换子内容显示
+        function toggleDetails(ticketId) {
+            const detailsDiv = document.getElementById(`details-${ticketId}`);
+            detailsDiv.style.display = detailsDiv.style.display === 'none' ? 'block' : 'none';
+        }
+
+        // AJAX删除子内容
+        function deleteDetail(detailId) {
+            if (confirm('Delete this detail?')) {
+                $.ajax({
+                    url: `/delete_detail/${detailId}`,
+                    type: 'GET',
+                    success: () => location.reload()
+                });
+            }
+        }
+
+        // 阻止表单提交后刷新（AJAX提交）
+        $(document).ready(function() {
+            $('.add-detail-form').submit(function(e) {
+                e.preventDefault();
+                const form = $(this);
+                $.ajax({
+                    url: form.attr('action'),
+                    type: 'POST',
+                    data: form.serialize(),
+                    success: () => location.reload()
+                });
+            });
+        });
+    </script>
+</body>
+</html>
