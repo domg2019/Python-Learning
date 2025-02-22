@@ -1,0 +1,601 @@
+Request Successful!02-07 15:52:56
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:53:58
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:54:59
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:56:00
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:57:01
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:58:03
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 15:59:04
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:00:05
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:01:07
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:02:08
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:03:09
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:04:11
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:05:12
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:06:13
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:07:14
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:08:16
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:09:17
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:10:18
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:11:21
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:12:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 17s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:13:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 2m 29s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:14:48
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:15:49
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:16:51
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:17:53
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:18:55
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:19:56
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:20:58
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:22:00
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:23:01
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:24:03
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:25:04
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:26:06
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:27:07
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:28:09
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:29:10
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:30:12
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:31:13
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:32:15
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:33:16
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:34:17
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:35:19
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:36:20
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:37:22
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:38:23
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:39:24
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:40:25
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:41:27
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:42:28
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:43:29
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:44:31
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:45:32
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:46:33
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:47:34
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:48:36
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:49:37
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:50:39
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:51:40
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:52:42
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:53:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 16s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 2A (Multicluster - VIP)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_2634"/"queue_16"):
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:54:54
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:55:56
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:56:58
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:57:59
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 16:59:01
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:00:02
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:01:04
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:02:05
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:03:07
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:04:09
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:05:10
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:06:12
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:07:13
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:08:15
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:09:16
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:10:19
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:11:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 47s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+check if there is a ticket. One critical alert is existed since 16:11
+check if there is a ticket. One critical alert is existed since 03:50
+Request Successful!02-07 17:52:17
+Request Successful!02-07 17:53:18
+Request Successful!02-07 17:54:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 43s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 17"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 17" ("logger_1579"/"queue_13"):
+Request Successful!02-07 17:55:32
+Request Successful!02-07 17:56:34
+Request Successful!02-07 17:57:35
+Request Successful!02-07 17:58:37
+Request Successful!02-07 17:59:38
+Request Successful!02-07 18:00:40
+Request Successful!02-07 18:01:42
+Request Successful!02-07 18:02:43
+Request Successful!02-07 18:03:45
+Request Successful!02-07 18:04:46
+Request Successful!02-07 18:05:48
+Request Successful!02-07 18:06:49
+Request Successful!02-07 18:07:51
+Request Successful!02-07 18:08:52
+Request Successful!02-07 18:09:54
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Request Successful!02-07 18:12:01
+Request Successful!02-07 18:13:03
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 50s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!02-07 18:14:14
+Request Successful!02-07 18:15:16
+Request Successful!02-07 18:16:17
+Request Successful!02-07 18:17:18
+Request Successful!02-07 18:18:19
+Request Successful!02-07 18:19:21
+Request Successful!02-07 18:20:22
+Request Successful!02-07 18:21:24
+Request Successful!02-07 18:22:26
+Request Successful!02-07 18:23:28
+Request Successful!02-07 18:24:29
+Request Successful!02-07 18:25:31
+Request Successful!02-07 18:26:33
+Request Successful!02-07 18:27:35
+Request Successful!02-07 18:28:36
+Request Successful!02-07 18:29:38
+Request Successful!02-07 18:30:39
+Request Successful!02-07 18:31:41
+Request Successful!02-07 18:32:43
+Request Successful!02-07 18:33:44
+Request Successful!02-07 18:34:46
+Request Successful!02-07 18:35:48
+Request Successful!02-07 18:36:49
+Request Successful!02-07 18:37:51
+Request Successful!02-07 18:38:52
+Request Successful!02-07 18:39:54
+Request Successful!02-07 18:40:55
+Request Successful!02-07 18:41:57
+Request Successful!02-07 18:42:58
+Request Successful!02-07 18:44:00
+Request Successful!02-07 18:45:02
+Request Successful!02-07 18:46:03
+Request Successful!02-07 18:47:05
+Request Successful!02-07 18:48:06
+Request Successful!02-07 18:49:08
+Request Successful!02-07 18:50:09
+Request Successful!02-07 18:51:10
+Request Successful!02-07 18:52:12
+Request Successful!02-07 18:53:13
+Request Successful!02-07 18:54:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 36s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!02-07 18:55:27
+Request Successful!02-07 18:56:28
+Request Successful!02-07 18:57:30
+Request Successful!02-07 18:58:31
+Request Successful!02-07 18:59:33
+Request Successful!02-07 19:00:34
+Request Successful!02-07 19:01:36
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 9s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 15"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi Logger 15" ("logger_1038"/"queue_16"):
+Request Successful!02-07 19:02:47
+Request Successful!02-07 19:03:49
+Request Successful!02-07 19:04:50
+Request Successful!02-07 19:05:53
+Request Successful!02-07 19:06:54
+Request Successful!02-07 19:07:57
+Request Successful!02-07 19:08:59
+Request Successful!02-07 19:10:02
+Request Successful!02-07 19:11:07
+Request Successful!02-07 19:12:09
+Request Successful!02-07 19:13:11
+Request Successful!02-07 19:14:14
+Request Successful!02-07 19:15:16
+Request Successful!02-07 19:16:18
+Request Successful!02-07 19:17:19
+Request Successful!02-07 19:18:21
+Request Successful!02-07 19:19:23
+Request Successful!02-07 19:20:24
+Request Successful!02-07 19:21:25
+Request Successful!02-07 19:22:27
+Request Successful!02-07 19:23:29
+Request Successful!02-07 19:24:30
+Request Successful!02-07 19:25:32
+Request Successful!02-07 19:26:33
+Request Successful!02-07 19:27:35
+Request Successful!02-07 19:28:36
+Request Successful!02-07 19:29:38
+Request Successful!02-07 19:30:39
+Request Successful!02-07 19:31:41
+Request Successful!02-07 19:32:42
+Request Successful!02-07 19:33:44
+Request Successful!02-07 19:34:45
+Request Successful!02-07 19:35:47
+Request Successful!02-07 19:36:48
+Request Successful!02-07 19:37:50
+Request Successful!02-07 19:38:51
+Request Successful!02-07 19:39:52
+Request Successful!02-07 19:40:54
+Request Successful!02-07 19:41:55
+Request Successful!02-07 19:42:57
+Request Successful!02-07 19:43:58
+Request Successful!02-07 19:45:00
+Request Successful!02-07 19:46:01
+Request Successful!02-07 19:47:03
+Request Successful!02-07 19:48:04
+Request Successful!02-07 19:49:05
+Request Successful!02-07 19:50:07
+Request Successful!02-07 19:51:08
+Request Successful!02-07 19:52:10
+Request Successful!02-07 19:53:11
+Request Successful!02-07 19:54:13
+Request Successful!02-07 19:55:14
+Request Successful!02-07 19:56:16
+Request Successful!02-07 19:57:17
+Request Successful!02-07 19:58:19
+Request Successful!02-07 19:59:20
+Request Successful!02-07 20:00:22
+Request Successful!02-07 20:01:23
+Request Successful!02-07 20:02:24
+Request Successful!02-07 20:03:26
+Request Successful!02-07 20:04:27
+Request Successful!02-07 20:05:29
+Request Successful!02-07 20:06:30
+Request Successful!02-07 20:07:32
+Request Successful!02-07 20:08:33
+Request Successful!02-07 20:09:35
+Request Successful!02-07 20:10:36
+Request Successful!02-07 20:11:38
+Request Successful!02-07 20:12:39
+Request Successful!02-07 20:13:41
+Request Successful!02-07 20:14:42
+Request Successful!02-07 20:15:44
+Request Successful!02-07 20:16:45
+Request Successful!02-07 20:17:47
+Request Successful!02-07 20:18:48
+Request Successful!02-07 20:19:50
+Request Successful!02-07 20:20:51
+Request Successful!02-07 20:21:53
+Request Successful!02-07 20:22:54
+Request Successful!02-07 20:23:56
+Request Successful!02-07 20:24:57
+Request Successful!02-07 20:25:59
+Request Successful!02-07 20:27:00
+Request Successful!02-07 20:28:02
+Request Successful!02-07 20:29:03
+Request Successful!02-07 20:30:05
+Request Successful!02-07 20:31:06
+Request Successful!02-07 20:32:08
+Request Successful!02-07 20:33:09
+Request Successful!02-07 20:34:11
+Request Successful!02-07 20:35:12
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 5s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 9"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi Logger 9" ("logger_1026"/"queue_16"):
+Request Successful!02-07 20:36:23
+Request Successful!02-07 20:37:24
+Request Successful!02-07 20:38:26
+Request Successful!02-07 20:39:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 50s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 8"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 8" ("logger_1561"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 50s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.401_SerialSTD_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.401_SerialSTD_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_7335"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 50s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 11"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 11" ("logger_1567"/"queue_13"):
+Request Successful!02-07 20:40:57
+Request Successful!02-07 20:41:58
+Request Successful!02-07 20:43:00
+Request Successful!02-07 20:44:01
+Request Successful!02-07 20:45:03
+Request Successful!02-07 20:46:04
+Request Successful!02-07 20:47:05
+Request Successful!02-07 20:48:07
+Request Successful!02-07 20:49:08
+Request Successful!02-07 20:50:10
+Request Successful!02-07 20:51:11
+Request Successful!02-07 20:52:12
+Request Successful!02-07 20:53:14
+Request Successful!02-07 20:54:15
+Request Successful!02-07 20:55:17
+Request Successful!02-07 20:56:18
+Request Successful!02-07 20:57:20
+Request Successful!02-07 20:58:21
+Request Successful!02-07 20:59:22
+Request Successful!02-07 21:00:24
+Request Successful!02-07 21:01:25
+Request Successful!02-07 21:02:27
+Request Successful!02-07 21:03:28
+Request Successful!02-07 21:04:30
+Request Successful!02-07 21:05:31
+Request Successful!02-07 21:06:33
+Request Successful!02-07 21:07:34
+Request Successful!02-07 21:08:36
+Request Successful!02-07 21:09:37
+Request Successful!02-07 21:10:39
+Request Successful!02-07 21:11:40
+Request Successful!02-07 21:12:41
+Request Successful!02-07 21:13:43
+Request Successful!02-07 21:14:44
+Request Successful!02-07 21:15:46
+Request Successful!02-07 21:16:47
+Request Successful!02-07 21:17:48
+Request Successful!02-07 21:18:50
+Request Successful!02-07 21:19:51
+Request Successful!02-07 21:20:53
+Request Successful!02-07 21:21:54
+Request Successful!02-07 21:22:56
+Request Successful!02-07 21:23:57
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 20s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 8"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 8" ("logger_1561"/"queue_13"):
+Request Successful!02-07 21:25:08
+Request Successful!02-07 21:26:10
+Request Successful!02-07 21:27:11
+Request Successful!02-07 21:28:13
+Request Successful!02-07 21:29:14
+Request Successful!02-07 21:30:16
+Request Successful!02-07 21:31:18
+Request Successful!02-07 21:32:19
+Request Successful!02-07 21:33:21
+Request Successful!02-07 21:34:22
+Request Successful!02-07 21:35:24
+Request Successful!02-07 21:36:26
+Request Successful!02-07 21:37:27
+Request Successful!02-07 21:38:29
+Request Successful!02-07 21:39:30
+Request Successful!02-07 21:40:32
+Request Successful!02-07 21:41:33
+Request Successful!02-07 21:42:35
+Request Successful!02-07 21:43:36
+Request Successful!02-07 21:44:38
+Request Successful!02-07 21:45:39
+Request Successful!02-07 21:46:41
+Request Successful!02-07 21:47:42
+Request Successful!02-07 21:48:44
+Request Successful!02-07 21:49:45
+Request Successful!02-07 21:50:47
+Request Successful!02-07 21:51:48
+Request Successful!02-07 21:52:50
+Request Successful!02-07 21:53:51
+Request Successful!02-07 21:54:53
+Request Successful!02-07 21:55:54
+Request Successful!02-07 21:56:56
+Request Successful!02-07 21:57:57
+Request Successful!02-07 21:58:59
+Request Successful!02-07 22:00:00
+Request Successful!02-07 22:01:02
+Request Successful!02-07 22:02:03
+Request Successful!02-07 22:03:05
+Request Successful!02-07 22:04:07
+Request Successful!02-07 22:05:08
+Request Successful!02-07 22:06:10
+Request Successful!02-07 22:07:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 35s
+Soft 1/2
+Check that ComSys pickup directory /app/sword/shared/mounts/nfsserver/Parallel1A/pickups/customer_parallel got no overaged entries.
+on
+Communication Server Production
+CRITICAL : /app/sword/shared/mounts/nfsserver/Parallel1A/pickups/customer_parallel holds at least one file with age of 34131s. Critical limit 3600s exceeded.
+Request Successful!02-07 22:08:23
+Request Successful!02-07 22:09:24
+Request Successful!02-07 22:10:26
+Request Successful!02-07 22:11:27
+Request Successful!02-07 22:12:29
+Request Successful!02-07 22:13:31
+Request Successful!02-07 22:14:32
+Request Successful!02-07 22:15:34
+Request Successful!02-07 22:16:35
+Request Successful!02-07 22:17:37
+Request Successful!02-07 22:18:38
+Request Successful!02-07 22:19:40
+Request Successful!02-07 22:20:41
+Request Successful!02-07 22:21:43
+Request Successful!02-07 22:22:44
+Request Successful!02-07 22:23:46
+Request Successful!02-07 22:24:47
+Request Successful!02-07 22:25:49
+Request Successful!02-07 22:26:50
+Request Successful!02-07 22:27:52
+Request Successful!02-07 22:28:53
+Request Successful!02-07 22:29:55
+Request Successful!02-07 22:30:56
+Request Successful!02-07 22:31:58
+Request Successful!02-07 22:32:59
+Request Successful!02-07 22:34:01
+Request Successful!02-07 22:35:02
+Request Successful!02-07 22:36:04
+Request Successful!02-07 22:37:05
+Request Successful!02-07 22:38:07
+Request Successful!02-07 22:39:08
+Request Successful!02-07 22:40:10
+Request Successful!02-07 22:41:11
+Request Successful!02-07 22:42:13
+Request Successful!02-07 22:43:14
+Request Successful!02-07 22:44:15
+Request Successful!02-07 22:45:17
+Request Successful!02-07 22:46:18
+Request Successful!02-07 22:47:20
+Request Successful!02-07 22:48:21
+Request Successful!02-07 22:49:23
+Request Successful!02-07 22:50:24
+Request Successful!02-07 22:51:26
+Request Successful!02-07 22:52:27
+Request Successful!02-07 22:53:29
+Request Successful!02-07 22:54:30
+Request Successful!02-07 22:55:31
+Request Successful!02-07 22:56:33
+Request Successful!02-07 22:57:35
+Request Successful!02-07 22:58:36
+Request Successful!02-07 22:59:37
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Request Successful!02-07 23:04:33
+Request Successful!02-07 23:05:35
+Request Successful!02-07 23:06:36
+Request Successful!02-07 23:07:37
+Request Successful!02-07 23:08:39
+Request Successful!02-07 23:09:40
+Request Successful!02-07 23:10:42
+Request Successful!02-07 23:11:43
+Request Successful!02-07 23:12:45
+Request Successful!02-07 23:13:46
+Request Successful!02-07 23:14:48
+Request Successful!02-07 23:15:50
+Request Successful!02-07 23:16:51
+Request Successful!02-07 23:17:53
+Request Successful!02-07 23:18:54
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 20s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!02-07 23:20:05
+Request Successful!02-07 23:21:07
+Request Successful!02-07 23:22:08
+Request Successful!02-07 23:23:10
+Request Successful!02-07 23:24:11
+Request Successful!02-07 23:25:13
+Request Successful!02-07 23:26:14
+Request Successful!02-07 23:27:16
+Request Successful!02-07 23:28:17
+Request Successful!02-07 23:29:19
+Request Successful!02-07 23:30:20
+Request Successful!02-07 23:31:21

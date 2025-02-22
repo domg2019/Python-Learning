@@ -1,0 +1,166 @@
+Request Successful!11-24 16:07:23
+Request Successful!11-24 16:10:24
+Request Successful!11-24 16:13:26
+Request Successful!11-24 16:16:27
+Request Successful!11-24 16:19:28
+Request Successful!11-24 16:22:30
+Request Successful!11-24 16:25:32
+Request Successful!11-24 16:28:33
+Request Successful!11-24 16:31:35
+Request Successful!11-24 16:34:36
+Request Successful!11-24 16:37:37
+Request Successful!11-24 16:40:39
+Request Successful!11-24 16:43:40
+Request Successful!11-24 16:46:42
+Request Successful!11-24 16:49:43
+Request Successful!11-24 16:52:44
+Request Successful!11-24 16:55:46
+Request Successful!11-24 16:58:47
+Request Successful!11-24 17:01:49
+Request Successful!11-24 17:04:50
+Request Successful!11-24 17:07:51
+Request Successful!11-24 17:10:53
+Request Successful!11-24 17:13:55
+Request Successful!11-24 17:16:56
+Request Successful!11-24 17:19:58
+Request Successful!11-24 17:22:59
+Request Successful!11-24 17:26:01
+Request Successful!11-24 17:29:02
+Request Successful!11-24 17:32:04
+Request Successful!11-24 17:35:06
+Request Successful!11-24 17:38:08
+Request Successful!11-24 17:41:09
+Request Successful!11-24 17:44:11
+Request Successful!11-24 17:47:13
+Request Successful!11-24 17:50:14
+Request Successful!11-24 17:53:16
+Request Successful!11-24 17:56:18
+Request Successful!11-24 17:59:19
+Request Successful!11-24 18:02:21
+Request Successful!11-24 18:05:22
+Request Successful!11-24 18:08:24
+Request Successful!11-24 18:11:25
+Request Successful!11-24 18:14:27
+Request Successful!11-24 18:17:29
+Request Successful!11-24 18:20:30
+Request Successful!11-24 18:23:32
+Request Successful!11-24 18:26:33
+Request Successful!11-24 18:29:35
+Request Successful!11-24 18:32:37
+Request Successful!11-24 18:35:38
+Request Successful!11-24 18:38:40
+Request Successful!11-24 18:41:42
+Request Successful!11-24 18:44:43
+Request Successful!11-24 18:47:45
+Request Successful!11-24 18:50:47
+Request Successful!11-24 18:53:49
+Request Successful!11-24 18:56:50
+Request Successful!11-24 18:59:52
+Request Successful!11-24 19:02:53
+Request Successful!11-24 19:05:55
+Request Successful!11-24 19:08:56
+Request Successful!11-24 19:11:58
+Request Successful!11-24 19:15:00
+Request Successful!11-24 19:18:01
+Request Successful!11-24 19:21:03
+Request Successful!11-24 19:24:05
+Request Successful!11-24 19:27:07
+Request Successful!11-24 19:30:08
+Request Successful!11-24 19:33:10
+Request Successful!11-24 19:36:12
+Request Successful!11-24 19:39:14
+Request Successful!11-24 19:42:16
+Request Successful!11-24 19:45:17
+Request Successful!11-24 19:48:19
+Request Successful!11-24 19:51:21
+Request Successful!11-24 19:54:23
+Request Successful!11-24 19:57:24
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 17s
+B2Bi queue health: "B2Bi Logger 13"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 13" ("logger_1519"/"queue_13"):
+Request Successful!11-24 20:00:38
+Request Successful!11-24 20:03:40
+Request Successful!11-24 20:06:42
+Request Successful!11-24 20:09:44
+Request Successful!11-24 20:12:46
+Request Successful!11-24 20:15:47
+Request Successful!11-24 20:18:49
+Request Successful!11-24 20:21:51
+Request Successful!11-24 20:24:52
+Request Successful!11-24 20:27:54
+Request Successful!11-24 20:30:56
+Request Successful!11-24 20:33:57
+Request Successful!11-24 20:36:59
+Request Successful!11-24 20:40:01
+Request Successful!11-24 20:43:02
+Request Successful!11-24 20:46:04
+Request Successful!11-24 20:49:05
+Request Successful!11-24 20:52:07
+Request Successful!11-24 20:55:09
+Request Successful!11-24 20:58:10
+Request Successful!11-24 21:01:13
+Request Successful!11-24 21:04:15
+Request Successful!11-24 21:07:17
+Request Successful!11-24 21:10:19
+Request Successful!11-24 21:13:21
+Request Successful!11-24 21:16:22
+Request Successful!11-24 21:19:24
+Request Successful!11-24 21:22:26
+Request Successful!11-24 21:25:28
+Request Successful!11-24 21:28:29
+Request Successful!11-24 21:31:31
+Request Successful!11-24 21:34:33
+Request Successful!11-24 21:37:34
+Request Successful!11-24 21:40:36
+Request Successful!11-24 21:43:37
+Request Successful!11-24 21:46:39
+Request Successful!11-24 21:49:41
+Request Successful!11-24 21:52:42
+Request Successful!11-24 21:55:44
+Request Successful!11-24 21:58:45
+Request Successful!11-24 22:01:47
+Request Successful!11-24 22:04:49
+Request Successful!11-24 22:07:50
+Request Successful!11-24 22:10:52
+Request Successful!11-24 22:13:54
+Request Successful!11-24 22:16:55
+Request Successful!11-24 22:19:56
+Request Successful!11-24 22:22:58
+Request Successful!11-24 22:25:59
+Request Successful!11-24 22:29:01
+Request Successful!11-24 22:32:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 43s
+B2Bi queue health: "B2Bi Logger 6"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi Logger 6" ("logger_956"/"queue_13"):
+Request Successful!11-24 22:35:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 55s
+B2Bi queue health: "B2Bi Logger 6"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi Logger 6" ("logger_956"/"queue_13"):
+Request Successful!11-24 22:38:26
+Request Successful!11-24 22:41:28
+Request Successful!11-24 22:44:29
+Request Successful!11-24 22:47:30
+Request Successful!11-24 22:50:32
+Request Successful!11-24 22:53:33
+Request Successful!11-24 22:56:35
+Request Successful!11-24 22:59:36
+Request Successful!11-24 23:02:37
+Request Successful!11-24 23:05:39
+Request Successful!11-24 23:08:40
+Request Successful!11-24 23:11:42
+Request Successful!11-24 23:14:43
+Request Successful!11-24 23:17:44
+Request Successful!11-24 23:20:46
+Request Successful!11-24 23:23:47

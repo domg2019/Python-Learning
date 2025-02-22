@@ -1,0 +1,248 @@
+Request Successful!10-13 15:34:01
+Request Successful!10-13 15:37:03
+Request Successful!10-13 15:40:04
+Request Successful!10-13 15:43:06
+Request Successful!10-13 15:46:07
+Request Successful!10-13 15:49:08
+Request Successful!10-13 15:52:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 28s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/13) error subdirectories.
+Request Successful!10-13 15:55:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 41s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/13) error subdirectories.
+Request Successful!10-13 15:58:34
+Request Successful!10-13 16:01:35
+Request Successful!10-13 16:04:37
+Request Successful!10-13 16:07:38
+Request Successful!10-13 16:10:39
+Request Successful!10-13 16:13:41
+Request Successful!10-13 16:16:42
+Request Successful!10-13 16:19:44
+Request Successful!10-13 16:22:45
+Request Successful!10-13 16:25:46
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 0s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/13) error subdirectories.
+Request Successful!10-13 16:28:58
+Request Successful!10-13 16:32:00
+Request Successful!10-13 16:35:01
+Request Successful!10-13 16:38:02
+Request Successful!10-13 16:41:04
+Request Successful!10-13 16:44:05
+Request Successful!10-13 16:47:06
+Request Successful!10-13 16:50:08
+Request Successful!10-13 16:53:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 20s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/13) error subdirectories.
+Request Successful!10-13 16:56:21
+Request Successful!10-13 16:59:22
+Request Successful!10-13 17:02:23
+Request Successful!10-13 17:05:25
+Request Successful!10-13 17:08:26
+Request Successful!10-13 17:11:27
+Request Successful!10-13 17:14:29
+Request Successful!10-13 17:17:30
+Request Successful!10-13 17:20:32
+Request Successful!10-13 17:23:33
+Request Successful!10-13 17:26:34
+Request Successful!10-13 17:29:36
+Request Successful!10-13 17:32:37
+Request Successful!10-13 17:35:38
+Request Successful!10-13 17:38:40
+Request Successful!10-13 17:41:41
+Request Successful!10-13 17:44:43
+Request Successful!10-13 17:47:44
+Request Successful!10-13 17:50:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 44s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!10-13 17:53:58
+Request Successful!10-13 17:56:59
+Request Successful!10-13 18:00:01
+Request Successful!10-13 18:03:02
+Request Successful!10-13 18:06:03
+Request Successful!10-13 18:09:05
+Request Successful!10-13 18:12:06
+Request Successful!10-13 18:15:07
+Request Successful!10-13 18:18:09
+Request Successful!10-13 18:21:10
+Request Successful!10-13 18:24:11
+Request Successful!10-13 18:27:13
+Request Successful!10-13 18:30:14
+Request Successful!10-13 18:33:15
+Request Successful!10-13 18:36:17
+Request Successful!10-13 18:39:18
+Request Successful!10-13 18:42:19
+Request Successful!10-13 18:45:21
+Request Successful!10-13 18:48:22
+Request Successful!10-13 18:51:23
+Request Successful!10-13 18:54:25
+Request Successful!10-13 18:57:26
+Request Successful!10-13 19:00:28
+Request Successful!10-13 19:03:29
+Request Successful!10-13 19:06:31
+Request Successful!10-13 19:09:32
+Request Successful!10-13 19:12:33
+Request Successful!10-13 19:15:35
+Request Successful!10-13 19:18:36
+Request Successful!10-13 19:21:38
+Request Successful!10-13 19:24:39
+Request Successful!10-13 19:27:40
+Request Successful!10-13 19:30:42
+Request Successful!10-13 19:33:43
+Request Successful!10-13 19:36:44
+Request Successful!10-13 19:39:46
+Request Successful!10-13 19:42:47
+Request Successful!10-13 19:45:48
+Request Successful!10-13 19:48:50
+Request Successful!10-13 19:51:51
+Request Successful!10-13 19:54:53
+Request Successful!10-13 19:57:54
+Request Successful!10-13 20:00:56
+Request Successful!10-13 20:03:57
+Request Successful!10-13 20:06:58
+Request Successful!10-13 20:10:00
+Request Successful!10-13 20:13:01
+Request Successful!10-13 20:16:02
+Request Successful!10-13 20:19:04
+Request Successful!10-13 20:22:05
+Request Successful!10-13 20:25:07
+Request Successful!10-13 20:28:08
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-13 20:31:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 16s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-13 20:34:32
+Request Successful!10-13 20:37:33
+Request Successful!10-13 20:40:35
+Request Successful!10-13 20:43:36
+Request Successful!10-13 20:46:38
+Request Successful!10-13 20:49:39
+Request Successful!10-13 20:52:40
+Request Successful!10-13 20:55:42
+Request Successful!10-13 20:58:43
+Request Successful!10-13 21:01:45
+Request Successful!10-13 21:04:47
+Request Successful!10-13 21:07:48
+Request Successful!10-13 21:10:50
+Request Successful!10-13 21:13:51
+Request Successful!10-13 21:16:53
+Request Successful!10-13 21:19:55
+Request Successful!10-13 21:22:56
+Request Successful!10-13 21:25:58
+Request Successful!10-13 21:28:59
+Request Successful!10-13 21:32:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 59s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!10-13 21:35:13
+Request Successful!10-13 21:38:15
+Request Successful!10-13 21:41:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 16s
+Check disk /
+on
+Communication Server 1 Production
+/ 18.50 GiB (92.55%)
+/ 18.50 GiB (92.55%)
+DISK CRITICAL - free space: / 1524 MB (7.44% inode=95%);
+Request Successful!10-13 21:44:28
+Request Successful!10-13 21:47:30
+Request Successful!10-13 21:50:31
+Request Successful!10-13 21:53:33
+Request Successful!10-13 21:56:34
+Request Successful!10-13 21:59:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 34s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!10-13 22:02:48
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 46s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!10-13 22:06:00
+Request Successful!10-13 22:09:02
+Request Successful!10-13 22:12:03
+Request Successful!10-13 22:15:05
+Request Successful!10-13 22:18:06
+Request Successful!10-13 22:21:07
+Request Successful!10-13 22:24:08
+Request Successful!10-13 22:27:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 54s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/13) error subdirectories.
+Request Successful!10-13 22:30:22
+Request Successful!10-13 22:33:23
+Request Successful!10-13 22:36:25
+Request Successful!10-13 22:39:26
+Request Successful!10-13 22:42:27
+Request Successful!10-13 22:45:29
+Request Successful!10-13 22:48:30
+Request Successful!10-13 22:51:31
+Request Successful!10-13 22:54:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 40s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-13 22:57:44
+Request Successful!10-13 23:00:46
+Request Successful!10-13 23:03:47
+Request Successful!10-13 23:06:48
+Request Successful!10-13 23:09:50
+Request Successful!10-13 23:12:51
+Request Successful!10-13 23:15:53
+Request Successful!10-13 23:18:54
+Request Successful!10-13 23:21:55

@@ -1,0 +1,216 @@
+Request Successful!01-14 16:31:38
+Request Successful!01-14 16:34:41
+Request Successful!01-14 16:37:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 17s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 22s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 54s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1A
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-14 16:41:16
+Request Successful!01-14 16:44:19
+Request Successful!01-14 16:47:21
+Request Successful!01-14 16:50:23
+Request Successful!01-14 16:53:26
+Request Successful!01-14 16:56:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 52s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 1 files in todays (2025/01/14) error subdirectories.
+Request Successful!01-14 16:59:40
+Request Successful!01-14 17:02:43
+Request Successful!01-14 17:05:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 59s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 29s
+B2Bi queue health: "B2Bi TA FILE IB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA FILE IB Task" ("transadapt_979__receive_968"/"queue_13"):
+Request Successful!01-14 17:09:09
+Request Successful!01-14 17:12:11
+Request Successful!01-14 17:15:13
+Request Successful!01-14 17:18:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 39s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 24s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_15_Out_CASE_DeliveryType"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_15_Out_CASE_DeliveryType" ("hierchmessage_7512"/"queue_13"):
+Request Successful!01-14 17:21:45
+Request Successful!01-14 17:24:48
+Request Successful!01-14 17:27:50
+Request Successful!01-14 17:30:52
+Request Successful!01-14 17:33:54
+Request Successful!01-14 17:36:57
+Request Successful!01-14 17:39:59
+Request Successful!01-14 17:43:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 20s
+Check size of queue "LQ.CUST3C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-14 17:46:13
+Request Successful!01-14 17:49:15
+Request Successful!01-14 17:52:17
+Request Successful!01-14 17:55:19
+Request Successful!01-14 17:58:21
+Request Successful!01-14 18:01:23
+Request Successful!01-14 18:04:26
+Request Successful!01-14 18:07:27
+Request Successful!01-14 18:10:29
+Request Successful!01-14 18:13:31
+Request Successful!01-14 18:16:33
+Request Successful!01-14 18:19:35
+Request Successful!01-14 18:22:37
+Request Successful!01-14 18:25:39
+Request Successful!01-14 18:28:41
+Request Successful!01-14 18:31:43
+Request Successful!01-14 18:34:45
+Request Successful!01-14 18:37:47
+Request Successful!01-14 18:40:49
+Request Successful!01-14 18:43:51
+Request Successful!01-14 18:46:53
+Request Successful!01-14 18:49:55
+Request Successful!01-14 18:52:58
+Request Successful!01-14 18:56:00
+Request Successful!01-14 18:59:03
+Request Successful!01-14 19:02:08
+Request Successful!01-14 19:05:10
+Request Successful!01-14 19:08:13
+Request Successful!01-14 19:11:15
+Request Successful!01-14 19:14:17
+Request Successful!01-14 19:17:20
+Request Successful!01-14 19:20:23
+Request Successful!01-14 19:23:25
+Request Successful!01-14 19:26:27
+Request Successful!01-14 19:29:30
+Request Successful!01-14 19:32:38
+Request Successful!01-14 19:35:40
+Request Successful!01-14 19:38:43
+Request Successful!01-14 19:41:46
+Request Successful!01-14 19:44:48
+Request Successful!01-14 19:47:51
+Request Successful!01-14 19:50:54
+Request Successful!01-14 19:53:56
+Request Successful!01-14 19:56:59
+Request Successful!01-14 20:00:02
+Request Successful!01-14 20:03:05
+Request Successful!01-14 20:06:08
+Request Successful!01-14 20:09:10
+Request Successful!01-14 20:12:12
+Request Successful!01-14 20:15:15
+Request Successful!01-14 20:18:18
+Request Successful!01-14 20:21:21
+Request Successful!01-14 20:24:24
+Request Successful!01-14 20:27:26
+Request Successful!01-14 20:30:29
+Request Successful!01-14 20:33:31
+Request Successful!01-14 20:36:33
+Request Successful!01-14 20:39:36
+Request Successful!01-14 20:42:38
+Request Successful!01-14 20:45:41
+Request Successful!01-14 20:48:43
+Request Successful!01-14 20:51:45
+Request Successful!01-14 20:54:47
+Request Successful!01-14 20:57:51
+Request Successful!01-14 21:00:53
+Request Successful!01-14 21:03:55
+Request Successful!01-14 21:06:58
+Request Successful!01-14 21:10:00
+Request Successful!01-14 21:13:02
+Request Successful!01-14 21:16:04
+Request Successful!01-14 21:19:06
+Request Successful!01-14 21:22:08
+Request Successful!01-14 21:25:10
+Request Successful!01-14 21:28:12
+Request Successful!01-14 21:31:14
+Request Successful!01-14 21:34:16
+Request Successful!01-14 21:37:19
+Request Successful!01-14 21:40:21
+Request Successful!01-14 21:43:23
+Request Successful!01-14 21:46:25
+Request Successful!01-14 21:49:27
+Request Successful!01-14 21:52:30
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 25s
+B2Bi queue health: "B2Bi TA B2BXGI IB Task"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi TA B2BXGI IB Task" ("transadapt_964__receive_959"/"queue_13"):
+Request Successful!01-14 21:55:43
+Request Successful!01-14 21:58:45
+Request Successful!01-14 22:01:47
+Request Successful!01-14 22:04:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 23s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!01-14 22:08:02
+Request Successful!01-14 22:11:04
+Request Successful!01-14 22:14:06
+Request Successful!01-14 22:17:08
+Request Successful!01-14 22:20:10
+Request Successful!01-14 22:23:12
+Request Successful!01-14 22:26:14
+Request Successful!01-14 22:29:16
+Request Successful!01-14 22:32:18
+Request Successful!01-14 22:35:20
+Request Successful!01-14 22:38:22
+Request Successful!01-14 22:41:24
+Request Successful!01-14 22:44:25
+Request Successful!01-14 22:47:27
+Request Successful!01-14 22:50:29
+Request Successful!01-14 22:53:30
+Request Successful!01-14 22:56:32
+Request Successful!01-14 22:59:34
+Request Successful!01-14 23:02:36
+Request Successful!01-14 23:05:37
+Request Successful!01-14 23:08:39
+Request Successful!01-14 23:11:41
+Request Successful!01-14 23:14:42
+Request Successful!01-14 23:17:44
+Request Successful!01-14 23:20:46
+Request Successful!01-14 23:23:48

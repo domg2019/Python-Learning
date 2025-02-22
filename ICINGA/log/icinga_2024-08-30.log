@@ -1,0 +1,192 @@
+Request Successful!08-30 15:24:50
+('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+Request Successful!08-30 15:32:17
+Request Successful!08-30 15:35:18
+Request Successful!08-30 15:38:20
+Request Successful!08-30 15:41:22
+Request Successful!08-30 15:44:23
+Request Successful!08-30 15:47:25
+Request Successful!08-30 15:50:26
+Request Successful!08-30 15:53:28
+Request Successful!08-30 15:56:29
+Request Successful!08-30 15:59:31
+Request Successful!08-30 16:02:33
+Request Successful!08-30 16:05:34
+Request Successful!08-30 16:08:36
+Request Successful!08-30 16:11:37
+Request Successful!08-30 16:14:39
+Request Successful!08-30 16:17:40
+Request Successful!08-30 16:20:42
+Request Successful!08-30 16:23:43
+Request Successful!08-30 16:26:45
+Request Successful!08-30 16:29:46
+Request Successful!08-30 16:32:48
+Request Successful!08-30 16:35:49
+Request Successful!08-30 16:38:51
+Request Successful!08-30 16:41:52
+Request Successful!08-30 16:44:53
+Request Successful!08-30 16:47:55
+Request Successful!08-30 16:50:56
+Request Successful!08-30 16:53:57
+Request Successful!08-30 16:56:59
+Request Successful!08-30 17:00:00
+Request Successful!08-30 17:03:01
+Request Successful!08-30 17:06:05
+Request Successful!08-30 17:09:07
+Request Successful!08-30 17:12:09
+Request Successful!08-30 17:15:10
+Request Successful!08-30 17:18:11
+Request Successful!08-30 17:21:13
+Request Successful!08-30 17:24:14
+Request Successful!08-30 17:27:16
+Request Successful!08-30 17:30:17
+Request Successful!08-30 17:33:18
+Request Successful!08-30 17:36:20
+Request Successful!08-30 17:39:21
+Request Successful!08-30 17:42:22
+Request Successful!08-30 17:45:24
+Request Successful!08-30 17:48:25
+Request Successful!08-30 17:51:26
+Request Successful!08-30 17:54:28
+Request Successful!08-30 17:57:29
+Request Successful!08-30 18:00:31
+Request Successful!08-30 18:03:32
+Request Successful!08-30 18:06:33
+Request Successful!08-30 18:09:35
+Request Successful!08-30 18:12:36
+Request Successful!08-30 18:15:37
+Request Successful!08-30 18:18:39
+Request Successful!08-30 18:21:40
+Request Successful!08-30 18:24:41
+Request Successful!08-30 18:27:43
+Request Successful!08-30 18:30:44
+Request Successful!08-30 18:33:45
+Request Successful!08-30 18:36:47
+Request Successful!08-30 18:39:48
+Request Successful!08-30 18:42:49
+Request Successful!08-30 18:45:51
+Request Successful!08-30 18:48:52
+Request Successful!08-30 18:51:53
+Request Successful!08-30 18:54:58
+Request Successful!08-30 18:57:59
+Request Successful!08-30 19:01:01
+Request Successful!08-30 19:04:02
+Request Successful!08-30 19:07:04
+Request Successful!08-30 19:10:05
+Request Successful!08-30 19:13:06
+Request Successful!08-30 19:16:08
+Request Successful!08-30 19:19:09
+Request Successful!08-30 19:22:11
+Request Successful!08-30 19:25:12
+Request Successful!08-30 19:28:13
+Request Successful!08-30 19:31:15
+Request Successful!08-30 19:34:16
+Request Successful!08-30 19:37:17
+Request Successful!08-30 19:40:19
+Request Successful!08-30 19:43:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 19s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_9931"/"queue_16"):
+Request Successful!08-30 19:46:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 31s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_9931"/"queue_16"):
+Request Successful!08-30 19:49:44
+Request Successful!08-30 19:52:46
+Request Successful!08-30 19:55:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 11s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/08/30) error subdirectories.
+Request Successful!08-30 19:58:59
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 39s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!08-30 20:02:12
+Request Successful!08-30 20:05:13
+Request Successful!08-30 20:08:14
+Request Successful!08-30 20:11:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 56s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_tafr
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 101466 entries in mon_events_processing_tafr. Critical threshold 100000 breached!
+Request Successful!08-30 20:14:28
+Request Successful!08-30 20:17:29
+Request Successful!08-30 20:20:30
+Request Successful!08-30 20:23:31
+Request Successful!08-30 20:26:33
+Request Successful!08-30 20:29:35
+Request Successful!08-30 20:32:36
+Request Successful!08-30 20:35:37
+Request Successful!08-30 20:38:39
+Request Successful!08-30 20:41:40
+Request Successful!08-30 20:44:41
+Request Successful!08-30 20:47:43
+Request Successful!08-30 20:50:44
+Request Successful!08-30 20:53:45
+Request Successful!08-30 20:56:46
+Request Successful!08-30 20:59:48
+Request Successful!08-30 21:02:49
+Request Successful!08-30 21:05:50
+Request Successful!08-30 21:08:52
+Request Successful!08-30 21:11:53
+Request Successful!08-30 21:14:54
+Request Successful!08-30 21:17:56
+Request Successful!08-30 21:20:57
+Request Successful!08-30 21:23:59
+Request Successful!08-30 21:27:00
+Request Successful!08-30 21:30:02
+Request Successful!08-30 21:33:03
+Request Successful!08-30 21:36:05
+Request Successful!08-30 21:39:06
+Request Successful!08-30 21:42:07
+Request Successful!08-30 21:45:08
+Request Successful!08-30 21:48:10
+Request Successful!08-30 21:51:11
+Request Successful!08-30 21:54:12
+Request Successful!08-30 21:57:14
+Request Successful!08-30 22:00:15
+Request Successful!08-30 22:03:16
+Request Successful!08-30 22:06:18
+Request Successful!08-30 22:09:19
+Request Successful!08-30 22:12:20
+Request Successful!08-30 22:15:22
+Request Successful!08-30 22:18:23
+Request Successful!08-30 22:21:24
+Request Successful!08-30 22:24:26
+Request Successful!08-30 22:27:27
+Request Successful!08-30 22:30:28
+Request Successful!08-30 22:33:30
+Request Successful!08-30 22:36:31
+Request Successful!08-30 22:39:32
+Request Successful!08-30 22:42:34
+Request Successful!08-30 22:45:35
+Request Successful!08-30 22:48:36
+Request Successful!08-30 22:51:38
+Request Successful!08-30 22:54:39
+Request Successful!08-30 22:57:40
+Request Successful!08-30 23:00:42
+Request Successful!08-30 23:03:43
+Request Successful!08-30 23:06:44
+Request Successful!08-30 23:09:46
+Request Successful!08-30 23:12:47
+Request Successful!08-30 23:15:48
+Request Successful!08-30 23:18:49

@@ -1,0 +1,190 @@
+Request Successful!07-08 15:34:24
+Request Successful!07-08 15:37:26
+Request Successful!07-08 15:40:28
+Request Successful!07-08 15:43:30
+Request Successful!07-08 15:46:31
+Request Successful!07-08 15:49:33
+Request Successful!07-08 15:52:35
+Request Successful!07-08 15:55:37
+Request Successful!07-08 15:58:39
+Request Successful!07-08 16:01:41
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 0s
+Check memory
+on
+B2Bi Application Server - Stream 1B
+MEMORY CRITICAL - 9.88842% Free - Total:68.5371G Active:50.0415G Inactive:6.8023G Buffers:1.52588e-05G Cached:6.1894G
+Request Successful!07-08 16:04:53
+Request Successful!07-08 16:07:55
+Request Successful!07-08 16:10:58
+Request Successful!07-08 16:14:01
+Request Successful!07-08 16:17:03
+Request Successful!07-08 16:20:05
+Request Successful!07-08 16:23:06
+Request Successful!07-08 16:26:08
+Request Successful!07-08 16:29:10
+Request Successful!07-08 16:32:12
+Request Successful!07-08 16:35:14
+Request Successful!07-08 16:38:17
+Request Successful!07-08 16:41:20
+Request Successful!07-08 16:44:23
+Request Successful!07-08 16:47:25
+Request Successful!07-08 16:50:27
+Request Successful!07-08 16:53:29
+Request Successful!07-08 16:56:31
+Request Successful!07-08 16:59:33
+Request Successful!07-08 17:02:38
+Request Successful!07-08 17:05:39
+Request Successful!07-08 17:08:47
+Request Successful!07-08 17:11:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 42s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : No data received from host
+Request Successful!07-08 17:15:02
+Request Successful!07-08 17:18:04
+Request Successful!07-08 17:21:06
+Request Successful!07-08 17:24:08
+Request Successful!07-08 17:27:11
+Request Successful!07-08 17:30:14
+Request Successful!07-08 17:33:16
+Request Successful!07-08 17:36:19
+Request Successful!07-08 17:39:21
+Request Successful!07-08 17:42:23
+Request Successful!07-08 17:45:26
+Request Successful!07-08 17:48:28
+Request Successful!07-08 17:51:30
+Request Successful!07-08 17:54:33
+Request Successful!07-08 17:57:35
+Request Successful!07-08 18:00:37
+Request Successful!07-08 18:03:39
+Request Successful!07-08 18:06:41
+Request Successful!07-08 18:09:42
+Request Successful!07-08 18:12:44
+Request Successful!07-08 18:15:46
+Request Successful!07-08 18:18:48
+Request Successful!07-08 18:21:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 10s
+Query DB611 for messages in QueuedProduction state
+on
+b2biprddb3.sl3.comp.db.de
+CRIT : 1C : 31 messages (older than 30 minutes) in QueuedProduction state : CRITICAL threshold (25) exceeded!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 22s
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1C
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!07-08 18:25:13
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 33s
+Query DB611 for messages in QueuedProduction state
+on
+b2biprddb3.sl3.comp.db.de
+CRIT : 1C : 31 messages (older than 30 minutes) in QueuedProduction state : CRITICAL threshold (25) exceeded!
+Request Successful!07-08 18:28:26
+Request Successful!07-08 18:31:28
+Request Successful!07-08 18:34:29
+Request Successful!07-08 18:37:31
+Request Successful!07-08 18:40:33
+Request Successful!07-08 18:43:35
+Request Successful!07-08 18:46:38
+Request Successful!07-08 18:49:40
+Request Successful!07-08 18:52:43
+Request Successful!07-08 18:55:45
+Request Successful!07-08 18:58:48
+Request Successful!07-08 19:01:50
+Request Successful!07-08 19:04:52
+Request Successful!07-08 19:07:54
+Request Successful!07-08 19:10:56
+Request Successful!07-08 19:13:58
+Request Successful!07-08 19:16:59
+Request Successful!07-08 19:20:01
+Request Successful!07-08 19:23:03
+Request Successful!07-08 19:26:05
+Request Successful!07-08 19:29:06
+Request Successful!07-08 19:32:08
+Request Successful!07-08 19:35:10
+Request Successful!07-08 19:38:12
+Request Successful!07-08 19:41:13
+Request Successful!07-08 19:44:15
+Request Successful!07-08 19:47:17
+Request Successful!07-08 19:50:19
+Request Successful!07-08 19:53:20
+Request Successful!07-08 19:56:22
+Request Successful!07-08 19:59:24
+Request Successful!07-08 20:02:26
+Request Successful!07-08 20:05:27
+Request Successful!07-08 20:08:29
+Request Successful!07-08 20:11:31
+Request Successful!07-08 20:14:33
+Request Successful!07-08 20:17:35
+Request Successful!07-08 20:20:37
+Request Successful!07-08 20:23:39
+Request Successful!07-08 20:26:40
+Request Successful!07-08 20:29:42
+Request Successful!07-08 20:32:44
+Request Successful!07-08 20:35:46
+Request Successful!07-08 20:38:47
+Request Successful!07-08 20:41:49
+Request Successful!07-08 20:44:51
+Request Successful!07-08 20:47:53
+Request Successful!07-08 20:50:54
+Request Successful!07-08 20:53:56
+Request Successful!07-08 20:56:58
+Request Successful!07-08 21:00:00
+Request Successful!07-08 21:03:02
+Request Successful!07-08 21:06:03
+Request Successful!07-08 21:09:05
+Request Successful!07-08 21:12:07
+Request Successful!07-08 21:15:09
+Request Successful!07-08 21:18:10
+Request Successful!07-08 21:21:12
+Request Successful!07-08 21:24:14
+Request Successful!07-08 21:27:16
+Request Successful!07-08 21:30:17
+Request Successful!07-08 21:33:19
+Request Successful!07-08 21:36:21
+Request Successful!07-08 21:39:23
+Request Successful!07-08 21:42:26
+Request Successful!07-08 21:45:27
+Request Successful!07-08 21:48:29
+Request Successful!07-08 21:51:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 50s
+Check memory
+on
+B2Bi Application Server - Stream 1B
+MEMORY CRITICAL - 8.05561% Free - Total:68.5371G Active:46.9503G Inactive:4.10906G Buffers:3.8147e-06G Cached:0.883747G
+Request Successful!07-08 21:54:42
+Request Successful!07-08 21:57:44
+Request Successful!07-08 22:00:46
+Request Successful!07-08 22:03:48
+Request Successful!07-08 22:06:50
+Request Successful!07-08 22:09:51
+Request Successful!07-08 22:12:53
+Request Successful!07-08 22:15:55
+Request Successful!07-08 22:18:56
+Request Successful!07-08 22:21:58
+Request Successful!07-08 22:25:00
+Request Successful!07-08 22:28:02
+Request Successful!07-08 22:31:04
+Request Successful!07-08 22:34:05
+Request Successful!07-08 22:37:07
+Request Successful!07-08 22:40:09
+Request Successful!07-08 22:43:10
+Request Successful!07-08 22:46:12
+Request Successful!07-08 22:49:14
+Request Successful!07-08 22:52:16
+Request Successful!07-08 22:55:17
+Request Successful!07-08 22:58:19
+Request Successful!07-08 23:01:21

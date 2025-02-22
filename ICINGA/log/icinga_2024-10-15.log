@@ -1,0 +1,206 @@
+Request Successful!10-15 16:02:45
+Request Successful!10-15 16:05:47
+check if there is a ticket. One critical alert is existed since 07:05
+Request Successful!10-15 16:08:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 49s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineBranch_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineBranch_HM" ("hierchmessage_7550"/"queue_13"):
+check if there is a ticket. One critical alert is existed since 07:05
+Request Successful!10-15 16:12:02
+check if there is a ticket. One critical alert is existed since 07:05
+Request Successful!10-15 16:15:03
+check if there is a ticket. One critical alert is existed since 07:05
+Request Successful!10-15 16:18:05
+check if there is a ticket. One critical alert is existed since 07:05
+Request Successful!10-15 16:21:07
+Request Successful!10-15 16:24:08
+Request Successful!10-15 16:27:10
+Request Successful!10-15 16:30:12
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 36s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-15 16:33:24
+Request Successful!10-15 16:36:26
+Request Successful!10-15 16:39:27
+Request Successful!10-15 16:42:29
+Request Successful!10-15 16:45:31
+Request Successful!10-15 16:48:33
+Request Successful!10-15 16:51:34
+Request Successful!10-15 16:54:36
+Request Successful!10-15 16:57:40
+Request Successful!10-15 17:00:46
+Request Successful!10-15 17:03:47
+Request Successful!10-15 17:06:49
+Request Successful!10-15 17:09:51
+Request Successful!10-15 17:12:53
+Request Successful!10-15 17:15:55
+Request Successful!10-15 17:18:56
+Request Successful!10-15 17:21:59
+Request Successful!10-15 17:25:00
+Request Successful!10-15 17:28:02
+Request Successful!10-15 17:31:04
+Request Successful!10-15 17:34:05
+Request Successful!10-15 17:37:07
+Request Successful!10-15 17:40:09
+Request Successful!10-15 17:43:10
+Request Successful!10-15 17:46:12
+Request Successful!10-15 17:49:14
+Request Successful!10-15 17:52:16
+Request Successful!10-15 17:55:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 5s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_60_InboundPreprocessing_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_60_InboundPreprocessing_HM" ("hierchmessage_9937"/"queue_16"):
+Request Successful!10-15 17:58:30
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 17s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_60_InboundPreprocessing_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_60_InboundPreprocessing_HM" ("hierchmessage_9937"/"queue_16"):
+Request Successful!10-15 18:01:42
+Request Successful!10-15 18:04:44
+Request Successful!10-15 18:07:45
+Request Successful!10-15 18:10:47
+Request Successful!10-15 18:13:48
+Request Successful!10-15 18:16:50
+Request Successful!10-15 18:19:52
+Request Successful!10-15 18:22:53
+Request Successful!10-15 18:25:55
+Request Successful!10-15 18:28:57
+Request Successful!10-15 18:31:58
+Request Successful!10-15 18:35:00
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 56s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-15 18:38:12
+Request Successful!10-15 18:41:14
+Request Successful!10-15 18:44:15
+Request Successful!10-15 18:47:17
+Request Successful!10-15 18:50:18
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 13s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_2309"/"queue_13"):
+Request Successful!10-15 20:00:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 46s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!10-15 20:04:00
+Request Successful!10-15 20:07:02
+Request Successful!10-15 20:10:03
+Request Successful!10-15 20:13:05
+Request Successful!10-15 20:16:06
+Request Successful!10-15 20:19:08
+Request Successful!10-15 20:22:10
+Request Successful!10-15 20:25:11
+Request Successful!10-15 20:28:13
+Request Successful!10-15 20:31:15
+Request Successful!10-15 20:34:16
+Request Successful!10-15 20:37:18
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 7s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-15 20:40:30
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 20s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-15 20:43:43
+Request Successful!10-15 20:46:44
+Request Successful!10-15 20:49:46
+Request Successful!10-15 20:52:48
+Request Successful!10-15 20:55:49
+Request Successful!10-15 20:58:51
+Request Successful!10-15 21:01:53
+Request Successful!10-15 21:04:54
+Request Successful!10-15 21:07:56
+Request Successful!10-15 21:10:58
+Request Successful!10-15 21:13:59
+Request Successful!10-15 21:17:01
+Request Successful!10-15 21:20:03
+Request Successful!10-15 21:23:04
+Request Successful!10-15 21:26:06
+Request Successful!10-15 21:29:08
+Request Successful!10-15 21:32:09
+Request Successful!10-15 21:35:11
+Request Successful!10-15 21:38:13
+Request Successful!10-15 21:41:15
+Request Successful!10-15 21:44:17
+Request Successful!10-15 21:47:18
+Request Successful!10-15 21:50:20
+Request Successful!10-15 21:53:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 48s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-15 21:56:34
+Request Successful!10-15 21:59:36
+Request Successful!10-15 22:02:38
+Request Successful!10-15 22:05:40
+Request Successful!10-15 22:08:41
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 1s
+B2Bi queue health: "B2Bi Logger 8"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 8" ("logger_1509"/"queue_13"):
+Request Successful!10-15 22:11:53
+Request Successful!10-15 22:14:54
+Request Successful!10-15 22:17:56
+Request Successful!10-15 22:20:57
+Request Successful!10-15 22:23:59
+Request Successful!10-15 22:27:00
+Request Successful!10-15 22:30:02
+Request Successful!10-15 22:33:04
+Request Successful!10-15 22:36:05
+Request Successful!10-15 22:39:07
+Request Successful!10-15 22:42:09
+Request Successful!10-15 22:45:11
+Request Successful!10-15 22:48:12
+Request Successful!10-15 22:51:14
+Request Successful!10-15 22:54:15
+Request Successful!10-15 22:57:17
+Request Successful!10-15 23:00:19
+Request Successful!10-15 23:03:21
+Request Successful!10-15 23:06:22
+Request Successful!10-15 23:09:24
+Request Successful!10-15 23:12:26
+Request Successful!10-15 23:15:27
+Request Successful!10-15 23:18:29
+Request Successful!10-15 23:21:31
+Request Successful!10-15 23:24:32

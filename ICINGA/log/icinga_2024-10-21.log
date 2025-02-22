@@ -1,0 +1,181 @@
+Request Successful!10-21 15:39:57
+Request Successful!10-21 15:42:58
+Request Successful!10-21 15:46:00
+Request Successful!10-21 15:49:02
+Request Successful!10-21 15:52:03
+Request Successful!10-21 15:55:05
+Request Successful!10-21 15:58:07
+Request Successful!10-21 16:01:09
+Request Successful!10-21 16:04:11
+Request Successful!10-21 16:07:13
+Request Successful!10-21 16:10:14
+Request Successful!10-21 16:13:16
+Request Successful!10-21 16:16:18
+Request Successful!10-21 16:19:19
+Request Successful!10-21 16:22:22
+Request Successful!10-21 16:25:24
+Request Successful!10-21 16:28:25
+Request Successful!10-21 16:31:27
+Request Successful!10-21 16:34:29
+Request Successful!10-21 17:44:25
+Request Successful!10-21 17:47:27
+Request Successful!10-21 17:50:29
+Request Successful!10-21 17:53:30
+Request Successful!10-21 17:56:32
+Request Successful!10-21 17:59:34
+Request Successful!10-21 18:02:35
+Request Successful!10-21 18:05:37
+Request Successful!10-21 18:08:39
+Request Successful!10-21 18:11:40
+Request Successful!10-21 18:14:42
+Request Successful!10-21 18:17:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 12s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!10-21 18:20:56
+Request Successful!10-21 18:23:58
+Request Successful!10-21 18:26:59
+Request Successful!10-21 18:30:01
+Request Successful!10-21 18:33:03
+Request Successful!10-21 18:36:05
+Request Successful!10-21 18:39:06
+Request Successful!10-21 18:42:08
+Request Successful!10-21 18:45:10
+Request Successful!10-21 18:48:11
+Request Successful!10-21 18:51:13
+Request Successful!10-21 18:54:14
+Request Successful!10-21 18:57:16
+Request Successful!10-21 19:00:18
+Request Successful!10-21 19:03:20
+Request Successful!10-21 19:06:21
+Request Successful!10-21 19:09:23
+Request Successful!10-21 19:12:24
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 21s
+Check size of queue "LQ.C2K.TO.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!10-21 19:15:37
+Request Successful!10-21 19:18:39
+Request Successful!10-21 19:21:40
+Request Successful!10-21 19:24:42
+Request Successful!10-21 19:27:43
+Request Successful!10-21 19:30:45
+Request Successful!10-21 19:33:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 25s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : No data received from host
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 45s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!10-21 19:37:08
+Request Successful!10-21 19:40:10
+Request Successful!10-21 19:43:12
+Request Successful!10-21 19:46:13
+Request Successful!10-21 19:49:15
+Request Successful!10-21 19:52:17
+Request Successful!10-21 19:55:18
+Request Successful!10-21 19:58:20
+Request Successful!10-21 20:01:21
+Request Successful!10-21 20:04:23
+Request Successful!10-21 20:07:24
+Request Successful!10-21 20:10:26
+Request Successful!10-21 20:13:27
+Request Successful!10-21 20:16:29
+Request Successful!10-21 20:19:30
+Request Successful!10-21 20:22:32
+Request Successful!10-21 20:25:33
+Request Successful!10-21 20:28:35
+Request Successful!10-21 20:31:36
+Request Successful!10-21 20:34:38
+Request Successful!10-21 20:37:39
+Request Successful!10-21 20:40:41
+Request Successful!10-21 20:43:42
+Request Successful!10-21 20:46:44
+Request Successful!10-21 20:49:45
+Request Successful!10-21 20:52:47
+Request Successful!10-21 20:55:49
+Request Successful!10-21 20:58:50
+Request Successful!10-21 21:01:52
+Request Successful!10-21 21:04:53
+Request Successful!10-21 21:07:55
+Request Successful!10-21 21:10:56
+Request Successful!10-21 21:13:58
+Request Successful!10-21 21:16:59
+Request Successful!10-21 21:20:01
+Request Successful!10-21 21:23:02
+Request Successful!10-21 21:26:04
+Request Successful!10-21 21:29:05
+Request Successful!10-21 21:32:07
+Request Successful!10-21 21:35:08
+Request Successful!10-21 21:38:10
+Request Successful!10-21 21:41:11
+Request Successful!10-21 21:44:13
+Request Successful!10-21 21:47:14
+Request Successful!10-21 21:50:15
+Request Successful!10-21 21:53:17
+Request Successful!10-21 21:56:18
+Request Successful!10-21 21:59:20
+Request Successful!10-21 22:02:21
+Request Successful!10-21 22:05:23
+Request Successful!10-21 22:08:24
+Request Successful!10-21 22:11:26
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 55s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-21 22:14:37
+Request Successful!10-21 22:17:39
+Request Successful!10-21 22:20:40
+Request Successful!10-21 22:23:42
+Request Successful!10-21 22:26:44
+Request Successful!10-21 22:29:45
+Request Successful!10-21 22:32:47
+Request Successful!10-21 22:35:49
+Request Successful!10-21 22:38:50
+Request Successful!10-21 22:41:52
+Request Successful!10-21 22:44:53
+Request Successful!10-21 22:47:55
+Request Successful!10-21 22:50:56
+Request Successful!10-21 22:53:58
+Request Successful!10-21 22:56:59
+Request Successful!10-21 23:00:01
+Request Successful!10-21 23:03:03
+Request Successful!10-21 23:06:04
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 24s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-21 23:09:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 5s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM" ("hierchmessage_7760"/"queue_13"):
+Request Successful!10-21 23:12:28
+Request Successful!10-21 23:15:30
+Request Successful!10-21 23:18:31
+Request Successful!10-21 23:21:32
+Request Successful!10-21 23:24:34

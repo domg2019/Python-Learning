@@ -1,0 +1,240 @@
+Request Successful!09-03 16:05:57
+Request Successful!09-03 16:08:59
+Request Successful!09-03 16:12:00
+Request Successful!09-03 16:15:02
+Request Successful!09-03 16:18:03
+Request Successful!09-03 16:21:05
+Request Successful!09-03 16:24:06
+Request Successful!09-03 16:27:08
+Request Successful!09-03 16:30:10
+Request Successful!09-03 16:33:11
+Request Successful!09-03 16:36:13
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 41s
+Check size of queue "LQ.C2K.TO.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 35s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/09/03) error subdirectories.
+Request Successful!09-03 16:39:36
+Request Successful!09-03 16:42:37
+Request Successful!09-03 16:45:39
+Request Successful!09-03 16:48:40
+Request Successful!09-03 16:51:42
+Request Successful!09-03 16:54:44
+Request Successful!09-03 16:57:46
+Request Successful!09-03 17:00:48
+Request Successful!09-03 17:03:49
+Request Successful!09-03 17:06:51
+Request Successful!09-03 17:09:53
+Request Successful!09-03 17:12:55
+Request Successful!09-03 17:15:56
+Request Successful!09-03 17:18:58
+Request Successful!09-03 17:21:59
+Request Successful!09-03 17:25:01
+Request Successful!09-03 17:28:03
+Request Successful!09-03 17:31:04
+Request Successful!09-03 17:34:06
+Request Successful!09-03 17:37:07
+Request Successful!09-03 17:40:09
+Request Successful!09-03 17:43:10
+Request Successful!09-03 17:46:12
+Request Successful!09-03 17:49:13
+Request Successful!09-03 17:52:15
+Request Successful!09-03 17:55:16
+Request Successful!09-03 17:58:18
+Request Successful!09-03 18:01:19
+Request Successful!09-03 18:04:21
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 23s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc4
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 114682 entries in mon_events_processing_sc4. Critical threshold 100000 breached!
+Request Successful!09-03 18:07:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 35s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc4
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 113793 entries in mon_events_processing_sc4. Critical threshold 100000 breached!
+Request Successful!09-03 18:10:43
+Request Successful!09-03 18:13:45
+Request Successful!09-03 18:16:46
+Request Successful!09-03 18:19:48
+Request Successful!09-03 18:22:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM" ("hierchmessage_7760"/"queue_13"):
+Request Successful!09-03 18:26:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 16s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM" ("hierchmessage_7760"/"queue_13"):
+Request Successful!09-03 18:29:14
+Request Successful!09-03 18:32:15
+Request Successful!09-03 18:35:17
+Request Successful!09-03 18:38:19
+Request Successful!09-03 18:41:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 42s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-03 18:44:32
+Request Successful!09-03 18:47:34
+Request Successful!09-03 18:50:35
+Request Successful!09-03 18:53:37
+Request Successful!09-03 18:56:38
+Request Successful!09-03 18:59:40
+Request Successful!09-03 19:02:42
+Request Successful!09-03 19:05:43
+Request Successful!09-03 19:08:45
+Request Successful!09-03 19:11:46
+Request Successful!09-03 19:14:48
+Request Successful!09-03 19:17:49
+Request Successful!09-03 19:20:51
+Request Successful!09-03 19:23:52
+Request Successful!09-03 19:26:54
+Request Successful!09-03 19:29:55
+Request Successful!09-03 19:32:57
+Request Successful!09-03 19:35:59
+Request Successful!09-03 19:39:00
+Request Successful!09-03 19:42:02
+Request Successful!09-03 19:45:03
+Request Successful!09-03 19:48:05
+Request Successful!09-03 19:51:06
+Request Successful!09-03 19:54:08
+Request Successful!09-03 19:57:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 27s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-03 20:00:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 52s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 39s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-03 20:03:44
+Request Successful!09-03 20:06:46
+Request Successful!09-03 20:09:48
+Request Successful!09-03 20:12:49
+Request Successful!09-03 20:15:51
+Request Successful!09-03 20:18:52
+Request Successful!09-03 20:21:54
+Request Successful!09-03 20:24:55
+Request Successful!09-03 20:27:57
+Request Successful!09-03 20:30:58
+Request Successful!09-03 20:34:00
+Request Successful!09-03 20:37:02
+Request Successful!09-03 20:40:03
+Request Successful!09-03 20:43:05
+Request Successful!09-03 20:46:06
+Request Successful!09-03 20:49:08
+Request Successful!09-03 20:52:09
+Request Successful!09-03 20:55:11
+Request Successful!09-03 20:58:12
+Request Successful!09-03 21:01:14
+Request Successful!09-03 21:04:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 11s
+Soft 1/2
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1B
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!09-03 21:07:26
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 22s
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1B
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!09-03 21:10:37
+Request Successful!09-03 21:13:39
+Request Successful!09-03 21:16:40
+Request Successful!09-03 21:19:42
+Request Successful!09-03 21:22:44
+Request Successful!09-03 21:25:45
+Request Successful!09-03 21:28:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 31s
+Check size of queue "LQ.CUST5C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-03 21:31:58
+Request Successful!09-03 21:35:00
+Request Successful!09-03 21:38:01
+Request Successful!09-03 21:41:03
+Request Successful!09-03 21:44:04
+Request Successful!09-03 21:47:06
+Request Successful!09-03 21:50:07
+Request Successful!09-03 21:53:09
+Request Successful!09-03 21:56:10
+Request Successful!09-03 21:59:12
+Request Successful!09-03 22:02:14
+Request Successful!09-03 22:05:15
+Request Successful!09-03 22:08:17
+Request Successful!09-03 22:11:18
+Request Successful!09-03 22:14:20
+Request Successful!09-03 22:17:21
+Request Successful!09-03 22:20:23
+Request Successful!09-03 22:23:24
+Request Successful!09-03 22:26:26
+Request Successful!09-03 22:29:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 37s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_mq
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 116244 entries in mon_events_processing_mq. Critical threshold 100000 breached!
+Request Successful!09-03 22:32:39
+Request Successful!09-03 22:35:40
+Request Successful!09-03 22:38:42
+Request Successful!09-03 22:41:43
+Request Successful!09-03 22:44:45
+Request Successful!09-03 22:47:46
+Request Successful!09-03 22:50:48
+Request Successful!09-03 22:53:49
+Request Successful!09-03 22:56:51
+Request Successful!09-03 22:59:52
+Request Successful!09-03 23:02:54
+Request Successful!09-03 23:05:56
+Request Successful!09-03 23:08:57
+Request Successful!09-03 23:11:59

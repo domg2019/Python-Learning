@@ -1,0 +1,80 @@
+Request Successful!01-31 18:08:34
+Request Successful!01-31 18:09:36
+Request Successful!01-31 18:10:38
+Request Successful!01-31 18:11:39
+Request Successful!01-31 18:12:41
+Request Successful!01-31 18:13:42
+Request Successful!01-31 18:14:44
+Request Successful!01-31 18:15:46
+Request Successful!01-31 18:16:47
+13 unhandled critical alerts
+Request Successful!01-31 18:18:01
+23 unhandled critical alerts
+Request Successful!01-31 18:22:58
+Request Successful!01-31 18:24:00
+Request Successful!01-31 18:25:01
+Request Successful!01-31 18:26:03
+Request Successful!01-31 18:27:04
+Request Successful!01-31 18:28:06
+Request Successful!01-31 18:29:07
+Request Successful!01-31 18:30:09
+Request Successful!01-31 18:31:11
+Request Successful!01-31 18:32:12
+Request Successful!01-31 18:33:14
+Request Successful!01-31 18:34:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 29s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 12"
+on
+B2Bi Application Server - Stream 2B (Multicluster - VIP)
+CRITICAL - Queue "B2Bi Logger 12" ("logger_1032"/"queue_16"):
+Request Successful!01-31 18:35:28
+Request Successful!01-31 18:36:29
+Request Successful!01-31 18:37:31
+Request Successful!01-31 18:38:32
+Request Successful!01-31 18:39:34
+Request Successful!01-31 18:40:35
+Request Successful!01-31 18:41:37
+Request Successful!01-31 18:42:38
+Request Successful!01-31 18:43:40
+Request Successful!01-31 18:44:42
+Request Successful!01-31 18:45:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 14s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1529"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 15s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 9"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 9" ("logger_1563"/"queue_13"):
+Request Successful!01-31 18:47:05
+Request Successful!01-31 18:48:06
+Request Successful!01-31 18:49:08
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 49s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-31 18:50:19
+Request Successful!01-31 18:51:21
+Request Successful!01-31 18:52:23
+check if there is a ticket. One critical alert is existed since 09:51
+Request Successful!01-31 18:53:25
+check if there is a ticket. One critical alert is existed since 09:51
+Request Successful!01-31 18:54:26
+Request Successful!01-31 18:55:28
+Request Successful!01-31 18:56:30
+Request Successful!01-31 18:57:32

@@ -1,0 +1,324 @@
+Request Successful!12-11 15:49:34
+Request Successful!12-11 15:52:36
+Request Successful!12-11 15:55:38
+Request Successful!12-11 15:58:40
+Request Successful!12-11 16:01:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 8s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 16:04:54
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 21s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 16:08:06
+Request Successful!12-11 16:11:08
+Request Successful!12-11 16:14:09
+Request Successful!12-11 16:17:11
+Request Successful!12-11 16:20:13
+Request Successful!12-11 16:23:14
+Request Successful!12-11 16:26:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 27s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 16:29:28
+Request Successful!12-11 16:32:30
+Request Successful!12-11 16:35:32
+Request Successful!12-11 16:38:34
+Request Successful!12-11 16:41:36
+Request Successful!12-11 16:44:38
+Request Successful!12-11 16:47:40
+Request Successful!12-11 16:50:42
+Request Successful!12-11 16:53:44
+Request Successful!12-11 16:56:47
+Request Successful!12-11 16:59:49
+Request Successful!12-11 17:02:51
+Request Successful!12-11 17:05:53
+Request Successful!12-11 17:08:56
+Request Successful!12-11 17:12:00
+Request Successful!12-11 17:15:03
+Request Successful!12-11 17:18:04
+Request Successful!12-11 17:21:06
+Request Successful!12-11 17:24:08
+Request Successful!12-11 17:27:09
+Request Successful!12-11 17:30:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 17s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_7334"/"queue_13"):
+Request Successful!12-11 17:33:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 30s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_7334"/"queue_13"):
+Request Successful!12-11 17:36:34
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 47s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 17:39:46
+Request Successful!12-11 17:42:48
+Request Successful!12-11 17:45:50
+Request Successful!12-11 17:48:51
+Request Successful!12-11 17:51:53
+Request Successful!12-11 17:54:55
+Request Successful!12-11 17:57:57
+Request Successful!12-11 18:00:59
+Request Successful!12-11 18:04:00
+Request Successful!12-11 18:07:02
+Request Successful!12-11 18:10:04
+Request Successful!12-11 18:13:05
+Request Successful!12-11 18:16:07
+Request Successful!12-11 18:19:09
+Request Successful!12-11 18:22:11
+Request Successful!12-11 18:25:12
+Request Successful!12-11 18:28:14
+Request Successful!12-11 18:31:16
+Request Successful!12-11 18:34:17
+Request Successful!12-11 18:37:19
+Request Successful!12-11 18:40:21
+Request Successful!12-11 18:43:23
+Request Successful!12-11 18:46:25
+Request Successful!12-11 18:49:27
+Request Successful!12-11 18:52:29
+Request Successful!12-11 18:55:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 50s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 18:58:42
+Request Successful!12-11 19:01:44
+Request Successful!12-11 19:04:45
+Request Successful!12-11 19:07:47
+Request Successful!12-11 19:10:49
+Request Successful!12-11 19:13:50
+Request Successful!12-11 19:16:52
+Request Successful!12-11 19:19:54
+Request Successful!12-11 19:22:56
+Request Successful!12-11 19:25:57
+Request Successful!12-11 19:28:59
+Request Successful!12-11 19:32:01
+Request Successful!12-11 19:35:02
+Request Successful!12-11 19:38:04
+Request Successful!12-11 19:41:06
+Request Successful!12-11 19:44:08
+Request Successful!12-11 19:47:09
+Request Successful!12-11 19:50:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 47s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 19:53:24
+Request Successful!12-11 19:56:26
+Request Successful!12-11 19:59:27
+Request Successful!12-11 20:02:29
+Request Successful!12-11 20:05:31
+Request Successful!12-11 20:08:32
+Request Successful!12-11 20:11:34
+Request Successful!12-11 20:14:35
+Request Successful!12-11 20:17:37
+Request Successful!12-11 20:20:38
+Request Successful!12-11 20:23:40
+Request Successful!12-11 20:26:41
+Request Successful!12-11 20:29:44
+Request Successful!12-11 20:32:45
+Request Successful!12-11 20:35:46
+Request Successful!12-11 20:38:48
+Request Successful!12-11 20:41:50
+Request Successful!12-11 20:44:52
+Request Successful!12-11 20:47:53
+Request Successful!12-11 20:50:55
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 38s
+Process B2Bi Archiver
+on
+B2Bi Application Server - Stream 1A
+PROCS CRITICAL: 0 processes with command name 'r4edi', args 'Integratorb2biloggersingleton', UID = 900 (b2bi)
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 38s
+Process B2Bi Logger
+on
+B2Bi Application Server - Stream 1A
+PROCS CRITICAL: 0 processes with command name 'logger', args 'Integratorb2biloggersingleton', UID = 900 (b2bi)
+Request Successful!12-11 20:54:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+Soft 1/2
+Checks if all B2Bi programs from startertasks.map are up
+on
+B2Bi Application Server - Stream 1A
+1286 B2Bi prog(s) not running!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+Soft 1/2
+Checks if all B2Bi programs from starter.map are up
+on
+B2Bi Application Server - Stream 1A
+1343 B2Bi prog(s) not running!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 12s
+B2Bi queue health: "B2Bi TA FTP OB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA FTP OB Task" ("transadapt_976__receive_970"/"queue_13"):
+Request Successful!12-11 20:57:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 35s
+B2Bi queue health: "B2Bi TA HTTP MAPSERVICE IB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA HTTP MAPSERVICE IB Task" ("transadapt_b2biprdapp1_984__receive_967"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 41s
+B2Bi queue health: "B2Bi TA ALE OB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA ALE OB Task" ("transadapt_12645__receive_970"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 37s
+B2Bi queue health: "B2Bi TA FILE IB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA FILE IB Task" ("transadapt_979__receive_968"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 34s
+Checks if all B2Bi programs from startertasks.map are up
+on
+B2Bi Application Server - Stream 1A
+58 B2Bi prog(s) not running!
+Request Successful!12-11 21:01:28
+Request Successful!12-11 21:04:29
+Request Successful!12-11 21:07:31
+Request Successful!12-11 21:10:32
+Request Successful!12-11 21:13:34
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 20s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-11 21:56:06
+Request Successful!12-11 21:59:08
+Request Successful!12-11 22:02:09
+Request Successful!12-11 22:05:11
+Request Successful!12-11 22:08:12
+Request Successful!12-11 22:11:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 17s
+Checking JMS-Client Backlogs.
+on
+Communication Server Production
+CRITICAL : At least one value exceed CRIT thresholds.
+Request Successful!12-11 22:14:27
+Request Successful!12-11 22:17:29
+Request Successful!12-11 22:20:30
+Request Successful!12-11 22:23:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 21s
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1B
+Timed out waiting for test file after 570 seconds.
+Request Successful!12-11 22:26:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 45s
+Checking JMS-Client HistoryQueueSize.
+on
+Communication Server Production
+CRITICAL : At least one value exceed CRIT thresholds.
+Request Successful!12-11 22:29:58
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 58s
+Checking JMS-Client HistoryQueueSize.
+on
+Communication Server Production
+CRITICAL : At least one value exceed CRIT thresholds.
+Request Successful!12-11 22:33:10
+Request Successful!12-11 22:36:12
+Request Successful!12-11 22:39:13
+Request Successful!12-11 22:42:15
+Request Successful!12-11 22:45:16
+Request Successful!12-11 22:48:18
+Request Successful!12-11 22:51:20
+Request Successful!12-11 22:54:21
+Request Successful!12-11 22:57:23
+Request Successful!12-11 23:00:25
+Request Successful!12-11 23:03:27
+Request Successful!12-11 23:06:29
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:09:30
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:12:32
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:15:34
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:18:35
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:21:37
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:24:38
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:27:40
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:30:42
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:33:43
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:36:45
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+Request Successful!12-11 23:39:46
+check if there is a ticket. One critical alert is existed since 22:22
+check if there is a ticket. One critical alert is existed since 22:19
+check if there is a ticket. One critical alert is existed since 22:05
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))

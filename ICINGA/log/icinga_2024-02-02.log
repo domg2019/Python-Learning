@@ -1,0 +1,303 @@
+Request Successful!02-02 16:50:45
+Request Successful!02-02 16:51:47
+Request Successful!02-02 16:52:48
+Request Successful!02-02 16:53:50
+Request Successful!02-02 16:54:53
+Request Successful!02-02 16:55:55
+Request Successful!02-02 16:56:57
+Request Successful!02-02 16:57:58
+Request Successful!02-02 16:59:00
+Request Successful!02-02 17:00:01
+Request Successful!02-02 17:01:03
+Request Successful!02-02 17:02:05
+Request Successful!02-02 17:03:07
+Request Successful!02-02 17:04:11
+Request Successful!02-02 17:05:12
+Request Successful!02-02 17:06:14
+Request Successful!02-02 17:07:16
+Request Successful!02-02 17:08:17
+Request Successful!02-02 17:09:19
+Request Successful!02-02 17:10:20
+Request Successful!02-02 17:11:22
+Request Successful!02-02 17:12:23
+Request Successful!02-02 17:13:25
+Request Successful!02-02 17:14:27
+Request Successful!02-02 17:15:28
+Request Successful!02-02 17:16:30
+Request Successful!02-02 17:17:32
+Request Successful!02-02 17:18:33
+Request Successful!02-02 17:19:35
+Request Successful!02-02 17:20:37
+Request Successful!02-02 17:21:38
+Request Successful!02-02 17:22:40
+Request Successful!02-02 17:23:42
+Request Successful!02-02 17:24:43
+Request Successful!02-02 17:25:45
+Request Successful!02-02 17:26:46
+Request Successful!02-02 17:27:48
+Request Successful!02-02 17:28:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 36s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!02-02 17:30:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 2m 48s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!02-02 17:31:13
+Request Successful!02-02 17:32:14
+Request Successful!02-02 17:33:16
+Request Successful!02-02 17:34:18
+Request Successful!02-02 17:35:19
+Request Successful!02-02 17:36:21
+Request Successful!02-02 17:37:22
+Request Successful!02-02 17:38:24
+Request Successful!02-02 17:39:26
+Request Successful!02-02 17:40:27
+Request Successful!02-02 17:41:29
+Request Successful!02-02 17:42:30
+Request Successful!02-02 17:43:32
+Request Successful!02-02 17:44:34
+Request Successful!02-02 17:45:35
+Request Successful!02-02 17:46:37
+Request Successful!02-02 17:47:38
+Request Successful!02-02 17:48:40
+Request Successful!02-02 17:49:41
+Request Successful!02-02 17:50:43
+Request Successful!02-02 17:51:45
+Request Successful!02-02 17:52:46
+Request Successful!02-02 17:53:48
+Request Successful!02-02 17:54:49
+Request Successful!02-02 17:55:51
+Request Successful!02-02 17:56:52
+Request Successful!02-02 17:57:54
+Request Successful!02-02 17:58:56
+Request Successful!02-02 17:59:57
+Request Successful!02-02 18:00:59
+Request Successful!02-02 18:02:01
+Request Successful!02-02 18:03:02
+Request Successful!02-02 18:04:04
+Request Successful!02-02 18:05:05
+Request Successful!02-02 18:06:07
+Request Successful!02-02 18:07:08
+Request Successful!02-02 18:08:10
+Request Successful!02-02 18:09:11
+Request Successful!02-02 18:10:12
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!02-02 18:12:50
+Request Successful!02-02 18:13:51
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 34s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_FrameworkEMAIL.005_EMAIL_20_ComDetect_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_FrameworkEMAIL.005_EMAIL_20_ComDetect_HM" ("hierchmessage_1880"/"queue_13"):
+Request Successful!02-02 18:15:02
+Request Successful!02-02 18:16:04
+Request Successful!02-02 18:17:05
+Request Successful!02-02 18:18:07
+Request Successful!02-02 18:19:08
+Request Successful!02-02 18:20:10
+Request Successful!02-02 18:21:12
+Request Successful!02-02 18:22:13
+Request Successful!02-02 18:23:15
+Request Successful!02-02 18:24:16
+Request Successful!02-02 18:25:18
+Request Successful!02-02 18:26:19
+Request Successful!02-02 18:27:21
+Request Successful!02-02 18:28:23
+Request Successful!02-02 18:29:24
+Request Successful!02-02 18:30:26
+Request Successful!02-02 18:31:27
+Request Successful!02-02 18:32:29
+Request Successful!02-02 18:33:31
+Request Successful!02-02 18:34:32
+Request Successful!02-02 18:35:34
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!02-02 18:37:43
+Request Successful!02-02 18:38:59
+Request Successful!02-02 18:40:01
+Request Successful!02-02 18:41:02
+Request Successful!02-02 18:42:04
+Request Successful!02-02 18:43:05
+Request Successful!02-02 18:44:07
+Request Successful!02-02 18:45:09
+Request Successful!02-02 18:46:10
+Request Successful!02-02 18:47:12
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 22s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 19"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi Logger 19" ("logger_12913"/"queue_13"):
+Request Successful!02-02 18:48:23
+Request Successful!02-02 18:49:25
+Request Successful!02-02 18:50:26
+Request Successful!02-02 18:51:28
+Request Successful!02-02 18:52:29
+Request Successful!02-02 18:53:31
+Request Successful!02-02 18:54:32
+Request Successful!02-02 18:55:34
+Request Successful!02-02 18:56:35
+Request Successful!02-02 18:57:37
+Request Successful!02-02 18:58:38
+Request Successful!02-02 18:59:40
+Request Successful!02-02 19:00:42
+Request Successful!02-02 19:01:43
+Request Successful!02-02 19:02:45
+Request Successful!02-02 19:03:46
+Request Successful!02-02 19:04:48
+Request Successful!02-02 19:05:49
+Request Successful!02-02 19:06:51
+Request Successful!02-02 19:07:53
+Request Successful!02-02 19:08:54
+Request Successful!02-02 19:09:56
+Request Successful!02-02 19:10:58
+Request Successful!02-02 19:11:59
+Request Successful!02-02 19:13:01
+Request Successful!02-02 19:14:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 46s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_FrameworkEMAIL.005_EMAIL_20_ComDetect_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_FrameworkEMAIL.005_EMAIL_20_ComDetect_HM" ("hierchmessage_1880"/"queue_13"):
+Request Successful!02-02 19:15:14
+Request Successful!02-02 19:16:16
+Request Successful!02-02 19:17:18
+Request Successful!02-02 19:18:19
+Request Successful!02-02 19:19:21
+Request Successful!02-02 19:20:22
+Request Successful!02-02 19:21:24
+Request Successful!02-02 19:22:25
+Request Successful!02-02 19:23:27
+Request Successful!02-02 19:24:28
+Request Successful!02-02 19:25:30
+Request Successful!02-02 19:26:32
+Request Successful!02-02 19:27:33
+Request Successful!02-02 19:28:35
+Request Successful!02-02 19:29:36
+Request Successful!02-02 19:30:38
+Request Successful!02-02 19:31:39
+Request Successful!02-02 19:32:41
+Request Successful!02-02 19:33:43
+Request Successful!02-02 19:34:44
+Request Successful!02-02 19:35:46
+Request Successful!02-02 19:36:47
+Request Successful!02-02 19:37:49
+Request Successful!02-02 19:38:50
+Request Successful!02-02 19:39:52
+Request Successful!02-02 19:40:53
+Request Successful!02-02 19:41:55
+Request Successful!02-02 19:42:56
+Request Successful!02-02 19:43:58
+Request Successful!02-02 19:45:00
+Request Successful!02-02 19:46:01
+Request Successful!02-02 19:47:03
+Request Successful!02-02 19:48:04
+Request Successful!02-02 19:49:06
+Request Successful!02-02 19:50:08
+Request Successful!02-02 19:51:09
+Request Successful!02-02 19:52:11
+Request Successful!02-02 19:53:12
+Request Successful!02-02 19:54:14
+Request Successful!02-02 19:55:15
+Request Successful!02-02 19:56:17
+Request Successful!02-02 19:57:18
+Request Successful!02-02 19:58:20
+Request Successful!02-02 19:59:21
+Request Successful!02-02 20:00:23
+Request Successful!02-02 20:01:24
+Request Successful!02-02 20:02:26
+Request Successful!02-02 20:03:27
+Request Successful!02-02 20:04:29
+Request Successful!02-02 20:05:31
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!02-02 20:07:38
+Request Successful!02-02 20:08:39
+Request Successful!02-02 20:09:41
+Request Successful!02-02 20:10:42
+Request Successful!02-02 20:11:43
+Request Successful!02-02 20:12:44
+Request Successful!02-02 20:13:46
+Request Successful!02-02 20:14:47
+Request Successful!02-02 20:15:49
+Request Successful!02-02 20:16:50
+Request Successful!02-02 20:17:52
+Request Successful!02-02 20:18:53
+Request Successful!02-02 20:19:55
+Request Successful!02-02 20:20:57
+Request Successful!02-02 20:21:58
+Request Successful!02-02 20:23:00
+Request Successful!02-02 20:24:01
+Request Successful!02-02 20:25:03
+Request Successful!02-02 20:26:04
+Request Successful!02-02 20:27:06
+Request Successful!02-02 20:28:07
+Request Successful!02-02 20:29:09
+Request Successful!02-02 20:30:11
+Request Successful!02-02 20:31:12
+Request Successful!02-02 20:32:14
+Request Successful!02-02 20:33:15
+Request Successful!02-02 20:34:17
+Request Successful!02-02 20:35:18
+Request Successful!02-02 20:36:20
+Request Successful!02-02 20:37:21
+Request Successful!02-02 20:38:23
+Request Successful!02-02 20:39:24
+Request Successful!02-02 20:40:26
+Request Successful!02-02 20:41:27
+Request Successful!02-02 20:42:29
+Request Successful!02-02 20:43:30
+Request Successful!02-02 20:44:32
+Request Successful!02-02 20:45:33
+Request Successful!02-02 20:46:35
+Request Successful!02-02 20:47:36
+Request Successful!02-02 20:48:38
+Request Successful!02-02 20:49:39
+Request Successful!02-02 20:50:41
+Request Successful!02-02 20:51:42
+Request Successful!02-02 20:52:44
+Request Successful!02-02 20:53:46
+Request Successful!02-02 20:54:47
+Request Successful!02-02 20:55:49
+Request Successful!02-02 20:56:50
+Request Successful!02-02 20:57:52
+Request Successful!02-02 20:58:53
+Request Successful!02-02 20:59:55
+Request Successful!02-02 21:00:56
+Request Successful!02-02 21:01:58
+Request Successful!02-02 21:02:59
+Request Successful!02-02 21:04:01
+Request Successful!02-02 21:05:03
+Request Successful!02-02 21:06:04
+Request Successful!02-02 21:07:06
+Request Successful!02-02 21:08:07
+Request Successful!02-02 21:09:09
+Request Successful!02-02 21:10:10
+Request Successful!02-02 21:11:12
+Request Successful!02-02 21:12:13
+Request Successful!02-02 21:13:15
+Request Successful!02-02 21:14:16
+Request Successful!02-02 21:15:18
+Request Successful!02-02 21:16:19
+Request Successful!02-02 21:17:21
+Request Successful!02-02 21:18:23
+Request Successful!02-02 21:19:24
+Request Successful!02-02 21:20:26
+Request Successful!02-02 21:21:27
+Request Successful!02-02 21:22:29
+Request Successful!02-02 21:23:30

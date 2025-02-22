@@ -1,0 +1,99 @@
+Request Successful!08-02 16:20:22
+Request Successful!08-02 16:23:24
+Request Successful!08-02 16:26:25
+Request Successful!08-02 16:29:27
+Request Successful!08-02 16:32:28
+Request Successful!08-02 16:35:30
+Request Successful!08-02 16:38:32
+Request Successful!08-02 16:41:34
+Request Successful!08-02 16:44:35
+Request Successful!08-02 16:47:37
+Request Successful!08-02 16:50:39
+Request Successful!08-02 16:53:41
+Request Successful!08-02 16:56:43
+Request Successful!08-02 16:59:45
+Request Successful!08-02 17:02:46
+Request Successful!08-02 17:05:48
+Request Successful!08-02 17:08:50
+Request Successful!08-02 17:11:52
+Request Successful!08-02 17:14:54
+Request Successful!08-02 17:17:56
+Request Successful!08-02 17:20:58
+Request Successful!08-02 17:23:59
+Request Successful!08-02 17:27:02
+Request Successful!08-02 17:30:03
+Request Successful!08-02 17:33:05
+Request Successful!08-02 17:36:07
+Request Successful!08-02 17:39:08
+Request Successful!08-02 17:42:10
+Request Successful!08-02 17:45:12
+Request Successful!08-02 17:48:14
+Request Successful!08-02 17:51:15
+Request Successful!08-02 17:54:17
+Request Successful!08-02 17:57:19
+Request Successful!08-02 18:00:21
+Request Successful!08-02 18:03:22
+Request Successful!08-02 18:06:24
+Request Successful!08-02 18:09:26
+Request Successful!08-02 18:12:27
+Request Successful!08-02 18:15:29
+Request Successful!08-02 18:18:30
+Request Successful!08-02 18:21:32
+Request Successful!08-02 18:24:34
+Request Successful!08-02 18:27:35
+Request Successful!08-02 18:30:37
+Request Successful!08-02 18:33:39
+Request Successful!08-02 18:36:40
+Request Successful!08-02 18:39:42
+Request Successful!08-02 18:42:44
+Request Successful!08-02 18:45:45
+Request Successful!08-02 18:48:47
+Request Successful!08-02 18:51:49
+Request Successful!08-02 18:54:50
+Request Successful!08-02 18:57:52
+Request Successful!08-02 19:00:54
+Request Successful!08-02 19:03:56
+Request Successful!08-02 19:06:58
+Request Successful!08-02 19:09:59
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 32s
+Check size of queue "SCO.IN.P.0002.CC3 on "QM.TANGO"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!08-02 19:13:13
+Request Successful!08-02 19:16:15
+Request Successful!08-02 19:19:16
+Request Successful!08-02 19:22:18
+Request Successful!08-02 19:25:20
+Request Successful!08-02 19:28:22
+Request Successful!08-02 19:31:23
+Request Successful!08-02 19:34:25
+Request Successful!08-02 19:37:27
+Request Successful!08-02 19:40:29
+Request Successful!08-02 19:43:31
+Request Successful!08-02 19:46:33
+Request Successful!08-02 19:49:35
+Request Successful!08-02 19:52:37
+Request Successful!08-02 19:55:39
+Request Successful!08-02 19:58:40
+Request Successful!08-02 20:01:42
+Request Successful!08-02 20:04:44
+Request Successful!08-02 20:07:46
+Request Successful!08-02 20:10:48
+Request Successful!08-02 20:13:50
+Request Successful!08-02 20:16:51
+Request Successful!08-02 20:19:54
+Request Successful!08-02 20:22:56
+Request Successful!08-02 20:25:58
+Request Successful!08-02 20:29:00
+Request Successful!08-02 20:32:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 48s
+Check that ComSys pickup directory /app/sword/shared/mounts/nfsserver/Parallel1A/pickups/customer_parallel got no overaged entries.
+on
+Communication Server 1 Production
+CRITICAL : /app/sword/shared/mounts/nfsserver/Parallel1A/pickups/customer_parallel holds at least one file with age of 2354s. Critical limit 1800s exceeded.
+Request Successful!08-02 20:35:14

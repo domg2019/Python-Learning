@@ -1,0 +1,26 @@
+Request Successful!11-08 15:16:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 43s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!11-08 15:19:29
+Request Successful!11-08 15:22:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 17s
+Check size of queue "LQ.CUST3C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!11-08 15:25:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 29s
+Check size of queue "LQ.CUST3C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!11-08 15:28:54

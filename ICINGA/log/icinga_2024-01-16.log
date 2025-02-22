@@ -1,0 +1,169 @@
+Request Successful!01-16 16:14:12
+Request Successful!01-16 16:17:14
+Request Successful!01-16 16:20:16
+Request Successful!01-16 16:23:17
+Request Successful!01-16 16:26:19
+Request Successful!01-16 16:29:21
+Request Successful!01-16 16:32:22
+Request Successful!01-16 16:35:24
+Request Successful!01-16 16:38:26
+Request Successful!01-16 16:41:33
+Request Successful!01-16 16:44:35
+Request Successful!01-16 16:47:37
+Request Successful!01-16 16:50:39
+Request Successful!01-16 16:53:41
+Request Successful!01-16 16:56:42
+Request Successful!01-16 16:59:45
+Request Successful!01-16 17:02:46
+Request Successful!01-16 17:05:49
+Request Successful!01-16 17:08:51
+Request Successful!01-16 17:11:53
+Request Successful!01-16 17:14:55
+Request Successful!01-16 17:17:57
+Request Successful!01-16 17:20:59
+Request Successful!01-16 17:24:01
+Request Successful!01-16 17:27:03
+Request Successful!01-16 17:30:05
+Request Successful!01-16 17:33:07
+Request Successful!01-16 17:36:08
+Request Successful!01-16 17:39:10
+Request Successful!01-16 17:42:12
+Request Successful!01-16 17:45:14
+Request Successful!01-16 17:48:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 1s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-16 17:51:27
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 13s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-16 17:54:39
+Request Successful!01-16 17:57:40
+Request Successful!01-16 18:00:42
+Request Successful!01-16 18:03:44
+Request Successful!01-16 18:06:45
+Request Successful!01-16 18:09:47
+Request Successful!01-16 18:12:49
+Request Successful!01-16 18:15:50
+Request Successful!01-16 18:18:52
+Request Successful!01-16 18:21:53
+Request Successful!01-16 18:24:55
+Request Successful!01-16 18:27:57
+Request Successful!01-16 18:30:59
+Request Successful!01-16 18:34:01
+Request Successful!01-16 18:37:02
+Request Successful!01-16 18:40:04
+Request Successful!01-16 18:43:06
+Request Successful!01-16 18:46:07
+Request Successful!01-16 18:49:09
+Request Successful!01-16 18:52:11
+Request Successful!01-16 18:55:14
+Request Successful!01-16 18:58:16
+Request Successful!01-16 19:01:19
+Request Successful!01-16 19:04:21
+Request Successful!01-16 19:07:22
+Request Successful!01-16 19:10:24
+Request Successful!01-16 19:13:26
+Request Successful!01-16 19:16:28
+Request Successful!01-16 19:19:29
+Request Successful!01-16 19:22:31
+Request Successful!01-16 19:25:33
+Request Successful!01-16 19:28:34
+Request Successful!01-16 19:31:36
+Request Successful!01-16 19:34:38
+Request Successful!01-16 19:37:40
+Request Successful!01-16 19:40:41
+Request Successful!01-16 19:43:43
+Request Successful!01-16 19:46:45
+Request Successful!01-16 19:49:47
+Request Successful!01-16 19:52:48
+Request Successful!01-16 19:55:50
+Request Successful!01-16 19:58:52
+Request Successful!01-16 20:01:53
+Request Successful!01-16 20:04:55
+Request Successful!01-16 20:07:57
+Request Successful!01-16 20:10:58
+Request Successful!01-16 20:14:00
+Request Successful!01-16 20:17:02
+Request Successful!01-16 20:20:03
+Request Successful!01-16 20:23:05
+Request Successful!01-16 20:26:07
+Request Successful!01-16 20:29:08
+Request Successful!01-16 20:32:10
+Request Successful!01-16 20:35:11
+Request Successful!01-16 20:38:13
+Request Successful!01-16 20:41:15
+Request Successful!01-16 20:44:16
+Request Successful!01-16 20:47:18
+Request Successful!01-16 20:50:20
+Request Successful!01-16 20:53:21
+Request Successful!01-16 20:56:23
+Request Successful!01-16 20:59:25
+Request Successful!01-16 21:02:26
+Request Successful!01-16 21:05:28
+Request Successful!01-16 21:08:30
+Request Successful!01-16 21:11:32
+Request Successful!01-16 21:14:33
+Request Successful!01-16 21:17:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 16s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-16 21:20:43
+Request Successful!01-16 21:23:45
+Request Successful!01-16 21:26:47
+Request Successful!01-16 21:29:48
+Request Successful!01-16 21:32:50
+Request Successful!01-16 21:35:52
+Request Successful!01-16 21:38:53
+Request Successful!01-16 21:41:55
+Request Successful!01-16 21:44:57
+Request Successful!01-16 21:47:59
+Request Successful!01-16 21:51:00
+Request Successful!01-16 21:54:02
+Request Successful!01-16 21:57:03
+Request Successful!01-16 22:00:05
+Request Successful!01-16 22:03:07
+Request Successful!01-16 22:06:09
+Request Successful!01-16 22:09:10
+Request Successful!01-16 22:12:12
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!01-16 22:18:20
+Request Successful!01-16 22:21:21
+Request Successful!01-16 22:24:23
+Request Successful!01-16 22:27:25
+Request Successful!01-16 22:30:26
+Request Successful!01-16 22:33:28
+Request Successful!01-16 22:36:30
+Request Successful!01-16 22:39:31
+Request Successful!01-16 22:42:33
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!01-16 22:48:41
+Request Successful!01-16 22:51:43
+Request Successful!01-16 22:54:44
+Request Successful!01-16 22:57:46
+Request Successful!01-16 23:00:48
+Request Successful!01-16 23:03:49
+Request Successful!01-16 23:06:51
+Request Successful!01-16 23:09:53
+Request Successful!01-16 23:12:54
+Request Successful!01-16 23:15:58
+Request Successful!01-16 23:19:00
+Request Successful!01-16 23:22:02
+Request Successful!01-16 23:25:03
+Request Successful!01-16 23:28:05
+Request Successful!01-16 23:31:07
+Request Successful!01-16 23:34:09
+Request Successful!01-16 23:37:11
+Request Successful!01-16 23:40:12

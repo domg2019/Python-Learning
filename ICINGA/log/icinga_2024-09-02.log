@@ -1,0 +1,205 @@
+Request Successful!09-02 15:32:32
+Request Successful!09-02 15:35:33
+Request Successful!09-02 15:38:34
+Request Successful!09-02 15:41:36
+Request Successful!09-02 15:44:37
+Request Successful!09-02 15:47:39
+Request Successful!09-02 15:50:40
+Request Successful!09-02 15:53:42
+Request Successful!09-02 15:56:43
+Request Successful!09-02 15:59:45
+Request Successful!09-02 16:02:46
+Request Successful!09-02 16:05:47
+Request Successful!09-02 16:08:49
+Request Successful!09-02 16:11:50
+Request Successful!09-02 16:14:52
+Request Successful!09-02 16:17:53
+Request Successful!09-02 16:20:54
+Request Successful!09-02 16:23:56
+Request Successful!09-02 16:26:57
+Request Successful!09-02 16:29:59
+Request Successful!09-02 16:33:00
+Request Successful!09-02 16:36:02
+Request Successful!09-02 16:39:03
+Request Successful!09-02 16:42:05
+Request Successful!09-02 16:45:06
+Request Successful!09-02 16:48:07
+Request Successful!09-02 16:51:09
+Request Successful!09-02 16:54:10
+Request Successful!09-02 16:57:12
+Request Successful!09-02 17:00:14
+Request Successful!09-02 17:03:15
+Request Successful!09-02 17:06:16
+Request Successful!09-02 17:09:18
+Request Successful!09-02 17:12:19
+Request Successful!09-02 17:15:20
+Request Successful!09-02 17:18:22
+Request Successful!09-02 17:21:23
+Request Successful!09-02 17:24:25
+Request Successful!09-02 17:27:26
+Request Successful!09-02 17:30:27
+Request Successful!09-02 17:33:29
+Request Successful!09-02 17:36:30
+Request Successful!09-02 17:39:32
+Request Successful!09-02 17:42:33
+Request Successful!09-02 17:45:34
+Request Successful!09-02 17:48:36
+Request Successful!09-02 17:51:37
+Request Successful!09-02 17:54:38
+Request Successful!09-02 17:57:40
+Request Successful!09-02 18:00:41
+Request Successful!09-02 18:03:42
+Request Successful!09-02 18:06:44
+Request Successful!09-02 18:09:45
+Request Successful!09-02 18:12:47
+Request Successful!09-02 18:15:48
+Request Successful!09-02 18:18:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 15s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!09-02 18:22:01
+Request Successful!09-02 18:25:02
+Request Successful!09-02 18:28:03
+Request Successful!09-02 18:31:05
+Request Successful!09-02 18:34:06
+Request Successful!09-02 18:37:08
+Request Successful!09-02 18:40:09
+Request Successful!09-02 18:43:10
+Request Successful!09-02 18:46:12
+Request Successful!09-02 18:49:13
+Request Successful!09-02 18:52:14
+Request Successful!09-02 18:55:16
+Request Successful!09-02 18:58:17
+Request Successful!09-02 19:01:19
+Request Successful!09-02 19:04:20
+Request Successful!09-02 19:07:21
+Request Successful!09-02 19:10:23
+Request Successful!09-02 19:13:24
+Request Successful!09-02 19:16:25
+Request Successful!09-02 19:19:27
+Request Successful!09-02 19:22:28
+Request Successful!09-02 19:25:29
+Request Successful!09-02 19:28:31
+Request Successful!09-02 19:31:32
+Request Successful!09-02 19:34:34
+Request Successful!09-02 19:37:35
+Request Successful!09-02 19:40:37
+Request Successful!09-02 19:43:38
+Request Successful!09-02 19:46:39
+Request Successful!09-02 19:49:41
+Request Successful!09-02 19:52:42
+Request Successful!09-02 19:55:43
+Request Successful!09-02 19:58:44
+Request Successful!09-02 20:01:46
+Request Successful!09-02 20:04:47
+Request Successful!09-02 20:07:49
+Request Successful!09-02 20:10:50
+Request Successful!09-02 20:13:52
+Request Successful!09-02 20:16:53
+Request Successful!09-02 20:19:54
+Request Successful!09-02 20:22:56
+Request Successful!09-02 20:25:57
+Request Successful!09-02 20:28:59
+Request Successful!09-02 20:32:00
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+Icinga Cluster Status
+on
+b2biprddep1.sl3.comp.db.de
+Icinga 2 Cluster Problem: 1 endpoints are not connected.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 10s
+Icinga Cluster-Zone Status: bladeprdxsr2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+Zone 'bladeprdxsr2.sl3.comp.db.de' is not connected. Log lag: 3 minutes and 26 seconds
+Request Successful!09-02 20:35:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 44s
+Ping via IPv4: bladeprdxsr2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+CRITICAL - Host Unreachable (bladeprdxsr2.sl3.comp.db.de)
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 25s
+Icinga Cluster Status
+on
+b2biprddep1.sl3.comp.db.de
+Icinga 2 Cluster Problem: 1 endpoints are not connected.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 31s
+Icinga Cluster-Zone Status: bladeprdxsr2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+Zone 'bladeprdxsr2.sl3.comp.db.de' is not connected. Log lag: 6 minutes and 24 seconds
+Request Successful!09-02 20:38:56
+Request Successful!09-02 20:41:57
+Request Successful!09-02 20:44:59
+Request Successful!09-02 20:48:00
+Request Successful!09-02 20:51:02
+Request Successful!09-02 20:54:04
+Request Successful!09-02 20:57:05
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 15s
+Check size of queue "LQ.CUST3C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-02 21:00:17
+Request Successful!09-02 21:03:19
+Request Successful!09-02 21:06:20
+Request Successful!09-02 21:09:22
+Request Successful!09-02 21:12:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 24s
+Ping via IPv4: bladeprdxsr2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+pl 100% (100.00%)
+pl 100% (100.00%)
+PING CRITICAL - Packet loss = 100%
+Request Successful!09-02 22:31:50
+Request Successful!09-02 22:34:51
+Request Successful!09-02 22:37:53
+Request Successful!09-02 22:40:54
+Request Successful!09-02 22:43:56
+Request Successful!09-02 22:46:57
+Request Successful!09-02 22:49:59
+Request Successful!09-02 22:53:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 39s
+Ping via IPv4: bladeprdxsr2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+pl 100% (100.00%)
+pl 100% (100.00%)
+PING CRITICAL - Packet loss = 100%
+Request Successful!09-02 22:56:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 0s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-02 22:59:26
+Request Successful!09-02 23:02:28
+Request Successful!09-02 23:05:30
+Request Successful!09-02 23:08:31
+Request Successful!09-02 23:11:33
+Request Successful!09-02 23:14:34
+Request Successful!09-02 23:17:36
+Request Successful!09-02 23:20:38
+Request Successful!09-02 23:23:39

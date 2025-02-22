@@ -1,0 +1,178 @@
+Request Successful!10-01 16:56:31
+Request Successful!10-01 16:59:32
+Request Successful!10-01 17:02:34
+Request Successful!10-01 17:05:35
+Request Successful!10-01 17:08:36
+Request Successful!10-01 17:11:38
+Request Successful!10-01 17:14:39
+Request Successful!10-01 17:17:40
+Request Successful!10-01 17:20:42
+Request Successful!10-01 17:23:43
+Request Successful!10-01 17:26:44
+Request Successful!10-01 17:29:45
+Request Successful!10-01 17:32:47
+Request Successful!10-01 17:35:48
+Request Successful!10-01 17:38:49
+Request Successful!10-01 17:41:51
+Request Successful!10-01 17:44:52
+Request Successful!10-01 17:47:53
+Request Successful!10-01 17:50:55
+Request Successful!10-01 17:53:56
+Request Successful!10-01 17:56:57
+Request Successful!10-01 17:59:59
+Request Successful!10-01 18:03:00
+Request Successful!10-01 18:06:01
+Request Successful!10-01 18:09:03
+Request Successful!10-01 18:12:04
+Request Successful!10-01 18:15:06
+Request Successful!10-01 18:18:07
+Request Successful!10-01 18:21:08
+Request Successful!10-01 18:24:10
+Request Successful!10-01 18:27:11
+Request Successful!10-01 18:30:12
+Request Successful!10-01 18:33:13
+Request Successful!10-01 18:36:15
+Request Successful!10-01 18:39:16
+Request Successful!10-01 18:42:17
+Request Successful!10-01 18:45:19
+Request Successful!10-01 18:48:20
+Request Successful!10-01 18:51:21
+Request Successful!10-01 18:54:23
+Request Successful!10-01 18:57:24
+Request Successful!10-01 19:00:26
+Request Successful!10-01 19:03:27
+Request Successful!10-01 19:06:28
+Request Successful!10-01 19:09:30
+Request Successful!10-01 19:12:32
+Request Successful!10-01 19:15:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 32s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!10-01 19:18:45
+Request Successful!10-01 19:21:47
+Request Successful!10-01 19:24:48
+Request Successful!10-01 19:27:50
+Request Successful!10-01 19:30:51
+Request Successful!10-01 19:33:53
+Request Successful!10-01 19:36:55
+Request Successful!10-01 19:39:56
+Request Successful!10-01 19:42:57
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 16s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/10/01) error subdirectories.
+Request Successful!10-01 19:46:09
+Request Successful!10-01 19:49:11
+Request Successful!10-01 19:52:13
+Request Successful!10-01 19:55:14
+Request Successful!10-01 19:58:16
+Request Successful!10-01 20:01:17
+Request Successful!10-01 20:04:19
+Request Successful!10-01 20:07:20
+Request Successful!10-01 20:10:22
+Request Successful!10-01 20:13:23
+Request Successful!10-01 20:16:25
+Request Successful!10-01 20:19:26
+Request Successful!10-01 20:22:28
+Request Successful!10-01 20:25:29
+Request Successful!10-01 20:28:30
+Request Successful!10-01 20:31:32
+Request Successful!10-01 20:34:33
+Request Successful!10-01 20:37:37
+Request Successful!10-01 20:40:39
+Request Successful!10-01 20:43:40
+Request Successful!10-01 20:46:42
+Request Successful!10-01 20:49:43
+Request Successful!10-01 20:52:45
+Request Successful!10-01 20:55:46
+Request Successful!10-01 20:58:48
+Request Successful!10-01 21:01:49
+Request Successful!10-01 21:04:51
+Request Successful!10-01 21:07:52
+Request Successful!10-01 21:10:54
+Request Successful!10-01 21:13:55
+Request Successful!10-01 21:16:57
+Request Successful!10-01 21:19:58
+Request Successful!10-01 21:23:00
+Request Successful!10-01 21:26:01
+Request Successful!10-01 21:29:02
+Request Successful!10-01 21:32:04
+Request Successful!10-01 21:35:05
+Request Successful!10-01 21:38:07
+Request Successful!10-01 21:41:09
+Request Successful!10-01 21:44:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 2s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-01 21:47:25
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 16s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-01 21:50:39
+Request Successful!10-01 21:53:41
+Request Successful!10-01 21:56:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 10s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!10-01 21:59:54
+Request Successful!10-01 22:02:56
+Request Successful!10-01 22:05:58
+Request Successful!10-01 22:09:00
+Request Successful!10-01 22:12:01
+Request Successful!10-01 22:15:03
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 32s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_tafr
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 100350 entries in mon_events_processing_tafr. Critical threshold 100000 breached!
+Request Successful!10-01 22:18:15
+Request Successful!10-01 22:21:16
+Request Successful!10-01 22:24:18
+Request Successful!10-01 22:27:20
+Request Successful!10-01 22:30:22
+Request Successful!10-01 22:33:23
+Request Successful!10-01 22:36:25
+Request Successful!10-01 22:39:26
+Request Successful!10-01 22:42:27
+Request Successful!10-01 22:45:29
+Request Successful!10-01 22:48:30
+Request Successful!10-01 22:51:31
+Request Successful!10-01 22:54:33
+Request Successful!10-01 22:57:34
+Request Successful!10-01 23:00:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 1s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!10-01 23:03:47
+Request Successful!10-01 23:06:48
+Request Successful!10-01 23:09:50
+Request Successful!10-01 23:12:51
+Request Successful!10-01 23:15:52
+Request Successful!10-01 23:18:53
+Request Successful!10-01 23:21:55
+Request Successful!10-01 23:25:00

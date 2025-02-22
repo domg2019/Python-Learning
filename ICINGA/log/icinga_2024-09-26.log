@@ -1,0 +1,138 @@
+Request Successful!09-26 17:14:13
+Request Successful!09-26 17:17:14
+Request Successful!09-26 17:20:15
+Request Successful!09-26 17:23:17
+Request Successful!09-26 17:26:18
+Request Successful!09-26 17:29:19
+Request Successful!09-26 17:32:21
+Request Successful!09-26 17:35:22
+Request Successful!09-26 17:38:24
+Request Successful!09-26 17:41:25
+Request Successful!09-26 17:44:27
+Request Successful!09-26 17:47:28
+Request Successful!09-26 17:50:30
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 28s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!09-26 17:53:42
+Request Successful!09-26 17:56:44
+Request Successful!09-26 17:59:45
+Request Successful!09-26 18:02:47
+Request Successful!09-26 18:05:49
+Request Successful!09-26 18:08:51
+Request Successful!09-26 18:11:52
+Request Successful!09-26 18:14:54
+Request Successful!09-26 18:17:55
+Request Successful!09-26 18:20:57
+Request Successful!09-26 18:23:58
+Request Successful!09-26 18:27:00
+Request Successful!09-26 18:30:01
+Request Successful!09-26 18:33:03
+Request Successful!09-26 18:36:05
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 42s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-26 18:39:16
+Request Successful!09-26 18:42:18
+Request Successful!09-26 18:45:20
+Request Successful!09-26 18:48:21
+Request Successful!09-26 18:51:23
+Request Successful!09-26 18:54:24
+Request Successful!09-26 18:57:26
+Request Successful!09-26 19:00:27
+Request Successful!09-26 19:03:29
+Request Successful!09-26 19:06:31
+Request Successful!09-26 19:09:32
+Request Successful!09-26 19:12:34
+Request Successful!09-26 19:15:35
+Request Successful!09-26 19:18:37
+Request Successful!09-26 19:21:38
+Request Successful!09-26 19:24:40
+Request Successful!09-26 19:27:42
+Request Successful!09-26 19:30:43
+Request Successful!09-26 19:33:46
+Request Successful!09-26 19:36:48
+Request Successful!09-26 19:39:50
+Request Successful!09-26 19:42:51
+Request Successful!09-26 19:45:54
+Request Successful!09-26 19:48:55
+Request Successful!09-26 19:51:58
+Request Successful!09-26 19:55:00
+Request Successful!09-26 19:58:02
+Request Successful!09-26 20:01:04
+Request Successful!09-26 20:04:07
+Request Successful!09-26 20:07:09
+Request Successful!09-26 20:10:11
+Request Successful!09-26 20:13:13
+Request Successful!09-26 20:16:15
+Request Successful!09-26 20:19:17
+Request Successful!09-26 20:22:19
+Request Successful!09-26 20:25:20
+Request Successful!09-26 20:28:22
+Request Successful!09-26 20:31:24
+Request Successful!09-26 20:34:25
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 23s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-26 20:37:37
+Request Successful!09-26 20:40:39
+Request Successful!09-26 20:43:41
+Request Successful!09-26 20:46:43
+Request Successful!09-26 20:49:44
+Request Successful!09-26 20:52:46
+Request Successful!09-26 20:55:47
+Request Successful!09-26 20:58:49
+Request Successful!09-26 21:01:50
+Request Successful!09-26 21:04:52
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ED9CA35ED0>: Failed to resolve 'b2biprddep1.sl3.comp.db.de' ([Errno 11001] getaddrinfo failed)"))
+Request Successful!09-26 21:17:31
+Request Successful!09-26 21:37:36
+Request Successful!09-26 21:40:37
+Request Successful!09-26 21:51:01
+Request Successful!09-26 21:54:03
+Request Successful!09-26 21:58:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 43s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-26 22:01:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 56s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-26 22:04:28
+Request Successful!09-26 22:07:30
+Request Successful!09-26 22:10:31
+Request Successful!09-26 22:13:33
+Request Successful!09-26 22:16:34
+Request Successful!09-26 22:19:36
+Request Successful!09-26 22:22:38
+Request Successful!09-26 22:25:40
+Request Successful!09-26 22:28:41
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ED9CA37F10>: Failed to resolve 'b2biprddep1.sl3.comp.db.de' ([Errno 11001] getaddrinfo failed)"))
+Request Successful!09-26 22:51:30
+Request Successful!09-26 22:54:32
+Request Successful!09-26 22:57:34
+Request Successful!09-26 23:00:36
+Request Successful!09-26 23:03:38
+Request Successful!09-26 23:06:40
+Request Successful!09-26 23:09:43
+Request Successful!09-26 23:22:34

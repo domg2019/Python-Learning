@@ -1,0 +1,203 @@
+Request Successful!01-17 17:03:20
+Request Successful!01-17 17:06:21
+Request Successful!01-17 17:09:23
+Request Successful!01-17 17:12:25
+Request Successful!01-17 17:15:26
+Request Successful!01-17 17:18:28
+Request Successful!01-17 17:21:30
+Request Successful!01-17 17:24:31
+Request Successful!01-17 17:27:39
+Request Successful!01-17 17:30:41
+Request Successful!01-17 17:33:44
+Request Successful!01-17 17:36:46
+Request Successful!01-17 17:39:48
+Request Successful!01-17 17:42:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 23s
+Soft 1/2
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1B
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!01-17 17:46:02
+Request Successful!01-17 17:49:04
+Request Successful!01-17 17:52:05
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 31s
+Disk
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+/app/sword/shared 900.27 GiB (90.05%)
+/app/sword/shared 900.27 GiB (90.05%)
+/app/sword 77.09 GiB (77.13%)
+/app/sword 77.09 GiB (77.13%)
+/ 10.42 GiB (52.11%)
+/ 10.42 GiB (52.11%)
+/app/sword/shared/mounts/nfsserver 145.12 GiB (24.19%)
+/app/sword/shared/mounts/nfsserver 145.12 GiB (24.19%)
+/app/sword/shared/mounts/multicluster 145.12 GiB (24.19%)
+/app/sword/shared/mounts/multicluster 145.12 GiB (24.19%)
+...
+DISK CRITICAL - free space: / 9801 MB (47.88% inode=98%); /app/sword 23408 MB (22.87% inode=99%); /app/sword/shared 101874 MB (9.95% inode=95%); /mnt/archive 8796084543101 MB (99.99% inode=-); /app/sword/shared/mounts/nfsserver 465601 MB (75.80% inode=99%); /app/sword/shared/mounts/multicluster 465601 MB (75.80% inode=99%);
+Request Successful!01-17 17:55:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 41s
+Disk
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+/app/sword/shared 900.99 GiB (90.12%)
+/app/sword/shared 900.99 GiB (90.12%)
+/app/sword 77.08 GiB (77.12%)
+/app/sword 77.08 GiB (77.12%)
+/ 10.46 GiB (52.33%)
+/ 10.46 GiB (52.33%)
+/app/sword/shared/mounts/nfsserver 145.12 GiB (24.19%)
+/app/sword/shared/mounts/nfsserver 145.12 GiB (24.19%)
+/app/sword/shared/mounts/multicluster 145.12 GiB (24.19%)
+/app/sword/shared/mounts/multicluster 145.12 GiB (24.19%)
+...
+DISK CRITICAL - free space: / 9757 MB (47.67% inode=98%); /app/sword 23415 MB (22.87% inode=99%); /app/sword/shared 101138 MB (9.87% inode=95%); /mnt/archive 8796084543101 MB (99.99% inode=-); /app/sword/shared/mounts/nfsserver 465605 MB (75.80% inode=99%); /app/sword/shared/mounts/multicluster 465605 MB (75.80% inode=99%);
+Request Successful!01-17 17:58:27
+Request Successful!01-17 18:01:28
+Request Successful!01-17 18:04:30
+Request Successful!01-17 18:07:32
+Request Successful!01-17 18:10:34
+Request Successful!01-17 18:13:35
+Request Successful!01-17 18:16:37
+Request Successful!01-17 18:19:39
+Request Successful!01-17 18:22:41
+Request Successful!01-17 18:25:42
+Request Successful!01-17 18:28:44
+Request Successful!01-17 18:31:46
+Request Successful!01-17 18:34:47
+Request Successful!01-17 18:37:49
+Request Successful!01-17 18:40:51
+Request Successful!01-17 18:43:53
+Request Successful!01-17 18:46:55
+Request Successful!01-17 18:49:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 12s
+Check size of queue "LQ.CUST1C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 18:53:08
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 18:56:10
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 18:59:12
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:02:14
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:05:15
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:08:17
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:11:19
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:14:20
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:17:23
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:20:25
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:23:26
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:26:28
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:29:30
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:32:32
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:35:33
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:38:35
+check if there is a ticket. One critical alert is existed since 09:48
+Request Successful!01-17 19:41:37
+Request Successful!01-17 19:44:38
+Request Successful!01-17 19:47:40
+Request Successful!01-17 19:50:42
+Request Successful!01-17 19:53:43
+Request Successful!01-17 19:56:45
+Request Successful!01-17 19:59:47
+Request Successful!01-17 20:02:49
+Request Successful!01-17 20:05:50
+Request Successful!01-17 20:08:52
+Request Successful!01-17 20:11:54
+Request Successful!01-17 20:14:55
+Request Successful!01-17 20:17:57
+Request Successful!01-17 20:20:59
+Request Successful!01-17 20:24:01
+Request Successful!01-17 20:27:03
+Request Successful!01-17 20:30:05
+Request Successful!01-17 20:33:06
+Request Successful!01-17 20:36:08
+Request Successful!01-17 20:39:10
+Request Successful!01-17 20:42:12
+Request Successful!01-17 20:45:13
+Request Successful!01-17 20:48:15
+Request Successful!01-17 20:51:17
+Request Successful!01-17 20:54:19
+Request Successful!01-17 20:57:21
+Request Successful!01-17 21:00:22
+Request Successful!01-17 21:03:24
+Request Successful!01-17 21:06:26
+Request Successful!01-17 21:09:27
+Request Successful!01-17 21:12:29
+Request Successful!01-17 21:15:31
+Request Successful!01-17 21:18:32
+Request Successful!01-17 21:21:35
+Request Successful!01-17 21:24:36
+Request Successful!01-17 21:27:38
+Request Successful!01-17 21:30:40
+Request Successful!01-17 21:33:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 13s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-17 21:36:53
+Request Successful!01-17 21:39:56
+Request Successful!01-17 21:42:58
+Request Successful!01-17 21:46:00
+Request Successful!01-17 21:49:02
+Request Successful!01-17 21:52:03
+Request Successful!01-17 21:55:05
+Request Successful!01-17 21:58:07
+Request Successful!01-17 22:01:09
+Request Successful!01-17 22:04:11
+Request Successful!01-17 22:07:13
+Request Successful!01-17 22:10:15
+Request Successful!01-17 22:13:17
+Request Successful!01-17 22:16:19
+Request Successful!01-17 22:19:23
+Request Successful!01-17 22:22:25
+Request Successful!01-17 22:25:27
+Request Successful!01-17 22:28:29
+Request Successful!01-17 22:31:31
+Request Successful!01-17 22:34:33
+Request Successful!01-17 22:37:34
+Request Successful!01-17 22:40:36
+Request Successful!01-17 22:43:38
+Request Successful!01-17 22:46:40
+Request Successful!01-17 22:49:42
+Request Successful!01-17 22:52:44
+Request Successful!01-17 22:55:46
+Request Successful!01-17 22:58:48
+Request Successful!01-17 23:01:50
+Request Successful!01-17 23:04:52
+Request Successful!01-17 23:07:54
+Request Successful!01-17 23:10:55
+Request Successful!01-17 23:13:57
+Request Successful!01-17 23:16:59
+Request Successful!01-17 23:20:01
+Request Successful!01-17 23:23:03
+Request Successful!01-17 23:26:05
+Request Successful!01-17 23:29:07

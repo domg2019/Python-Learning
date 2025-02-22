@@ -1,0 +1,211 @@
+Request Successful!09-17 15:37:45
+Request Successful!09-17 15:40:47
+Request Successful!09-17 15:43:48
+Request Successful!09-17 15:46:49
+Request Successful!09-17 15:49:51
+Request Successful!09-17 15:52:52
+Request Successful!09-17 15:55:53
+Request Successful!09-17 15:58:55
+Request Successful!09-17 16:01:56
+Request Successful!09-17 16:04:57
+Request Successful!09-17 16:07:59
+Request Successful!09-17 16:11:00
+Request Successful!09-17 16:14:01
+Request Successful!09-17 16:17:03
+Request Successful!09-17 16:20:04
+Request Successful!09-17 16:23:05
+Request Successful!09-17 16:26:07
+Request Successful!09-17 16:29:08
+Request Successful!09-17 16:32:09
+Request Successful!09-17 16:35:11
+Request Successful!09-17 16:38:12
+Request Successful!09-17 16:41:13
+Request Successful!09-17 16:44:15
+Request Successful!09-17 16:47:16
+Request Successful!09-17 16:50:17
+Request Successful!09-17 16:53:19
+Request Successful!09-17 16:56:20
+Request Successful!09-17 16:59:21
+Request Successful!09-17 17:02:23
+Request Successful!09-17 17:05:24
+Request Successful!09-17 17:08:25
+Request Successful!09-17 17:11:27
+Request Successful!09-17 17:14:28
+Request Successful!09-17 17:17:29
+Request Successful!09-17 17:20:31
+Request Successful!09-17 17:23:32
+Request Successful!09-17 17:26:33
+Request Successful!09-17 17:29:35
+Request Successful!09-17 17:32:36
+Request Successful!09-17 17:35:37
+Request Successful!09-17 17:38:39
+Request Successful!09-17 17:41:40
+Request Successful!09-17 17:44:41
+Request Successful!09-17 17:47:43
+Request Successful!09-17 17:50:44
+Request Successful!09-17 17:53:45
+Request Successful!09-17 17:56:47
+Request Successful!09-17 17:59:48
+Request Successful!09-17 18:02:49
+Request Successful!09-17 18:05:51
+Request Successful!09-17 18:08:52
+Request Successful!09-17 18:11:53
+Request Successful!09-17 18:14:55
+Request Successful!09-17 18:17:57
+Request Successful!09-17 18:20:58
+Request Successful!09-17 18:24:00
+Request Successful!09-17 18:27:01
+Request Successful!09-17 18:30:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 48s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-17 18:33:14
+Request Successful!09-17 18:36:15
+Request Successful!09-17 18:39:17
+Request Successful!09-17 18:42:18
+Request Successful!09-17 18:45:20
+Request Successful!09-17 18:48:21
+Request Successful!09-17 18:51:23
+Request Successful!09-17 18:54:24
+Request Successful!09-17 18:57:26
+Request Successful!09-17 19:00:27
+Request Successful!09-17 19:03:28
+Request Successful!09-17 19:06:30
+Request Successful!09-17 19:09:31
+Request Successful!09-17 19:12:33
+Request Successful!09-17 19:15:34
+Request Successful!09-17 19:18:36
+Request Successful!09-17 19:21:37
+Request Successful!09-17 19:24:38
+Request Successful!09-17 19:27:40
+Request Successful!09-17 19:30:41
+Request Successful!09-17 19:33:42
+Request Successful!09-17 19:36:44
+Request Successful!09-17 19:39:45
+Request Successful!09-17 19:42:47
+Request Successful!09-17 19:45:48
+Request Successful!09-17 19:48:50
+Request Successful!09-17 19:51:51
+Request Successful!09-17 19:54:52
+Request Successful!09-17 19:57:54
+Request Successful!09-17 20:00:55
+Request Successful!09-17 20:03:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 15s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/09/17) error subdirectories.
+Request Successful!09-17 20:07:08
+Request Successful!09-17 20:10:10
+Request Successful!09-17 20:13:11
+Request Successful!09-17 20:16:12
+Request Successful!09-17 20:19:13
+Request Successful!09-17 20:22:15
+Request Successful!09-17 20:25:16
+Request Successful!09-17 20:28:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 14s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-17 20:31:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 25s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-17 20:34:41
+Request Successful!09-17 20:37:42
+Request Successful!09-17 20:40:43
+Request Successful!09-17 20:43:45
+Request Successful!09-17 20:46:46
+Request Successful!09-17 20:49:47
+Request Successful!09-17 20:52:49
+Request Successful!09-17 20:55:50
+Request Successful!09-17 20:58:51
+Request Successful!09-17 21:01:52
+Request Successful!09-17 21:04:54
+Request Successful!09-17 21:07:55
+Request Successful!09-17 21:10:56
+Request Successful!09-17 21:13:58
+Request Successful!09-17 21:16:59
+Request Successful!09-17 21:20:00
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 0s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-17 21:23:12
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 12s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-17 21:26:24
+Request Successful!09-17 21:29:25
+Request Successful!09-17 21:32:27
+Request Successful!09-17 21:35:28
+Request Successful!09-17 21:38:30
+Request Successful!09-17 21:41:31
+Request Successful!09-17 21:44:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 6s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!09-17 21:47:44
+Request Successful!09-17 21:50:46
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 40s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!09-17 21:53:57
+Request Successful!09-17 21:56:59
+Request Successful!09-17 22:00:00
+Request Successful!09-17 22:03:01
+Request Successful!09-17 22:06:03
+Request Successful!09-17 22:09:04
+Request Successful!09-17 22:12:05
+Request Successful!09-17 22:15:07
+Request Successful!09-17 22:18:08
+Request Successful!09-17 22:21:09
+Request Successful!09-17 22:24:11
+Request Successful!09-17 22:27:12
+Request Successful!09-17 22:30:13
+Request Successful!09-17 22:33:15
+Request Successful!09-17 22:36:16
+Request Successful!09-17 22:39:17
+Request Successful!09-17 22:42:18
+Request Successful!09-17 22:45:20
+Request Successful!09-17 22:48:21
+Request Successful!09-17 22:51:22
+Request Successful!09-17 22:54:24
+Request Successful!09-17 22:57:25
+Request Successful!09-17 23:00:26
+Request Successful!09-17 23:03:28
+Request Successful!09-17 23:06:29
+Request Successful!09-17 23:09:30
+Request Successful!09-17 23:12:31
+Request Successful!09-17 23:15:33
+Request Successful!09-17 23:18:34
+Request Successful!09-17 23:21:35
+Request Successful!09-17 23:24:37

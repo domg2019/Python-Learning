@@ -1,0 +1,200 @@
+Request Successful!07-09 16:07:19
+Request Successful!07-09 16:10:23
+Request Successful!07-09 16:13:27
+Request Successful!07-09 16:16:33
+Request Successful!07-09 16:19:39
+Request Successful!07-09 16:22:44
+Request Successful!07-09 16:25:47
+Request Successful!07-09 16:28:50
+Request Successful!07-09 16:31:57
+Request Successful!07-09 16:35:01
+Request Successful!07-09 16:38:03
+Request Successful!07-09 16:41:05
+Request Successful!07-09 16:44:08
+Request Successful!07-09 16:47:10
+Request Successful!07-09 16:50:13
+Request Successful!07-09 16:53:15
+Request Successful!07-09 16:56:18
+Request Successful!07-09 16:59:20
+Request Successful!07-09 17:02:23
+Request Successful!07-09 17:05:25
+Request Successful!07-09 17:08:28
+Request Successful!07-09 17:11:31
+Request Successful!07-09 17:14:33
+Request Successful!07-09 17:17:35
+Request Successful!07-09 17:20:38
+Request Successful!07-09 17:23:40
+Request Successful!07-09 17:26:43
+Request Successful!07-09 17:29:45
+Request Successful!07-09 17:32:56
+Request Successful!07-09 17:36:01
+Request Successful!07-09 17:39:02
+Request Successful!07-09 17:42:05
+Request Successful!07-09 17:45:07
+Request Successful!07-09 17:48:10
+Request Successful!07-09 17:51:12
+Request Successful!07-09 17:54:15
+Request Successful!07-09 17:57:17
+Request Successful!07-09 18:00:20
+Request Successful!07-09 18:03:22
+Request Successful!07-09 18:06:24
+Request Successful!07-09 18:09:26
+Request Successful!07-09 18:12:29
+Request Successful!07-09 18:15:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 43s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!07-09 18:18:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 56s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!07-09 18:21:57
+Request Successful!07-09 18:24:59
+Request Successful!07-09 18:28:01
+Request Successful!07-09 18:31:04
+Request Successful!07-09 18:34:06
+Request Successful!07-09 18:37:08
+Request Successful!07-09 18:40:10
+Request Successful!07-09 18:43:12
+Request Successful!07-09 18:46:15
+Request Successful!07-09 18:49:17
+Request Successful!07-09 18:52:19
+Request Successful!07-09 18:55:21
+Request Successful!07-09 18:58:24
+Request Successful!07-09 19:01:26
+Request Successful!07-09 19:04:29
+Request Successful!07-09 19:07:31
+Request Successful!07-09 19:10:33
+Request Successful!07-09 19:13:36
+Request Successful!07-09 19:16:38
+Request Successful!07-09 19:19:41
+Request Successful!07-09 19:22:43
+Request Successful!07-09 19:25:46
+Request Successful!07-09 19:28:48
+Request Successful!07-09 19:31:50
+Request Successful!07-09 19:34:52
+Request Successful!07-09 19:37:54
+Request Successful!07-09 19:40:55
+Request Successful!07-09 19:43:57
+Request Successful!07-09 19:46:59
+Request Successful!07-09 19:50:01
+Request Successful!07-09 19:53:03
+Request Successful!07-09 19:56:04
+Request Successful!07-09 19:59:06
+Request Successful!07-09 20:02:08
+Request Successful!07-09 20:05:10
+Request Successful!07-09 20:08:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 13s
+Check memory
+on
+B2Bi Application Server - Stream 1B
+MEMORY CRITICAL - 8.98725% Free - Total:68.5371G Active:48.34G Inactive:6.84512G Buffers:0G Cached:5.10943G
+Request Successful!07-09 20:11:22
+Request Successful!07-09 20:14:24
+Request Successful!07-09 20:17:26
+Request Successful!07-09 20:20:28
+Request Successful!07-09 20:23:29
+Request Successful!07-09 20:26:31
+Request Successful!07-09 20:29:33
+Request Successful!07-09 20:32:35
+Request Successful!07-09 20:35:36
+Request Successful!07-09 20:38:38
+Request Successful!07-09 20:41:40
+Request Successful!07-09 20:44:42
+Request Successful!07-09 20:47:43
+Request Successful!07-09 20:50:45
+Request Successful!07-09 20:53:47
+Request Successful!07-09 20:56:49
+Request Successful!07-09 20:59:51
+Request Successful!07-09 21:02:53
+Request Successful!07-09 21:05:54
+Request Successful!07-09 21:08:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 38s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_9931"/"queue_16"):
+Request Successful!07-09 21:12:08
+Request Successful!07-09 21:15:10
+Request Successful!07-09 21:18:12
+Request Successful!07-09 21:21:13
+Request Successful!07-09 21:24:15
+Request Successful!07-09 21:27:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 32s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!07-09 21:30:29
+Request Successful!07-09 21:33:31
+Request Successful!07-09 21:36:33
+Request Successful!07-09 21:39:35
+Request Successful!07-09 21:42:36
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 40s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!07-09 21:45:48
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 53s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!07-09 21:49:01
+Request Successful!07-09 21:52:02
+Request Successful!07-09 21:55:04
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 11s
+Check memory
+on
+B2Bi Application Server - Stream 1B
+MEMORY CRITICAL - 6.77445% Free - Total:68.5371G Active:45.0034G Inactive:4.18497G Buffers:0G Cached:0.452278G
+Request Successful!07-09 21:58:16
+Request Successful!07-09 22:01:17
+Request Successful!07-09 22:04:19
+Request Successful!07-09 22:07:21
+Request Successful!07-09 22:10:23
+Request Successful!07-09 22:13:24
+Request Successful!07-09 22:16:26
+Request Successful!07-09 22:19:28
+Request Successful!07-09 22:22:30
+Request Successful!07-09 22:25:31
+Request Successful!07-09 22:28:33
+Request Successful!07-09 22:31:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 27s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!07-09 22:34:47
+Request Successful!07-09 22:37:49
+Request Successful!07-09 22:40:50
+Request Successful!07-09 22:43:52
+Request Successful!07-09 22:46:54
+Request Successful!07-09 22:49:56
+Request Successful!07-09 22:52:58
+Request Successful!07-09 22:55:59
+Request Successful!07-09 22:59:01
+Request Successful!07-09 23:02:03

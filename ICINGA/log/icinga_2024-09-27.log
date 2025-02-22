@@ -1,0 +1,175 @@
+Request Successful!09-27 16:01:57
+Request Successful!09-27 16:04:59
+Request Successful!09-27 16:08:00
+Request Successful!09-27 16:11:02
+Request Successful!09-27 16:14:03
+Request Successful!09-27 16:17:05
+Request Successful!09-27 16:20:06
+Request Successful!09-27 16:23:07
+Request Successful!09-27 16:26:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 53s
+Check size of queue "LQ.CUST5C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-27 16:29:21
+Request Successful!09-27 16:32:24
+Request Successful!09-27 16:35:25
+Request Successful!09-27 16:38:26
+Request Successful!09-27 16:41:28
+Request Successful!09-27 16:44:29
+Request Successful!09-27 16:47:31
+Request Successful!09-27 16:50:32
+Request Successful!09-27 16:53:33
+Request Successful!09-27 16:56:35
+Request Successful!09-27 16:59:36
+Request Successful!09-27 17:02:40
+Request Successful!09-27 17:05:41
+Request Successful!09-27 17:08:42
+Request Successful!09-27 17:11:44
+Request Successful!09-27 17:14:45
+Request Successful!09-27 17:17:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 5s
+B2Bi queue health: "B2Bi Logger 11"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi Logger 11" ("logger_1567"/"queue_13"):
+Request Successful!09-27 17:20:59
+Request Successful!09-27 17:24:00
+Request Successful!09-27 17:27:02
+Request Successful!09-27 17:30:03
+Request Successful!09-27 17:33:04
+Request Successful!09-27 17:36:06
+Request Successful!09-27 17:39:07
+Request Successful!09-27 17:42:08
+Request Successful!09-27 17:45:10
+Request Successful!09-27 17:48:11
+Request Successful!09-27 17:51:13
+Request Successful!09-27 17:54:14
+Request Successful!09-27 17:57:15
+Request Successful!09-27 18:00:17
+Request Successful!09-27 18:03:18
+Request Successful!09-27 18:06:20
+Request Successful!09-27 18:09:21
+Request Successful!09-27 18:12:22
+Request Successful!09-27 18:15:24
+Request Successful!09-27 18:18:25
+Request Successful!09-27 18:21:26
+Request Successful!09-27 18:24:28
+Request Successful!09-27 18:27:30
+Request Successful!09-27 18:30:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 45s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-27 18:33:42
+Request Successful!09-27 18:36:44
+Request Successful!09-27 18:39:45
+Request Successful!09-27 18:42:46
+Request Successful!09-27 18:45:48
+Request Successful!09-27 18:48:49
+Request Successful!09-27 18:51:50
+Request Successful!09-27 18:54:52
+Request Successful!09-27 18:57:53
+Request Successful!09-27 19:00:55
+Request Successful!09-27 19:03:56
+Request Successful!09-27 19:06:57
+Request Successful!09-27 19:09:59
+Request Successful!09-27 19:13:00
+Request Successful!09-27 19:16:01
+Request Successful!09-27 19:19:03
+Request Successful!09-27 19:22:04
+Request Successful!09-27 19:25:05
+Request Successful!09-27 19:28:07
+Request Successful!09-27 19:31:08
+Request Successful!09-27 19:34:09
+Request Successful!09-27 19:37:11
+Request Successful!09-27 19:40:12
+Request Successful!09-27 19:43:13
+Request Successful!09-27 19:46:15
+Request Successful!09-27 19:49:16
+Request Successful!09-27 19:52:17
+Request Successful!09-27 19:55:19
+Request Successful!09-27 19:58:20
+Request Successful!09-27 20:01:22
+Request Successful!09-27 20:04:23
+Request Successful!09-27 20:07:24
+Request Successful!09-27 20:10:26
+Request Successful!09-27 20:13:27
+Request Successful!09-27 20:16:29
+Request Successful!09-27 20:19:30
+Request Successful!09-27 20:22:32
+Request Successful!09-27 20:25:33
+Request Successful!09-27 20:28:35
+Request Successful!09-27 20:31:36
+Request Successful!09-27 20:34:38
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 27s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-27 20:37:50
+Request Successful!09-27 20:40:52
+Request Successful!09-27 20:43:53
+Request Successful!09-27 20:46:54
+Request Successful!09-27 20:49:56
+Request Successful!09-27 20:52:57
+Request Successful!09-27 20:55:58
+Request Successful!09-27 20:59:00
+Request Successful!09-27 21:02:01
+Request Successful!09-27 21:05:02
+Request Successful!09-27 21:08:04
+Request Successful!09-27 21:11:05
+Request Successful!09-27 21:14:06
+Request Successful!09-27 21:17:08
+Request Successful!09-27 21:20:09
+Request Successful!09-27 21:23:11
+Request Successful!09-27 21:26:12
+Request Successful!09-27 21:29:14
+Request Successful!09-27 21:32:15
+Request Successful!09-27 21:35:16
+Request Successful!09-27 21:38:18
+Request Successful!09-27 21:41:19
+Request Successful!09-27 21:44:21
+Request Successful!09-27 21:47:22
+Request Successful!09-27 21:50:24
+Request Successful!09-27 21:53:25
+Request Successful!09-27 21:56:26
+Request Successful!09-27 21:59:27
+Request Successful!09-27 22:02:31
+Request Successful!09-27 22:05:32
+Request Successful!09-27 22:08:33
+Request Successful!09-27 22:11:34
+Request Successful!09-27 22:14:36
+Request Successful!09-27 22:17:37
+Request Successful!09-27 22:20:38
+Request Successful!09-27 22:23:39
+Request Successful!09-27 22:26:41
+Request Successful!09-27 22:29:42
+Request Successful!09-27 22:32:43
+Request Successful!09-27 22:35:44
+Request Successful!09-27 22:38:46
+Request Successful!09-27 22:41:47
+Request Successful!09-27 22:44:48
+Request Successful!09-27 22:47:50
+Request Successful!09-27 22:50:51
+Request Successful!09-27 22:53:52
+Request Successful!09-27 22:56:53
+Request Successful!09-27 22:59:55
+Request Successful!09-27 23:02:56
+Request Successful!09-27 23:05:57
+Request Successful!09-27 23:08:59
+Request Successful!09-27 23:12:00
+Request Successful!09-27 23:15:01
+Request Successful!09-27 23:18:02
+Request Successful!09-27 23:21:04
+Request Successful!09-27 23:24:05

@@ -1,0 +1,166 @@
+Request Successful!11-25 15:42:45
+Request Successful!11-25 15:45:47
+Request Successful!11-25 15:48:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 57s
+Icinga Cluster Status
+on
+b2biprddep1.sl3.comp.db.de
+Icinga 2 Cluster Problem: 1 endpoints are not connected.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 17s
+Icinga Cluster-Zone Status: bladeprdprx2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+Zone 'bladeprdprx2.sl3.comp.db.de' is not connected. Log lag: 5 minutes and 16 seconds
+Request Successful!11-25 15:52:11
+Request Successful!11-25 15:55:13
+Request Successful!11-25 15:58:14
+Request Successful!11-25 16:01:16
+Request Successful!11-25 16:04:18
+Request Successful!11-25 16:07:19
+Request Successful!11-25 16:10:21
+Request Successful!11-25 16:13:23
+Request Successful!11-25 16:16:25
+Request Successful!11-25 16:19:27
+Request Successful!11-25 16:22:28
+Request Successful!11-25 16:25:30
+Request Successful!11-25 16:28:32
+Request Successful!11-25 16:31:36
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 32s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!11-25 16:34:49
+Request Successful!11-25 16:37:50
+Request Successful!11-25 16:40:56
+Request Successful!11-25 16:43:58
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 37s
+Check size of queue "LQ.CUST3C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+check if there is a ticket. One critical alert is existed since 15:43
+check if there is a ticket. One critical alert is existed since 15:43
+Request Successful!11-25 16:47:11
+Request Successful!11-25 16:50:12
+Request Successful!11-25 16:53:14
+Request Successful!11-25 16:56:17
+Request Successful!11-25 16:59:19
+Request Successful!11-25 17:02:21
+Request Successful!11-25 17:05:23
+Request Successful!11-25 17:08:25
+Request Successful!11-25 17:11:27
+Request Successful!11-25 17:14:28
+Request Successful!11-25 17:17:30
+Request Successful!11-25 17:20:32
+Request Successful!11-25 17:23:34
+Request Successful!11-25 17:26:35
+Request Successful!11-25 17:29:37
+Request Successful!11-25 17:32:39
+Request Successful!11-25 17:35:40
+Request Successful!11-25 17:38:42
+Request Successful!11-25 17:41:43
+Request Successful!11-25 17:44:45
+Request Successful!11-25 17:47:48
+Request Successful!11-25 17:50:50
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!11-25 17:57:27
+Request Successful!11-25 18:00:29
+Request Successful!11-25 18:03:31
+Request Successful!11-25 18:06:32
+Request Successful!11-25 18:09:34
+Request Successful!11-25 18:12:36
+Request Successful!11-25 18:15:39
+Request Successful!11-25 18:18:40
+Request Successful!11-25 18:21:42
+Request Successful!11-25 18:24:44
+Request Successful!11-25 18:27:46
+Request Successful!11-25 18:30:48
+Request Successful!11-25 18:33:50
+Request Successful!11-25 18:36:51
+Request Successful!11-25 18:39:53
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 6s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!11-25 18:43:05
+Request Successful!11-25 18:46:07
+Request Successful!11-25 18:49:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 1s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!11-25 18:52:21
+Request Successful!11-25 18:55:23
+Request Successful!11-25 18:58:25
+Request Successful!11-25 19:01:27
+Request Successful!11-25 19:04:29
+Request Successful!11-25 19:07:31
+Request Successful!11-25 19:10:35
+Request Successful!11-25 19:13:37
+Request Successful!11-25 19:16:39
+Request Successful!11-25 19:19:41
+Request Successful!11-25 19:22:43
+Request Successful!11-25 19:25:45
+Request Successful!11-25 19:28:47
+Request Successful!11-25 19:31:49
+Request Successful!11-25 19:34:52
+Request Successful!11-25 19:37:54
+Request Successful!11-25 19:40:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 22s
+Check Ignite health.
+on
+B2Bi Ignite Server 1 - Stream 3 (Multicluster)
+Found server nodes not part of the baseline
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 50s
+Check Ignite health.
+on
+B2Bi Ignite Server 2 - Stream 3 (Multicluster)
+Found server nodes not part of the baseline
+Request Successful!11-25 19:44:18
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 18s
+Checks state of Ignite utilizing control.sh
+on
+B2Bi Ignite Server 2 - Stream 3 (Multicluster)
+WARNING: An illegal reflective access operation has occurred
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 19s
+Checks state of Ignite utilizing control.sh
+on
+B2Bi Ignite Server 1 - Stream 3 (Multicluster)
+WARNING: An illegal reflective access operation has occurred
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 28s
+Check Ignite health.
+on
+B2Bi Ignite Server 3 - Stream 3 (Multicluster)
+Found server nodes not part of the baseline
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 44s
+Check Ignite health.
+on
+B2Bi Ignite Server 1 - Stream 3 (Multicluster)
+Found server nodes not part of the baseline

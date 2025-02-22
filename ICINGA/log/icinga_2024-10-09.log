@@ -1,0 +1,59 @@
+Request Successful!10-09 21:11:26
+Request Successful!10-09 21:14:27
+Request Successful!10-09 21:17:29
+Request Successful!10-09 21:20:30
+Request Successful!10-09 21:23:31
+Request Successful!10-09 21:26:33
+Request Successful!10-09 21:29:34
+Request Successful!10-09 21:32:35
+Request Successful!10-09 21:35:37
+Request Successful!10-09 21:38:38
+Request Successful!10-09 21:41:40
+Request Successful!10-09 21:44:41
+Request Successful!10-09 21:47:43
+Request Successful!10-09 21:50:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 55s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!10-09 21:53:57
+Request Successful!10-09 21:56:59
+Request Successful!10-09 22:00:01
+Request Successful!10-09 22:03:02
+Request Successful!10-09 22:06:04
+Request Successful!10-09 22:09:05
+Request Successful!10-09 22:12:07
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 56s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialITT_SEND_SendMessageToComServer_HM" ("hierchmessage_7760"/"queue_13"):
+Request Successful!10-09 22:15:18
+Request Successful!10-09 22:18:19
+Request Successful!10-09 22:21:21
+Request Successful!10-09 22:24:22
+Request Successful!10-09 22:27:23
+Request Successful!10-09 22:30:24
+Request Successful!10-09 22:33:26
+Request Successful!10-09 22:36:27
+Request Successful!10-09 22:39:29
+Request Successful!10-09 22:42:30
+Request Successful!10-09 22:45:31
+Request Successful!10-09 22:48:33
+Request Successful!10-09 22:51:34
+Request Successful!10-09 22:54:35
+Request Successful!10-09 22:57:37
+Request Successful!10-09 23:00:38
+Request Successful!10-09 23:03:39
+Request Successful!10-09 23:06:41
+Request Successful!10-09 23:09:42
+Request Successful!10-09 23:12:43
+Request Successful!10-09 23:15:45
+Request Successful!10-09 23:18:46
+Request Successful!10-09 23:21:47
+Request Successful!10-09 23:24:49

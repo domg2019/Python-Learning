@@ -1,0 +1,150 @@
+Request Successful!12-09 15:40:42
+Request Successful!12-09 15:43:44
+Request Successful!12-09 15:46:45
+Request Successful!12-09 15:49:46
+Request Successful!12-09 15:52:48
+Request Successful!12-09 15:55:50
+Request Successful!12-09 15:58:52
+Request Successful!12-09 16:01:54
+Request Successful!12-09 16:04:55
+Request Successful!12-09 16:07:57
+Request Successful!12-09 16:10:58
+Request Successful!12-09 16:14:00
+Request Successful!12-09 16:17:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 44s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 68200.67 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-09 16:20:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 56s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 68200.67 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-09 16:23:26
+Request Successful!12-09 16:26:28
+Request Successful!12-09 16:29:29
+Request Successful!12-09 16:32:31
+Request Successful!12-09 16:35:32
+Request Successful!12-09 16:38:34
+Request Successful!12-09 16:41:36
+Request Successful!12-09 16:44:37
+Request Successful!12-09 16:47:39
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 58s
+Check size of queue "LQ.SDAG.CE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!12-09 16:50:50
+Request Successful!12-09 16:53:52
+Request Successful!12-09 16:56:53
+Request Successful!12-09 16:59:55
+Request Successful!12-09 17:02:57
+Request Successful!12-09 17:05:58
+Request Successful!12-09 17:09:00
+Request Successful!12-09 17:12:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 21s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 61700.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-09 17:15:13
+Request Successful!12-09 17:18:15
+Request Successful!12-09 17:21:17
+Request Successful!12-09 17:24:18
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 13s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!12-09 17:27:32
+Request Successful!12-09 17:30:33
+Request Successful!12-09 22:19:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 18s
+Check if we still can reach out to the world.
+on
+Communication Server 1 Production
+/bin/touch: cannot touch ¡®/opt/sword/tools/shards/run/check_hello_world_out.202412091516.log¡¯: No space left on device
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 9s
+Send test eMail to de.tm.ess.b2biprd1.sword@dbschenker.com and expect it back.
+on
+B2Bi Application Server - Stream 1A
+Timed out waiting for test file after 1500 seconds.
+Request Successful!12-09 22:22:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 39s
+Check if we still can reach out to the world.
+on
+Communication Server 1 Production
+/bin/touch: cannot touch ¡®/opt/sword/tools/shards/run/check_hello_world_out.202412091521.log¡¯: No space left on device
+Request Successful!12-09 22:26:08
+Request Successful!12-09 22:29:10
+Request Successful!12-09 22:32:11
+Request Successful!12-09 22:35:13
+Request Successful!12-09 22:38:16
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:41:18
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:44:19
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 0s
+Check disk /
+on
+Communication Server 1 Production
+/ 19.29 GiB (96.49%)
+/ 19.29 GiB (96.49%)
+DISK CRITICAL - free space: / 718 MB (3.50% inode=90%);
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:47:31
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:50:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 2s
+Check if we still can reach out to the world.
+on
+Communication Server 1 Production
+/bin/touch: cannot touch ¡®/opt/sword/tools/shards/run/check_hello_world_out.202412091547.log¡¯: No space left on device
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:53:45
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:56:46
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 22:59:48
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:02:50
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:05:52
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:08:53
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:11:55
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:14:56
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:17:58
+check if there is a ticket. One critical alert is existed since 14:15
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:21:00
+check if there is a ticket. One critical alert is existed since 14:15
+check if there is a ticket. One critical alert is existed since 13:35
+Request Successful!12-09 23:24:01
+check if there is a ticket. One critical alert is existed since 14:15
+check if there is a ticket. One critical alert is existed since 13:35

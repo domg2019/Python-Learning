@@ -1,0 +1,225 @@
+Request Successful!01-27 16:34:28
+Request Successful!01-27 16:37:30
+Request Successful!01-27 16:40:31
+Request Successful!01-27 16:43:33
+Request Successful!01-27 16:46:34
+Request Successful!01-27 16:49:36
+Request Successful!01-27 16:52:37
+Request Successful!01-27 16:55:39
+Request Successful!01-27 16:58:40
+Request Successful!01-27 17:01:42
+Request Successful!01-27 17:04:43
+Request Successful!01-27 17:07:44
+Request Successful!01-27 17:10:46
+Request Successful!01-27 17:13:47
+Request Successful!01-27 17:16:49
+Request Successful!01-27 17:19:50
+Request Successful!01-27 17:22:51
+Request Successful!01-27 17:25:53
+Request Successful!01-27 17:28:54
+Request Successful!01-27 17:31:56
+Request Successful!01-27 17:34:57
+Request Successful!01-27 17:37:59
+Request Successful!01-27 17:41:00
+Request Successful!01-27 17:44:01
+Request Successful!01-27 17:47:03
+Request Successful!01-27 17:50:04
+Request Successful!01-27 17:53:06
+Request Successful!01-27 17:56:07
+Request Successful!01-27 17:59:08
+Request Successful!01-27 18:02:10
+Request Successful!01-27 18:05:11
+Request Successful!01-27 18:08:13
+Request Successful!01-27 18:11:14
+Request Successful!01-27 18:14:16
+Request Successful!01-27 18:17:17
+Request Successful!01-27 18:20:19
+Request Successful!01-27 18:23:21
+Request Successful!01-27 18:26:22
+Request Successful!01-27 18:29:24
+Request Successful!01-27 18:32:25
+Request Successful!01-27 18:35:27
+Request Successful!01-27 18:38:28
+Request Successful!01-27 18:41:30
+Request Successful!01-27 18:44:31
+Request Successful!01-27 18:47:32
+Request Successful!01-27 18:50:34
+Request Successful!01-27 18:53:35
+Request Successful!01-27 18:56:37
+Request Successful!01-27 18:59:38
+Request Successful!01-27 19:02:39
+Request Successful!01-27 19:05:41
+Request Successful!01-27 19:08:42
+Request Successful!01-27 19:11:44
+Request Successful!01-27 19:14:45
+Request Successful!01-27 19:17:47
+Request Successful!01-27 19:20:48
+Request Successful!01-27 19:23:49
+Request Successful!01-27 19:26:51
+Request Successful!01-27 19:29:52
+Request Successful!01-27 19:32:54
+Request Successful!01-27 19:35:55
+Request Successful!01-27 19:38:57
+Request Successful!01-27 19:41:58
+Request Successful!01-27 19:45:00
+Request Successful!01-27 19:48:01
+Request Successful!01-27 19:51:03
+Request Successful!01-27 19:54:04
+Request Successful!01-27 19:57:05
+Request Successful!01-27 20:00:07
+Request Successful!01-27 20:03:09
+Request Successful!01-27 20:06:10
+Request Successful!01-27 20:09:12
+Request Successful!01-27 20:12:13
+Request Successful!01-27 20:15:15
+Request Successful!01-27 20:18:16
+Request Successful!01-27 20:21:17
+Request Successful!01-27 20:24:19
+Request Successful!01-27 20:27:20
+Request Successful!01-27 20:30:22
+Request Successful!01-27 20:33:23
+Request Successful!01-27 20:36:25
+Request Successful!01-27 20:39:26
+Request Successful!01-27 20:42:28
+Request Successful!01-27 20:45:29
+Request Successful!01-27 20:51:31
+Request Successful!01-27 20:54:32
+Request Successful!01-27 20:57:34
+Request Successful!01-27 21:00:35
+Request Successful!01-27 21:03:37
+Request Successful!01-27 21:06:38
+Request Successful!01-27 21:09:39
+Request Successful!01-27 21:12:41
+Request Successful!01-27 21:15:42
+Request Successful!01-27 21:18:44
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Request Successful!01-27 21:24:54
+Request Successful!01-27 21:27:55
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 56s
+Check size of queue "LQ.C2K.TO.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-27 21:31:08
+Request Successful!01-27 21:34:10
+Request Successful!01-27 21:37:11
+Request Successful!01-27 21:40:13
+Request Successful!01-27 21:43:14
+Request Successful!01-27 21:46:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 9s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-27 21:49:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 21s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-27 21:52:40
+Request Successful!01-27 21:55:42
+Request Successful!01-27 21:58:43
+Request Successful!01-27 22:01:45
+Request Successful!01-27 22:04:47
+Request Successful!01-27 22:07:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 37s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!01-27 22:11:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 50s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!01-27 22:14:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 57s
+Check size of queue "LQ.CUST1C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-27 22:17:26
+Request Successful!01-27 22:20:28
+Request Successful!01-27 22:23:30
+Request Successful!01-27 22:26:32
+Request Successful!01-27 22:29:34
+Request Successful!01-27 22:32:36
+Request Successful!01-27 22:35:37
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 50s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_15_Out_CASE_DeliveryType"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_15_Out_CASE_DeliveryType" ("hierchmessage_7512"/"queue_13"):
+Request Successful!01-27 22:38:50
+Request Successful!01-27 22:41:52
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 17s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_2_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_2_SAG_ETGOIT_HM" ("hierchmessage_11211"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 1s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 20s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 31s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : No data received from host
+Request Successful!01-27 22:45:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 58s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_2_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_2_SAG_ETGOIT_HM" ("hierchmessage_11211"/"queue_13"):
+Request Successful!01-27 22:48:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 39s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-27 22:51:57
+Request Successful!01-27 22:54:59
+Request Successful!01-27 22:58:00
+Request Successful!01-27 23:01:03
+Request Successful!01-27 23:04:04
+Request Successful!01-27 23:07:06
+Request Successful!01-27 23:10:07
+Request Successful!01-27 23:13:09
+Request Successful!01-27 23:16:10
+Request Successful!01-27 23:19:11
+Request Successful!01-27 23:22:13

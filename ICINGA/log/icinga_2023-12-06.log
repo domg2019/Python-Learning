@@ -1,0 +1,77 @@
+Request Successful!12-06 15:52:18
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 15:55:20
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 15:58:22
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:01:24
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:04:27
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:07:29
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:10:31
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:13:33
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:16:35
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:19:37
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:22:39
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:25:41
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:28:43
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:31:45
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:34:47
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:37:49
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:40:51
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:43:52
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:46:54
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:49:56
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:52:58
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 45s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:56:10
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 16:59:12
+check if there is a ticket. One critical alert is existed since 14:12
+Request Successful!12-06 17:02:14
+Request Successful!12-06 17:05:16
+Request Successful!12-06 17:08:18
+Request Successful!12-06 17:11:20
+Request Successful!12-06 17:14:21
+Request Successful!12-06 17:17:23
+Request Successful!12-06 17:20:25
+Request Successful!12-06 17:23:27
+Request Successful!12-06 17:26:29
+Request Successful!12-06 17:29:31
+Request Successful!12-06 17:32:33
+Request Successful!12-06 17:35:35
+Request Successful!12-06 17:38:37
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 49s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!12-06 17:41:48
+16 unhandled critical alerts
+Request Successful!12-06 17:45:01
+25 unhandled critical alerts

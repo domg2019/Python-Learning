@@ -1,0 +1,30 @@
+Request Successful!11-09 19:35:03
+Request Successful!11-09 19:38:05
+Request Successful!11-09 19:41:06
+Request Successful!11-09 19:44:08
+Request Successful!11-09 19:47:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 0s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!11-09 19:50:21
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 12s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!11-09 19:53:33
+Request Successful!11-09 19:56:34
+Request Successful!11-09 19:59:36
+Request Successful!11-09 20:02:37
+Request Successful!11-09 20:05:39
+Request Successful!11-09 20:08:40
+Request Successful!11-09 20:11:42
+Request Successful!11-09 20:14:43
+Request Successful!11-09 20:17:44
+Request Successful!11-09 20:20:46

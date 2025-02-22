@@ -1,0 +1,191 @@
+Request Successful!09-30 15:38:34
+Request Successful!09-30 15:41:36
+Request Successful!09-30 15:44:37
+Request Successful!09-30 15:47:39
+Request Successful!09-30 15:50:43
+Request Successful!09-30 15:53:45
+Request Successful!09-30 15:56:46
+Request Successful!09-30 15:59:48
+Request Successful!09-30 16:02:51
+Request Successful!09-30 16:05:53
+Request Successful!09-30 16:08:54
+Request Successful!09-30 16:11:58
+Request Successful!09-30 16:15:00
+Request Successful!09-30 16:18:01
+Request Successful!09-30 16:21:03
+Request Successful!09-30 16:24:04
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 23s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/09/30) error subdirectories.
+Request Successful!09-30 16:27:17
+Request Successful!09-30 16:30:19
+Request Successful!09-30 16:33:20
+Request Successful!09-30 16:36:22
+Request Successful!09-30 16:39:23
+Request Successful!09-30 16:42:25
+Request Successful!09-30 16:45:26
+Request Successful!09-30 16:48:27
+Request Successful!09-30 16:51:29
+Request Successful!09-30 16:54:30
+Request Successful!09-30 16:57:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 41s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/09/30) error subdirectories.
+Request Successful!09-30 17:00:43
+Request Successful!09-30 17:03:44
+Request Successful!09-30 17:06:46
+Request Successful!09-30 17:09:47
+Request Successful!09-30 17:12:48
+Request Successful!09-30 17:15:50
+Request Successful!09-30 17:18:51
+Request Successful!09-30 17:21:52
+Request Successful!09-30 17:24:54
+Request Successful!09-30 17:27:55
+Request Successful!09-30 17:30:57
+Request Successful!09-30 17:33:58
+Request Successful!09-30 17:36:59
+Request Successful!09-30 17:40:00
+Request Successful!09-30 17:43:02
+Request Successful!09-30 17:46:03
+Request Successful!09-30 17:49:04
+Request Successful!09-30 17:52:06
+Request Successful!09-30 17:55:07
+Request Successful!09-30 17:58:08
+Request Successful!09-30 18:01:10
+Request Successful!09-30 18:04:11
+Request Successful!09-30 18:07:12
+Request Successful!09-30 18:10:14
+Request Successful!09-30 18:13:18
+Request Successful!09-30 18:16:19
+Request Successful!09-30 18:19:20
+Request Successful!09-30 18:22:22
+Request Successful!09-30 18:25:23
+Request Successful!09-30 18:28:24
+Request Successful!09-30 18:31:26
+Request Successful!09-30 18:34:28
+Request Successful!09-30 18:37:29
+Request Successful!09-30 18:40:31
+Request Successful!09-30 18:43:34
+Request Successful!09-30 18:46:36
+Request Successful!09-30 18:49:37
+Request Successful!09-30 18:52:39
+Request Successful!09-30 18:55:40
+Request Successful!09-30 18:58:41
+Request Successful!09-30 19:01:43
+Request Successful!09-30 19:04:44
+Request Successful!09-30 19:07:45
+Request Successful!09-30 19:10:47
+Request Successful!09-30 19:13:48
+Request Successful!09-30 19:16:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 33s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-30 19:20:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 45s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!09-30 19:23:16
+Request Successful!09-30 19:26:17
+Request Successful!09-30 19:29:18
+Request Successful!09-30 19:32:20
+Request Successful!09-30 19:35:22
+Request Successful!09-30 19:38:24
+Request Successful!09-30 19:41:26
+Request Successful!09-30 19:44:27
+Request Successful!09-30 19:47:31
+Request Successful!09-30 19:50:33
+Request Successful!09-30 19:53:34
+Request Successful!09-30 19:56:36
+Request Successful!09-30 19:59:38
+Request Successful!09-30 20:02:39
+Request Successful!09-30 20:05:43
+Request Successful!09-30 20:08:45
+Request Successful!09-30 20:11:49
+Request Successful!09-30 20:14:50
+Request Successful!09-30 20:17:52
+Request Successful!09-30 20:20:53
+Request Successful!09-30 20:23:55
+Request Successful!09-30 20:26:56
+Request Successful!09-30 20:29:58
+Request Successful!09-30 20:33:00
+Request Successful!09-30 20:36:01
+Request Successful!09-30 20:39:03
+Request Successful!09-30 20:42:06
+Request Successful!09-30 20:45:08
+Request Successful!09-30 20:48:09
+Request Successful!09-30 20:51:11
+Request Successful!09-30 20:54:12
+Request Successful!09-30 20:57:13
+Request Successful!09-30 21:00:15
+Request Successful!09-30 21:03:16
+Request Successful!09-30 21:06:18
+Request Successful!09-30 21:09:19
+Request Successful!09-30 21:12:20
+Request Successful!09-30 21:15:22
+Request Successful!09-30 21:18:42
+Request Successful!09-30 21:21:44
+Request Successful!09-30 21:24:46
+Request Successful!09-30 21:27:47
+Request Successful!09-30 21:30:49
+Request Successful!09-30 21:33:50
+Request Successful!09-30 21:36:51
+Request Successful!09-30 21:39:53
+Request Successful!09-30 21:42:54
+Request Successful!09-30 21:45:55
+Request Successful!09-30 21:48:57
+Request Successful!09-30 21:51:58
+Request Successful!09-30 21:55:00
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 48s
+Ping via IPv4: bladeprdnfs2.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+pl 100% (100.00%)
+pl 100% (100.00%)
+PING CRITICAL - Packet loss = 100%
+Request Successful!09-30 21:58:13
+Request Successful!09-30 22:01:15
+Request Successful!09-30 22:04:16
+Request Successful!09-30 22:07:18
+Request Successful!09-30 22:10:19
+Request Successful!09-30 22:13:20
+Request Successful!09-30 22:16:22
+Request Successful!09-30 22:19:23
+Request Successful!09-30 22:22:24
+Request Successful!09-30 22:25:26
+Request Successful!09-30 22:28:27
+Request Successful!09-30 22:31:30
+Request Successful!09-30 22:34:32
+Request Successful!09-30 22:37:33
+Request Successful!09-30 22:40:35
+Request Successful!09-30 22:43:36
+Request Successful!09-30 22:46:37
+Request Successful!09-30 22:49:39
+Request Successful!09-30 22:52:40
+Request Successful!09-30 22:55:41
+Request Successful!09-30 22:58:43
+Request Successful!09-30 23:01:44
+Request Successful!09-30 23:04:45
+Request Successful!09-30 23:07:47
+Request Successful!09-30 23:10:48
+Request Successful!09-30 23:13:49
+Request Successful!09-30 23:16:51
+Request Successful!09-30 23:19:54
+Request Successful!09-30 23:22:55

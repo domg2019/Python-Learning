@@ -1,0 +1,118 @@
+Request Successful!11-13 18:34:57
+Request Successful!11-13 18:37:58
+Request Successful!11-13 18:41:00
+Request Successful!11-13 18:44:02
+Request Successful!11-13 18:47:03
+Request Successful!11-13 18:50:05
+Request Successful!11-13 18:53:07
+Request Successful!11-13 18:56:08
+Request Successful!11-13 18:59:10
+Request Successful!11-13 19:02:11
+Request Successful!11-13 19:05:13
+Request Successful!11-13 19:08:14
+Request Successful!11-13 19:11:16
+Request Successful!11-13 19:14:18
+Request Successful!11-13 19:17:20
+Request Successful!11-13 19:20:21
+Request Successful!11-13 19:23:23
+Request Successful!11-13 19:26:25
+Request Successful!11-13 19:29:26
+Request Successful!11-13 19:32:28
+Request Successful!11-13 19:35:30
+Request Successful!11-13 19:38:31
+Request Successful!11-13 19:41:33
+Request Successful!11-13 19:44:35
+Request Successful!11-13 19:47:37
+Request Successful!11-13 19:50:38
+Request Successful!11-13 19:53:40
+Request Successful!11-13 19:56:42
+Request Successful!11-13 19:59:43
+Request Successful!11-13 20:02:45
+Request Successful!11-13 20:05:47
+Request Successful!11-13 20:08:49
+Request Successful!11-13 20:11:50
+Request Successful!11-13 20:14:52
+Request Successful!11-13 20:17:54
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 3s
+Check that ElasticSearch Indexer logfile got recent 'success' entries.
+on
+b2biprdweb1.sl3.comp.db.de
+CRITICAL : grepping /app/sword/schenker/ESIndexer/logs/esindexer.log.0 for BG_ADD and Success didn't provide any results!
+Request Successful!11-13 20:21:07
+Request Successful!11-13 20:24:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 30s
+Soft 1/2
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1C
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!11-13 20:27:21
+Request Successful!11-13 20:30:23
+Request Successful!11-13 20:33:25
+Request Successful!11-13 20:36:27
+Request Successful!11-13 20:39:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 55s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!11-13 20:42:41
+Request Successful!11-13 20:45:43
+Request Successful!11-13 20:48:45
+Request Successful!11-13 20:51:47
+Request Successful!11-13 20:54:50
+Request Successful!11-13 20:57:52
+Request Successful!11-13 21:00:54
+Request Successful!11-13 21:03:56
+Request Successful!11-13 21:06:57
+Request Successful!11-13 21:09:59
+Request Successful!11-13 21:13:01
+Request Successful!11-13 21:16:03
+Request Successful!11-13 21:19:05
+Request Successful!11-13 21:22:07
+Request Successful!11-13 21:25:08
+Request Successful!11-13 21:28:10
+Request Successful!11-13 21:31:12
+Request Successful!11-13 21:34:14
+Request Successful!11-13 21:37:16
+Request Successful!11-13 21:40:17
+Request Successful!11-13 21:43:20
+Request Successful!11-13 21:46:22
+Request Successful!11-13 21:49:23
+Request Successful!11-13 21:52:25
+Request Successful!11-13 21:55:27
+Request Successful!11-13 21:58:28
+Request Successful!11-13 22:01:30
+Request Successful!11-13 22:04:32
+Request Successful!11-13 22:07:34
+Request Successful!11-13 22:10:35
+Request Successful!11-13 22:13:37
+Request Successful!11-13 22:16:39
+Request Successful!11-13 22:19:40
+Request Successful!11-13 22:22:42
+Request Successful!11-13 22:25:44
+Request Successful!11-13 22:28:45
+Request Successful!11-13 22:31:47
+Request Successful!11-13 22:34:49
+Request Successful!11-13 22:37:50
+Request Successful!11-13 22:40:52
+Request Successful!11-13 22:43:54
+Request Successful!11-13 22:46:55
+Request Successful!11-13 22:49:57
+Request Successful!11-13 22:52:58
+Request Successful!11-13 22:56:00
+Request Successful!11-13 22:59:02
+Request Successful!11-13 23:02:03
+Request Successful!11-13 23:05:05
+Request Successful!11-13 23:08:06
+Request Successful!11-13 23:11:08
+Request Successful!11-13 23:14:09
+Request Successful!11-13 23:17:11
+Request Successful!11-13 23:20:12
+Request Successful!11-13 23:23:14

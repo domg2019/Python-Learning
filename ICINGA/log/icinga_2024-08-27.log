@@ -1,0 +1,232 @@
+Request Successful!08-27 16:04:29
+Request Successful!08-27 16:07:31
+Request Successful!08-27 16:10:32
+Request Successful!08-27 16:13:33
+Request Successful!08-27 16:16:35
+Request Successful!08-27 16:19:36
+Request Successful!08-27 16:22:38
+Request Successful!08-27 16:25:39
+Request Successful!08-27 16:28:40
+Request Successful!08-27 16:31:42
+Request Successful!08-27 16:34:43
+Request Successful!08-27 16:37:45
+Request Successful!08-27 16:40:46
+Request Successful!08-27 16:43:48
+Request Successful!08-27 16:46:49
+Request Successful!08-27 16:49:50
+Request Successful!08-27 16:52:52
+Request Successful!08-27 16:55:53
+Request Successful!08-27 16:58:54
+Request Successful!08-27 17:01:56
+Request Successful!08-27 17:04:57
+Request Successful!08-27 17:07:59
+Request Successful!08-27 17:11:01
+Request Successful!08-27 17:14:03
+Request Successful!08-27 17:17:04
+Request Successful!08-27 17:20:05
+Request Successful!08-27 17:23:09
+Request Successful!08-27 17:26:11
+Request Successful!08-27 17:29:12
+Request Successful!08-27 17:32:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 6s
+Check that ElasticSearch Indexer logfile got recent 'success' entries.
+on
+b2biprdweb1.sl3.comp.db.de
+CRITICAL : Timestamp of last grepped line is 4300s. Critical limit (4000s) exceeded!
+Request Successful!08-27 17:35:26
+Request Successful!08-27 17:38:27
+Request Successful!08-27 17:41:29
+Request Successful!08-27 17:44:30
+Request Successful!08-27 17:47:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 54s
+Checking number of eMails in EMAS POP3 accounts for address de.tm.ess.b2biprd1
+on
+B2Bi Application Server - Stream 1A
+CRITICAL : Number of eMails in EMAS POP3 account de.tm.ess.b2biprd1@dbschenker.com : 527. Critical limit 500 exceeded.
+Request Successful!08-27 17:50:43
+Request Successful!08-27 17:53:45
+Request Successful!08-27 17:56:46
+Request Successful!08-27 17:59:47
+Request Successful!08-27 18:02:50
+Request Successful!08-27 18:05:51
+Request Successful!08-27 18:08:52
+Request Successful!08-27 18:11:54
+Request Successful!08-27 18:14:55
+Request Successful!08-27 18:17:57
+Request Successful!08-27 18:20:58
+Request Successful!08-27 18:23:59
+Request Successful!08-27 18:27:01
+Request Successful!08-27 18:30:02
+Request Successful!08-27 18:33:04
+Request Successful!08-27 18:36:05
+Request Successful!08-27 18:39:07
+Request Successful!08-27 18:42:08
+Request Successful!08-27 18:45:10
+Request Successful!08-27 18:48:11
+Request Successful!08-27 18:51:12
+Request Successful!08-27 18:54:14
+Request Successful!08-27 18:57:15
+Request Successful!08-27 19:00:17
+Request Successful!08-27 19:03:18
+Request Successful!08-27 19:06:19
+Request Successful!08-27 19:09:21
+Request Successful!08-27 19:12:22
+Request Successful!08-27 19:15:23
+Request Successful!08-27 19:18:25
+Request Successful!08-27 19:21:26
+Request Successful!08-27 19:24:28
+Request Successful!08-27 19:27:29
+Request Successful!08-27 19:30:30
+Request Successful!08-27 19:33:32
+Request Successful!08-27 19:36:33
+Request Successful!08-27 19:39:34
+Request Successful!08-27 19:42:36
+Request Successful!08-27 19:45:37
+Request Successful!08-27 19:48:39
+Request Successful!08-27 19:51:40
+Request Successful!08-27 19:54:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 26s
+Querying tomcat manager about status of application EDIFileServer and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 57s
+Querying tomcat manager about status of application TouchPoints and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 25s
+Querying tomcat manager about status of application Coins and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 18s
+Querying tomcat manager about status of application Contacts and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+Request Successful!08-27 19:58:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 41s
+Querying tomcat manager about status of application manager and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 42s
+Querying tomcat manager about status of application Dashboards and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+Request Successful!08-27 20:01:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 7s
+Querying tomcat manager about status of application EDIConf2 and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 27s
+Querying tomcat manager about status of application Swing3 and evaluate response.
+on
+b2biprdweb1.sl3.comp.db.de
+CRIT : Curl failed to connect. Aborting!
+Request Successful!08-27 20:05:07
+Request Successful!08-27 20:08:09
+10 unhandled critical alerts
+Request Successful!08-27 20:27:27
+Request Successful!08-27 20:30:28
+Request Successful!08-27 20:33:30
+Request Successful!08-27 20:36:31
+Request Successful!08-27 20:39:33
+Request Successful!08-27 20:42:34
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 6s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3F (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!08-27 20:45:46
+Request Successful!08-27 20:48:48
+Request Successful!08-27 20:51:49
+Request Successful!08-27 20:54:51
+Request Successful!08-27 20:57:52
+Request Successful!08-27 21:00:53
+Request Successful!08-27 21:03:55
+Request Successful!08-27 21:06:56
+Request Successful!08-27 21:09:58
+Request Successful!08-27 21:12:59
+Request Successful!08-27 21:16:01
+Request Successful!08-27 21:19:03
+Request Successful!08-27 21:22:05
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 49s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_11205"/"queue_13"):
+Request Successful!08-27 21:25:17
+Request Successful!08-27 21:28:18
+Request Successful!08-27 21:31:20
+Request Successful!08-27 21:34:21
+Request Successful!08-27 21:37:22
+Request Successful!08-27 21:40:24
+Request Successful!08-27 21:43:25
+Request Successful!08-27 21:46:27
+Request Successful!08-27 21:49:28
+Request Successful!08-27 21:52:30
+Request Successful!08-27 21:55:31
+Request Successful!08-27 21:58:33
+Request Successful!08-27 22:01:34
+Request Successful!08-27 22:04:35
+Request Successful!08-27 22:07:37
+Request Successful!08-27 22:10:38
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 31s
+Check that ElasticSearch Indexer logfile got recent 'success' entries.
+on
+b2biprdweb1.sl3.comp.db.de
+CRITICAL : Timestamp of last grepped line is 4009s. Critical limit (4000s) exceeded!
+Request Successful!08-27 22:13:50
+Request Successful!08-27 22:16:51
+Request Successful!08-27 22:19:53
+Request Successful!08-27 22:22:54
+Request Successful!08-27 22:25:55
+Request Successful!08-27 22:28:57
+Request Successful!08-27 22:31:58
+Request Successful!08-27 22:34:59
+Request Successful!08-27 22:38:01
+Request Successful!08-27 22:41:02
+Request Successful!08-27 22:44:04
+Request Successful!08-27 22:47:05
+Request Successful!08-27 22:50:06
+Request Successful!08-27 22:53:08
+Request Successful!08-27 22:56:09
+Request Successful!08-27 22:59:10
+Request Successful!08-27 23:02:13
+Request Successful!08-27 23:05:14
+Request Successful!08-27 23:08:16
+Request Successful!08-27 23:11:17
+Request Successful!08-27 23:14:19
+Request Successful!08-27 23:17:20
+Request Successful!08-27 23:20:22
+Request Successful!08-27 23:23:23

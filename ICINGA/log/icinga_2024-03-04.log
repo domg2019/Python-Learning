@@ -1,0 +1,723 @@
+Request Successful!03-04 16:09:35
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:10:36
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:11:38
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:12:39
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:13:40
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 4s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.401_SerialSTD_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1C
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.401_SerialSTD_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_7335"/"queue_13"):
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:14:52
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:15:53
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:16:54
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:17:56
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:18:57
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:19:58
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:20:59
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:22:01
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:23:02
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:24:03
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:25:05
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:26:06
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:27:07
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:28:08
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:29:10
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:30:11
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:31:12
+check if there is a ticket. One critical alert is existed since 07:52
+Request Successful!03-04 16:32:13
+check if there is a ticket. One critical alert is existed since 07:52
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Request Successful!03-04 16:35:26
+Request Successful!03-04 16:36:27
+Request Successful!03-04 16:37:29
+Request Successful!03-04 16:38:30
+Request Successful!03-04 16:39:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 35s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 17"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi Logger 17" ("logger_1042"/"queue_16"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 39s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!03-04 16:40:52
+Request Successful!03-04 16:41:53
+Request Successful!03-04 16:42:55
+Request Successful!03-04 16:43:56
+Request Successful!03-04 16:44:57
+Request Successful!03-04 16:45:58
+Request Successful!03-04 16:46:59
+Request Successful!03-04 16:48:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 7s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!03-04 16:49:12
+Request Successful!03-04 16:50:13
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 10s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!03-04 16:51:25
+Request Successful!03-04 16:52:27
+Request Successful!03-04 16:53:28
+Request Successful!03-04 16:54:29
+Request Successful!03-04 16:55:30
+Request Successful!03-04 16:56:32
+Request Successful!03-04 16:57:33
+Request Successful!03-04 16:58:34
+Request Successful!03-04 16:59:36
+Request Successful!03-04 17:00:37
+Request Successful!03-04 17:01:39
+Request Successful!03-04 17:02:40
+Request Successful!03-04 17:03:41
+Request Successful!03-04 17:04:43
+Request Successful!03-04 17:05:44
+Request Successful!03-04 17:06:45
+Request Successful!03-04 17:07:46
+Request Successful!03-04 17:08:47
+Request Successful!03-04 17:09:49
+Request Successful!03-04 17:10:50
+Request Successful!03-04 17:11:51
+Request Successful!03-04 17:12:52
+Request Successful!03-04 17:13:53
+Request Successful!03-04 17:14:54
+Request Successful!03-04 17:15:56
+Request Successful!03-04 17:16:58
+Request Successful!03-04 17:17:59
+Request Successful!03-04 17:19:01
+Request Successful!03-04 17:20:02
+Request Successful!03-04 17:21:03
+Request Successful!03-04 17:22:04
+Request Successful!03-04 17:23:06
+Request Successful!03-04 17:24:07
+Request Successful!03-04 17:25:08
+Request Successful!03-04 17:26:09
+Request Successful!03-04 17:27:10
+Request Successful!03-04 17:28:11
+Request Successful!03-04 17:29:13
+Request Successful!03-04 17:30:14
+Request Successful!03-04 17:31:15
+Request Successful!03-04 17:32:16
+Request Successful!03-04 17:33:17
+Request Successful!03-04 17:34:19
+Request Successful!03-04 17:35:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 27s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!03-04 17:36:31
+Request Successful!03-04 17:37:32
+Request Successful!03-04 17:38:34
+Request Successful!03-04 17:39:35
+Request Successful!03-04 17:40:37
+Request Successful!03-04 17:41:38
+Request Successful!03-04 17:42:40
+Request Successful!03-04 17:43:41
+Request Successful!03-04 17:44:43
+Request Successful!03-04 17:45:44
+Request Successful!03-04 17:46:45
+Request Successful!03-04 17:47:47
+Request Successful!03-04 17:48:48
+Request Successful!03-04 17:49:49
+Request Successful!03-04 17:50:50
+Request Successful!03-04 17:51:52
+Request Successful!03-04 17:52:53
+Request Successful!03-04 17:53:54
+Request Successful!03-04 17:54:56
+Request Successful!03-04 17:55:57
+Request Successful!03-04 17:56:58
+Request Successful!03-04 17:57:59
+Request Successful!03-04 17:59:01
+Request Successful!03-04 18:00:02
+Request Successful!03-04 18:01:03
+Request Successful!03-04 18:02:04
+Request Successful!03-04 18:03:06
+Request Successful!03-04 18:04:07
+Request Successful!03-04 18:05:08
+Request Successful!03-04 18:06:09
+Request Successful!03-04 18:07:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 25s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!03-04 18:08:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 2m 37s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!03-04 18:09:34
+Request Successful!03-04 18:10:36
+Request Successful!03-04 18:11:37
+Request Successful!03-04 18:12:38
+Request Successful!03-04 18:13:39
+Request Successful!03-04 18:14:40
+Request Successful!03-04 18:15:42
+Request Successful!03-04 18:16:43
+Request Successful!03-04 18:17:44
+Request Successful!03-04 18:18:45
+Request Successful!03-04 18:19:46
+Request Successful!03-04 18:20:47
+Request Successful!03-04 18:21:48
+Request Successful!03-04 18:22:50
+Request Successful!03-04 18:23:51
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 4s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 11"
+on
+B2Bi Application Server - Stream 2A (Multicluster - VIP)
+CRITICAL - Queue "B2Bi Logger 11" ("logger_1030"/"queue_16"):
+Request Successful!03-04 18:25:02
+Request Successful!03-04 18:26:03
+Request Successful!03-04 18:27:04
+Request Successful!03-04 18:28:06
+Request Successful!03-04 18:29:07
+Request Successful!03-04 18:30:08
+Request Successful!03-04 18:31:09
+Request Successful!03-04 18:32:11
+Request Successful!03-04 18:33:12
+Request Successful!03-04 18:34:13
+Request Successful!03-04 18:35:14
+Request Successful!03-04 18:36:15
+Request Successful!03-04 18:37:16
+Request Successful!03-04 18:38:18
+Request Successful!03-04 18:39:19
+Request Successful!03-04 18:40:20
+Request Successful!03-04 18:41:21
+Request Successful!03-04 18:42:22
+Request Successful!03-04 18:43:23
+Request Successful!03-04 18:44:25
+Request Successful!03-04 18:45:26
+Request Successful!03-04 18:46:27
+Request Successful!03-04 18:47:28
+Request Successful!03-04 18:48:30
+Request Successful!03-04 18:49:31
+Request Successful!03-04 18:50:32
+Request Successful!03-04 18:51:33
+Request Successful!03-04 18:52:34
+Request Successful!03-04 18:53:36
+Request Successful!03-04 18:54:37
+Request Successful!03-04 18:55:38
+Request Successful!03-04 18:56:39
+Request Successful!03-04 18:57:41
+Request Successful!03-04 18:58:42
+Request Successful!03-04 18:59:43
+Request Successful!03-04 19:00:44
+Request Successful!03-04 19:01:46
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 3s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi Logger 18" ("logger_12490"/"queue_13"):
+Request Successful!03-04 19:02:57
+Request Successful!03-04 19:03:58
+Request Successful!03-04 19:05:00
+Request Successful!03-04 19:06:01
+Request Successful!03-04 19:07:02
+Request Successful!03-04 19:08:03
+Request Successful!03-04 19:09:04
+Request Successful!03-04 19:10:06
+Request Successful!03-04 19:11:07
+Request Successful!03-04 19:12:08
+Request Successful!03-04 19:13:09
+Request Successful!03-04 19:14:11
+Request Successful!03-04 19:15:12
+Request Successful!03-04 19:16:13
+Request Successful!03-04 19:17:14
+Request Successful!03-04 19:18:15
+Request Successful!03-04 19:19:16
+Request Successful!03-04 19:20:18
+Request Successful!03-04 19:21:19
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 20s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 17"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi Logger 17" ("logger_1042"/"queue_16"):
+Request Successful!03-04 19:22:30
+Request Successful!03-04 19:23:31
+Request Successful!03-04 19:24:32
+Request Successful!03-04 19:25:33
+Request Successful!03-04 19:26:35
+Request Successful!03-04 19:27:36
+Request Successful!03-04 19:28:37
+Request Successful!03-04 19:29:38
+Request Successful!03-04 19:30:40
+Request Successful!03-04 19:31:41
+Request Successful!03-04 19:32:42
+Request Successful!03-04 19:33:43
+Request Successful!03-04 19:34:44
+Request Successful!03-04 19:35:46
+Request Successful!03-04 19:36:47
+Request Successful!03-04 19:37:48
+Request Successful!03-04 19:38:50
+Request Successful!03-04 19:39:51
+Request Successful!03-04 19:40:52
+Request Successful!03-04 19:41:53
+Request Successful!03-04 19:42:55
+Request Successful!03-04 19:43:56
+Request Successful!03-04 19:44:57
+Request Successful!03-04 19:45:58
+Request Successful!03-04 19:46:59
+Request Successful!03-04 19:48:01
+Request Successful!03-04 19:49:02
+Request Successful!03-04 19:50:03
+Request Successful!03-04 19:51:04
+Request Successful!03-04 19:52:05
+Request Successful!03-04 19:53:06
+Request Successful!03-04 19:54:07
+Request Successful!03-04 19:55:09
+Request Successful!03-04 19:56:10
+Request Successful!03-04 19:57:11
+Request Successful!03-04 19:58:12
+Request Successful!03-04 19:59:13
+Request Successful!03-04 20:00:14
+Request Successful!03-04 20:01:16
+Request Successful!03-04 20:02:17
+Request Successful!03-04 20:03:18
+Request Successful!03-04 20:04:19
+Request Successful!03-04 20:05:20
+Request Successful!03-04 20:06:22
+Request Successful!03-04 20:07:23
+Request Successful!03-04 20:08:25
+Request Successful!03-04 20:09:26
+Request Successful!03-04 20:10:27
+Request Successful!03-04 20:11:28
+Request Successful!03-04 20:12:29
+Request Successful!03-04 20:13:30
+Request Successful!03-04 20:14:32
+Request Successful!03-04 20:15:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 32s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!03-04 20:16:44
+Request Successful!03-04 20:17:46
+Request Successful!03-04 20:18:47
+Request Successful!03-04 20:19:48
+Request Successful!03-04 20:20:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 6s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.201_Serial_Dyn_10_ExecuteMasterDynMBC_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.201_Serial_Dyn_10_ExecuteMasterDynMBC_HM" ("hierchmessage_2215"/"queue_13"):
+Request Successful!03-04 20:22:00
+Request Successful!03-04 20:23:02
+Request Successful!03-04 20:24:03
+Request Successful!03-04 20:25:04
+Request Successful!03-04 20:26:05
+Request Successful!03-04 20:27:06
+Request Successful!03-04 20:28:08
+Request Successful!03-04 20:29:09
+Request Successful!03-04 20:30:10
+Request Successful!03-04 20:31:11
+Request Successful!03-04 20:32:13
+Request Successful!03-04 20:33:14
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 30s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!03-04 20:34:25
+Request Successful!03-04 20:35:26
+Request Successful!03-04 20:36:27
+Request Successful!03-04 20:37:28
+Request Successful!03-04 20:38:30
+Request Successful!03-04 20:39:31
+Request Successful!03-04 20:40:32
+Request Successful!03-04 20:41:33
+Request Successful!03-04 20:42:35
+Request Successful!03-04 20:43:36
+Request Successful!03-04 20:44:37
+Request Successful!03-04 20:45:38
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 0s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 2B (Multicluster - VIP)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!03-04 20:46:49
+Request Successful!03-04 20:47:51
+Request Successful!03-04 20:48:52
+Request Successful!03-04 20:49:53
+Request Successful!03-04 20:50:54
+Request Successful!03-04 20:51:55
+Request Successful!03-04 20:52:57
+Request Successful!03-04 20:53:58
+Request Successful!03-04 20:54:59
+Request Successful!03-04 20:56:00
+Request Successful!03-04 20:57:01
+Request Successful!03-04 20:58:03
+Request Successful!03-04 20:59:04
+Request Successful!03-04 21:00:05
+Request Successful!03-04 21:01:07
+Request Successful!03-04 21:02:08
+Request Successful!03-04 21:03:09
+Request Successful!03-04 21:04:10
+Request Successful!03-04 21:05:11
+Request Successful!03-04 21:06:13
+Request Successful!03-04 21:07:14
+Request Successful!03-04 21:08:15
+Request Successful!03-04 21:09:17
+Request Successful!03-04 21:10:18
+Request Successful!03-04 21:11:19
+Request Successful!03-04 21:12:20
+Request Successful!03-04 21:13:22
+Request Successful!03-04 21:14:23
+Request Successful!03-04 21:15:24
+Request Successful!03-04 21:16:25
+Request Successful!03-04 21:17:26
+Request Successful!03-04 21:18:27
+Request Successful!03-04 21:19:28
+Request Successful!03-04 21:20:30
+Request Successful!03-04 21:21:31
+Request Successful!03-04 21:22:32
+Request Successful!03-04 21:23:33
+Request Successful!03-04 21:24:34
+Request Successful!03-04 21:25:35
+Request Successful!03-04 21:26:36
+Request Successful!03-04 21:27:38
+Request Successful!03-04 21:28:39
+Request Successful!03-04 21:29:40
+Request Successful!03-04 21:30:41
+Request Successful!03-04 21:31:42
+Request Successful!03-04 21:32:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 2s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!03-04 21:33:55
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 24s
+Soft 1/2
+B2Bi queue health: "B2Bi TA EMAIL IB Task"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi TA EMAIL IB Task" ("transadapt_986__receive_968"/"queue_13"):
+Request Successful!03-04 21:35:06
+Request Successful!03-04 21:36:07
+Request Successful!03-04 21:37:08
+Request Successful!03-04 21:38:10
+Request Successful!03-04 21:39:11
+Request Successful!03-04 21:40:12
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 15s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 16"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi Logger 16" ("logger_1040"/"queue_16"):
+Request Successful!03-04 21:41:24
+Request Successful!03-04 21:42:25
+Request Successful!03-04 21:43:26
+Request Successful!03-04 21:44:27
+Request Successful!03-04 21:45:28
+Request Successful!03-04 21:46:30
+Request Successful!03-04 21:47:31
+Request Successful!03-04 21:48:32
+Request Successful!03-04 21:49:33
+Request Successful!03-04 21:50:34
+Request Successful!03-04 21:51:36
+Request Successful!03-04 21:52:37
+Request Successful!03-04 21:53:38
+Request Successful!03-04 21:54:39
+Request Successful!03-04 21:55:40
+Request Successful!03-04 21:56:42
+Request Successful!03-04 21:57:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 53s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 15"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi Logger 15" ("logger_1038"/"queue_16"):
+Request Successful!03-04 21:58:54
+Request Successful!03-04 21:59:56
+Request Successful!03-04 22:00:57
+Request Successful!03-04 22:01:58
+Request Successful!03-04 22:02:59
+Request Successful!03-04 22:04:00
+Request Successful!03-04 22:05:01
+Request Successful!03-04 22:06:03
+Request Successful!03-04 22:07:04
+Request Successful!03-04 22:08:05
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 25s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!03-04 22:09:17
+Request Successful!03-04 22:10:18
+Request Successful!03-04 22:11:19
+Request Successful!03-04 22:12:20
+Request Successful!03-04 22:13:21
+Request Successful!03-04 22:14:23
+Request Successful!03-04 22:15:24
+Request Successful!03-04 22:16:25
+Request Successful!03-04 22:17:26
+Request Successful!03-04 22:18:28
+Request Successful!03-04 22:19:29
+Request Successful!03-04 22:20:30
+Request Successful!03-04 22:21:31
+Request Successful!03-04 22:22:32
+Request Successful!03-04 22:23:34
+Request Successful!03-04 22:24:35
+Request Successful!03-04 22:25:36
+Request Successful!03-04 22:26:37
+Request Successful!03-04 22:27:38
+Request Successful!03-04 22:28:39
+Request Successful!03-04 22:29:41
+Request Successful!03-04 22:30:42
+Request Successful!03-04 22:31:43
+Request Successful!03-04 22:32:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 6s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!03-04 22:33:56
+Request Successful!03-04 22:34:57
+Request Successful!03-04 22:35:58
+Request Successful!03-04 22:36:59
+Request Successful!03-04 22:38:01
+Request Successful!03-04 22:39:02
+Request Successful!03-04 22:40:03
+Request Successful!03-04 22:41:04
+Request Successful!03-04 22:42:06
+Request Successful!03-04 22:43:07
+Request Successful!03-04 22:44:08
+Request Successful!03-04 22:45:09
+Request Successful!03-04 22:46:10
+Request Successful!03-04 22:47:12
+Request Successful!03-04 22:48:13
+Request Successful!03-04 22:49:14
+Request Successful!03-04 22:50:15
+Request Successful!03-04 22:51:17
+Request Successful!03-04 22:52:18
+Request Successful!03-04 22:53:19
+Request Successful!03-04 22:54:20
+Request Successful!03-04 22:55:22
+Request Successful!03-04 22:56:23
+Request Successful!03-04 22:57:24
+Request Successful!03-04 22:58:25
+Request Successful!03-04 22:59:27
+Request Successful!03-04 23:00:28
+Request Successful!03-04 23:01:30
+Request Successful!03-04 23:02:31
+Request Successful!03-04 23:03:32
+Request Successful!03-04 23:04:33
+Request Successful!03-04 23:05:35
+Request Successful!03-04 23:06:36
+Request Successful!03-04 23:07:37
+Request Successful!03-04 23:08:38
+Request Successful!03-04 23:09:39
+Request Successful!03-04 23:10:41
+Request Successful!03-04 23:11:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 19s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 15"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 15" ("logger_1523"/"queue_13"):
+Request Successful!03-04 23:12:54
+Request Successful!03-04 23:13:55
+Request Successful!03-04 23:14:56
+Request Successful!03-04 23:15:58
+Request Successful!03-04 23:16:59
+Request Successful!03-04 23:18:00
+Request Successful!03-04 23:19:02
+Request Successful!03-04 23:20:03
+Request Successful!03-04 23:21:04
+Request Successful!03-04 23:22:05
+Request Successful!03-04 23:23:06
+Request Successful!03-04 23:24:08
+Request Successful!03-04 23:25:09
+Request Successful!03-04 23:26:10
+Request Successful!03-04 23:27:11
+Request Successful!03-04 23:28:12
+Request Successful!03-04 23:29:14
+Request Successful!03-04 23:30:15
+Request Successful!03-04 23:31:16
+Request Successful!03-04 23:32:17
+Request Successful!03-04 23:33:18
+Request Successful!03-04 23:34:19
+Request Successful!03-04 23:35:20
+Request Successful!03-04 23:36:22
+Request Successful!03-04 23:37:23
+Request Successful!03-04 23:38:24
+Request Successful!03-04 23:39:25
+Request Successful!03-04 23:40:26
+Request Successful!03-04 23:41:28
+Request Successful!03-04 23:42:29
+Request Successful!03-04 23:43:30
+Request Successful!03-04 23:44:31
+Request Successful!03-04 23:45:32
+Request Successful!03-04 23:46:34
+Request Successful!03-04 23:47:35
+Request Successful!03-04 23:48:36
+Request Successful!03-04 23:49:37
+Request Successful!03-04 23:50:38
+Request Successful!03-04 23:51:39
+Request Successful!03-04 23:52:40
+Request Successful!03-04 23:53:42
+Request Successful!03-04 23:54:43
+Request Successful!03-04 23:55:44
+Request Successful!03-04 23:56:45
+Request Successful!03-04 23:57:46
+Request Successful!03-04 23:58:48
+Request Successful!03-04 23:59:49
+Request Successful!03-05 00:00:50
+Request Successful!03-05 00:01:52
+Request Successful!03-05 00:02:53
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 37s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 16"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi Logger 16" ("logger_1040"/"queue_16"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 40s
+Soft 1/2
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialSTD_Dyn_10_ExecuteMasterDynMBC_04_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialSTD_Dyn_10_ExecuteMasterDynMBC_04_HM" ("hierchmessage_7564"/"queue_13"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 1m 44s
+Soft 1/2
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!03-05 00:04:23
+Request Successful!03-05 00:05:25
+Request Successful!03-05 00:06:26
+Request Successful!03-05 00:07:27
+Request Successful!03-05 00:08:29
+Request Successful!03-05 00:09:30
+Request Successful!03-05 00:10:31
+Request Successful!03-05 00:11:32
+Request Successful!03-05 00:12:34
+Request Successful!03-05 00:13:35
+Request Successful!03-05 00:14:36
+Request Successful!03-05 00:15:37
+Request Successful!03-05 00:16:38
+Request Successful!03-05 00:17:39
+Request Successful!03-05 00:18:41
+Request Successful!03-05 00:19:42
+Request Successful!03-05 00:20:43
+Request Successful!03-05 00:21:44
+Request Successful!03-05 00:22:45
+Request Successful!03-05 00:23:46
+Request Successful!03-05 00:24:47
+Request Successful!03-05 00:25:49
+Request Successful!03-05 00:26:50
+Request Successful!03-05 00:27:51
+Request Successful!03-05 00:28:52
+Request Successful!03-05 00:29:53
+Request Successful!03-05 00:30:55
+Request Successful!03-05 00:31:56
+Request Successful!03-05 00:32:57
+Request Successful!03-05 00:33:58
+Request Successful!03-05 00:35:00
+Request Successful!03-05 00:36:01
+Request Successful!03-05 00:37:02
+Request Successful!03-05 00:38:03
+Request Successful!03-05 00:39:04
+Request Successful!03-05 00:40:05
+Request Successful!03-05 00:41:07
+Request Successful!03-05 00:42:08
+Request Successful!03-05 00:43:09
+Request Successful!03-05 00:44:10
+Request Successful!03-05 00:45:11

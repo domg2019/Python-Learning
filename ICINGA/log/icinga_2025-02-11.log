@@ -1,0 +1,132 @@
+Request Successful!02-11 18:11:15
+Request Successful!02-11 18:14:17
+Request Successful!02-11 18:17:19
+Request Successful!02-11 18:20:20
+Request Successful!02-11 18:23:22
+Request Successful!02-11 18:26:24
+Request Successful!02-11 18:29:25
+Request Successful!02-11 18:32:27
+Request Successful!02-11 18:35:29
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 0s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_9799"/"queue_16"):
+Request Successful!02-11 18:38:41
+Request Successful!02-11 18:41:43
+Request Successful!02-11 18:44:44
+Request Successful!02-11 18:47:46
+Request Successful!02-11 18:50:48
+Request Successful!02-11 18:53:49
+Request Successful!02-11 18:56:51
+Request Successful!02-11 18:59:52
+Request Successful!02-11 19:02:54
+Request Successful!02-11 19:05:55
+Request Successful!02-11 19:08:57
+Request Successful!02-11 19:11:58
+Request Successful!02-11 19:15:00
+Request Successful!02-11 19:18:02
+Request Successful!02-11 19:21:03
+Request Successful!02-11 19:24:05
+Request Successful!02-11 19:27:07
+Request Successful!02-11 19:30:08
+Request Successful!02-11 19:33:10
+Request Successful!02-11 19:36:12
+Request Successful!02-11 19:39:14
+Request Successful!02-11 19:42:16
+Request Successful!02-11 19:45:18
+Request Successful!02-11 19:48:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 51s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Inb_10_FetchRef_HM" ("hierchmessage_7202"/"queue_13"):
+Request Successful!02-11 19:51:32
+Request Successful!02-11 19:54:33
+Request Successful!02-11 19:57:35
+Request Successful!02-11 20:00:37
+Request Successful!02-11 20:03:39
+Request Successful!02-11 20:06:41
+Request Successful!02-11 20:09:42
+Request Successful!02-11 20:12:44
+Request Successful!02-11 20:15:46
+Request Successful!02-11 20:18:48
+Request Successful!02-11 20:21:49
+Request Successful!02-11 20:24:51
+Request Successful!02-11 20:27:53
+Request Successful!02-11 20:30:55
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 1s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : No data received from host
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 2s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdoem1.sl3.comp.db.de
+CRITICAL : No data received from host
+Request Successful!02-11 20:34:15
+Request Successful!02-11 20:37:17
+Request Successful!02-11 20:40:19
+Request Successful!02-11 20:43:20
+Request Successful!02-11 20:46:22
+Request Successful!02-11 20:49:24
+Request Successful!02-11 20:52:26
+Request Successful!02-11 20:55:28
+Request Successful!02-11 20:58:30
+Request Successful!02-11 21:01:32
+Request Successful!02-11 21:04:33
+Request Successful!02-11 21:07:35
+Request Successful!02-11 21:10:37
+Request Successful!02-11 21:13:39
+Request Successful!02-11 21:16:40
+Request Successful!02-11 21:19:42
+Request Successful!02-11 21:22:44
+Request Successful!02-11 21:25:45
+Request Successful!02-11 21:28:47
+Request Successful!02-11 21:31:49
+Request Successful!02-11 21:34:51
+Request Successful!02-11 21:37:52
+Request Successful!02-11 21:40:54
+Request Successful!02-11 21:43:55
+Request Successful!02-11 21:46:57
+Request Successful!02-11 21:49:59
+Request Successful!02-11 21:53:00
+Request Successful!02-11 21:56:02
+Request Successful!02-11 21:59:03
+Request Successful!02-11 22:02:05
+Request Successful!02-11 22:05:07
+Request Successful!02-11 22:08:08
+Request Successful!02-11 22:11:10
+Request Successful!02-11 22:14:12
+Request Successful!02-11 22:17:13
+Request Successful!02-11 22:20:15
+Request Successful!02-11 22:23:17
+Request Successful!02-11 22:26:19
+Request Successful!02-11 22:29:20
+Request Successful!02-11 22:32:23
+Request Successful!02-11 22:35:24
+Request Successful!02-11 22:38:26
+Request Successful!02-11 22:41:28
+Request Successful!02-11 22:44:30
+Request Successful!02-11 22:47:31
+Request Successful!02-11 22:50:33
+Request Successful!02-11 22:53:35
+Request Successful!02-11 22:56:37
+Request Successful!02-11 22:59:38
+Request Successful!02-11 23:02:40
+Request Successful!02-11 23:05:42
+Request Successful!02-11 23:08:44
+Request Successful!02-11 23:11:45
+Request Successful!02-11 23:14:47
+Request Successful!02-11 23:17:49
+Request Successful!02-11 23:20:50
+Request Successful!02-11 23:23:52

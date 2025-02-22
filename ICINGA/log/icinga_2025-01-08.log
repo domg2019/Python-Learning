@@ -1,0 +1,175 @@
+Request Successful!01-08 15:39:58
+Request Successful!01-08 15:43:00
+Request Successful!01-08 15:46:02
+Request Successful!01-08 15:49:03
+Request Successful!01-08 15:52:05
+Request Successful!01-08 15:55:06
+Request Successful!01-08 15:58:08
+Request Successful!01-08 16:01:10
+Request Successful!01-08 16:04:11
+Request Successful!01-08 16:07:13
+Request Successful!01-08 16:10:15
+Request Successful!01-08 16:13:16
+Request Successful!01-08 16:16:18
+Request Successful!01-08 16:19:19
+Request Successful!01-08 16:22:21
+Request Successful!01-08 16:25:22
+Request Successful!01-08 16:28:26
+Request Successful!01-08 16:31:28
+Request Successful!01-08 16:34:30
+Request Successful!01-08 16:37:31
+Request Successful!01-08 16:40:33
+Request Successful!01-08 16:43:34
+Request Successful!01-08 16:46:35
+Request Successful!01-08 16:49:37
+Request Successful!01-08 16:52:39
+Request Successful!01-08 16:55:40
+Request Successful!01-08 16:58:42
+Request Successful!01-08 17:01:44
+Request Successful!01-08 17:04:45
+Request Successful!01-08 17:07:47
+Request Successful!01-08 17:10:49
+Request Successful!01-08 17:13:51
+Request Successful!01-08 17:16:52
+Request Successful!01-08 17:19:54
+Request Successful!01-08 17:22:56
+Request Successful!01-08 17:25:57
+Request Successful!01-08 17:28:59
+Request Successful!01-08 17:32:01
+Request Successful!01-08 17:35:02
+Request Successful!01-08 17:38:04
+Request Successful!01-08 17:41:06
+Request Successful!01-08 17:44:08
+Request Successful!01-08 17:47:10
+Request Successful!01-08 17:50:11
+Request Successful!01-08 17:53:13
+Request Successful!01-08 17:56:16
+Request Successful!01-08 17:59:17
+Request Successful!01-08 18:02:19
+Request Successful!01-08 18:05:21
+Request Successful!01-08 18:08:22
+Request Successful!01-08 18:11:24
+Request Successful!01-08 18:14:25
+Request Successful!01-08 18:17:27
+Request Successful!01-08 18:20:28
+Request Successful!01-08 18:23:30
+Request Successful!01-08 18:26:31
+Request Successful!01-08 18:29:33
+Request Successful!01-08 18:32:35
+Request Successful!01-08 18:35:36
+Request Successful!01-08 18:38:38
+Request Successful!01-08 18:41:39
+Request Successful!01-08 18:44:42
+Request Successful!01-08 18:47:44
+Request Successful!01-08 18:50:46
+Request Successful!01-08 18:53:47
+Request Successful!01-08 18:56:49
+Request Successful!01-08 18:59:51
+Request Successful!01-08 19:02:52
+Request Successful!01-08 19:05:54
+Request Successful!01-08 19:08:55
+Request Successful!01-08 19:11:57
+Request Successful!01-08 19:14:58
+Request Successful!01-08 19:18:00
+Request Successful!01-08 19:21:01
+Request Successful!01-08 19:24:03
+Request Successful!01-08 19:27:05
+Request Successful!01-08 19:30:07
+Request Successful!01-08 19:33:09
+Request Successful!01-08 19:36:11
+Request Successful!01-08 19:39:13
+Request Successful!01-08 19:42:15
+Request Successful!01-08 19:45:17
+Request Successful!01-08 19:48:19
+Request Successful!01-08 19:51:21
+Request Successful!01-08 19:54:23
+Request Successful!01-08 19:57:25
+Request Successful!01-08 20:00:30
+Request Successful!01-08 20:03:32
+Request Successful!01-08 20:06:36
+Request Successful!01-08 20:09:38
+Request Successful!01-08 20:12:39
+Request Successful!01-08 20:15:41
+Request Successful!01-08 20:18:43
+Request Successful!01-08 20:21:44
+Request Successful!01-08 20:24:46
+Request Successful!01-08 20:27:48
+Request Successful!01-08 20:30:50
+Request Successful!01-08 20:33:52
+Request Successful!01-08 20:36:54
+Request Successful!01-08 20:39:56
+Request Successful!01-08 20:42:57
+HTTPSConnectionPool(host='b2biprddep1.sl3.comp.db.de', port=443): Max retries exceeded with url: /icingaweb2/monitoring/list/services?service_problem=1&sort=service_severity&dir=desc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Request Successful!01-08 20:49:06
+Request Successful!01-08 20:52:07
+Request Successful!01-08 20:55:09
+Request Successful!01-08 20:58:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 46s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdoem1.sl3.comp.db.de
+CRITICAL : No data received from host
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 55s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : No data received from host
+Request Successful!01-08 21:01:33
+Request Successful!01-08 21:04:35
+Request Successful!01-08 21:07:36
+Request Successful!01-08 21:10:38
+Request Successful!01-08 21:13:39
+Request Successful!01-08 21:16:41
+Request Successful!01-08 21:19:43
+Request Successful!01-08 21:22:45
+Request Successful!01-08 21:25:47
+Request Successful!01-08 21:28:48
+Request Successful!01-08 21:31:50
+Request Successful!01-08 21:34:52
+Request Successful!01-08 21:37:53
+Request Successful!01-08 21:40:55
+Request Successful!01-08 21:43:56
+Request Successful!01-08 21:46:58
+Request Successful!01-08 21:50:00
+Request Successful!01-08 21:53:01
+Request Successful!01-08 21:56:03
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 4s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!01-08 21:59:15
+Request Successful!01-08 22:02:17
+Request Successful!01-08 22:05:19
+Request Successful!01-08 22:08:20
+Request Successful!01-08 22:11:22
+Request Successful!01-08 22:14:23
+Request Successful!01-08 22:17:24
+Request Successful!01-08 22:20:26
+Request Successful!01-08 22:23:27
+Request Successful!01-08 22:26:29
+Request Successful!01-08 22:29:30
+Request Successful!01-08 22:32:32
+Request Successful!01-08 22:35:33
+Request Successful!01-08 22:38:35
+Request Successful!01-08 22:41:36
+Request Successful!01-08 22:44:38
+Request Successful!01-08 22:47:39
+Request Successful!01-08 22:50:41
+Request Successful!01-08 22:53:42
+Request Successful!01-08 22:56:43
+Request Successful!01-08 22:59:45
+Request Successful!01-08 23:02:46
+Request Successful!01-08 23:05:48
+Request Successful!01-08 23:08:49
+Request Successful!01-08 23:11:50
+Request Successful!01-08 23:14:52
+Request Successful!01-08 23:17:53
+Request Successful!01-08 23:20:55
+Request Successful!01-08 23:23:56

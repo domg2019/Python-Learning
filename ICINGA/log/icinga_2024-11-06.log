@@ -1,0 +1,262 @@
+Request Successful!11-06 15:25:35
+Request Successful!11-06 15:28:36
+Request Successful!11-06 15:31:40
+Request Successful!11-06 15:34:42
+Request Successful!11-06 15:37:44
+Request Successful!11-06 15:40:45
+Request Successful!11-06 15:43:47
+Request Successful!11-06 15:46:49
+Request Successful!11-06 15:49:51
+Request Successful!11-06 15:52:52
+Request Successful!11-06 15:55:54
+Request Successful!11-06 15:58:56
+Request Successful!11-06 16:01:57
+Request Successful!11-06 16:04:59
+Request Successful!11-06 16:08:00
+Request Successful!11-06 16:11:02
+Request Successful!11-06 16:14:04
+Request Successful!11-06 16:17:05
+Request Successful!11-06 16:20:07
+Request Successful!11-06 16:23:09
+Request Successful!11-06 16:26:10
+Request Successful!11-06 16:29:12
+Request Successful!11-06 16:32:14
+Request Successful!11-06 16:35:15
+Request Successful!11-06 16:38:17
+Request Successful!11-06 16:41:19
+Request Successful!11-06 16:44:20
+Request Successful!11-06 16:47:22
+Request Successful!11-06 16:50:23
+Request Successful!11-06 16:53:25
+Request Successful!11-06 16:56:26
+Request Successful!11-06 16:59:28
+Request Successful!11-06 17:02:29
+Request Successful!11-06 17:05:31
+Request Successful!11-06 17:08:32
+Request Successful!11-06 17:11:34
+Request Successful!11-06 17:14:35
+Request Successful!11-06 17:17:37
+Request Successful!11-06 17:20:39
+Request Successful!11-06 17:23:40
+Request Successful!11-06 17:26:42
+Request Successful!11-06 17:29:44
+Request Successful!11-06 17:32:46
+Request Successful!11-06 17:35:48
+Request Successful!11-06 17:38:49
+Request Successful!11-06 17:41:51
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 48s
+B2Bi queue health: "B2Bi Logger 5"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 5" ("logger_954"/"queue_13"):
+Request Successful!11-06 17:45:05
+Request Successful!11-06 17:48:06
+Request Successful!11-06 17:51:08
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 8s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!11-06 17:54:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 21s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!11-06 17:57:33
+Request Successful!11-06 18:00:35
+Request Successful!11-06 18:03:36
+Request Successful!11-06 18:06:38
+Request Successful!11-06 18:09:40
+Request Successful!11-06 18:12:42
+Request Successful!11-06 18:15:43
+Request Successful!11-06 18:18:45
+Request Successful!11-06 18:21:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 8s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineBranch_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineBranch_HM" ("hierchmessage_7550"/"queue_13"):
+Request Successful!11-06 18:24:58
+Request Successful!11-06 18:28:00
+Request Successful!11-06 18:31:02
+Request Successful!11-06 18:34:04
+Request Successful!11-06 18:37:06
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 43s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.SEND_SendMessageToB2BIRemote_1B_sequential_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.SEND_SendMessageToB2BIRemote_1B_sequential_HM" ("hierchmessage_17212"/"queue_13"):
+Request Successful!11-06 18:40:17
+Request Successful!11-06 18:43:19
+Request Successful!11-06 18:46:21
+Request Successful!11-06 18:49:22
+Request Successful!11-06 18:52:24
+Request Successful!11-06 18:55:25
+Request Successful!11-06 18:58:27
+Request Successful!11-06 19:01:28
+Request Successful!11-06 19:04:30
+Request Successful!11-06 19:07:31
+Request Successful!11-06 19:10:33
+Request Successful!11-06 19:13:34
+Request Successful!11-06 19:16:36
+Request Successful!11-06 19:19:37
+Request Successful!11-06 19:22:39
+Request Successful!11-06 19:25:40
+Request Successful!11-06 19:28:41
+Request Successful!11-06 19:31:43
+Request Successful!11-06 19:34:44
+Request Successful!11-06 19:37:46
+Request Successful!11-06 19:40:47
+Request Successful!11-06 19:43:49
+Request Successful!11-06 19:46:50
+Request Successful!11-06 19:49:52
+Request Successful!11-06 19:52:54
+Request Successful!11-06 19:55:55
+Request Successful!11-06 19:58:57
+Request Successful!11-06 20:01:59
+Request Successful!11-06 20:05:00
+Request Successful!11-06 20:08:02
+Request Successful!11-06 20:11:04
+Request Successful!11-06 20:14:06
+Request Successful!11-06 20:17:07
+Request Successful!11-06 20:20:09
+Request Successful!11-06 20:23:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 32s
+Soft 1/2
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1C
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!11-06 20:26:23
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 39s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 45s
+Check for zombied Support scripts from /home/b2bi/.aobashrc.
+on
+B2Bi Application Server - Stream 1C
+CRIT : Found 1 .aobash script(s) running longer than 1 day!
+Request Successful!11-06 20:29:46
+Request Successful!11-06 20:32:47
+Request Successful!11-06 20:35:49
+Request Successful!11-06 20:38:51
+Request Successful!11-06 20:41:53
+Request Successful!11-06 20:44:54
+Request Successful!11-06 20:47:57
+Request Successful!11-06 20:50:58
+Request Successful!11-06 20:54:00
+Request Successful!11-06 20:57:02
+Request Successful!11-06 21:00:04
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 13s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 21:03:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 50s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 26s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3D (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 21:06:39
+Request Successful!11-06 21:09:41
+Request Successful!11-06 21:12:43
+Request Successful!11-06 21:15:44
+Request Successful!11-06 21:18:46
+Request Successful!11-06 21:21:48
+Request Successful!11-06 21:24:50
+Request Successful!11-06 21:27:51
+Request Successful!11-06 21:30:53
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 29s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 21:34:05
+Request Successful!11-06 21:37:07
+Request Successful!11-06 21:40:09
+Request Successful!11-06 21:43:11
+Request Successful!11-06 21:46:12
+Request Successful!11-06 21:49:14
+Request Successful!11-06 21:52:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 2s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 21:55:28
+Request Successful!11-06 21:58:30
+Request Successful!11-06 22:01:32
+Request Successful!11-06 22:04:33
+Request Successful!11-06 22:07:35
+Request Successful!11-06 22:10:37
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 9s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!11-06 22:13:49
+Request Successful!11-06 22:16:51
+Request Successful!11-06 22:19:52
+Request Successful!11-06 22:22:54
+Request Successful!11-06 22:25:55
+Request Successful!11-06 22:28:57
+Request Successful!11-06 22:31:59
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 42s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 22:35:10
+Request Successful!11-06 22:38:12
+Request Successful!11-06 22:41:14
+Request Successful!11-06 22:44:15
+Request Successful!11-06 22:47:17
+Request Successful!11-06 22:50:19
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 30s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM"
+on
+B2Bi Application Server - Stream 3E (Multicluster)
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_40_X12OUT_ANSIX12_HM" ("hierchmessage_9967"/"queue_16"):
+Request Successful!11-06 22:53:30
+Request Successful!11-06 22:56:32

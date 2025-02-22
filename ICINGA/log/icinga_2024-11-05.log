@@ -1,0 +1,261 @@
+Request Successful!11-05 15:25:10
+Request Successful!11-05 15:28:12
+Request Successful!11-05 15:31:14
+Request Successful!11-05 15:34:15
+Request Successful!11-05 15:37:17
+Request Successful!11-05 15:40:19
+Request Successful!11-05 15:43:21
+Request Successful!11-05 15:46:23
+Request Successful!11-05 15:49:25
+Request Successful!11-05 15:52:27
+Request Successful!11-05 15:55:29
+Request Successful!11-05 15:58:31
+Request Successful!11-05 16:01:33
+Request Successful!11-05 16:04:35
+Request Successful!11-05 16:07:37
+Request Successful!11-05 16:10:39
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 17s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!11-05 16:13:51
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 29s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!11-05 16:17:03
+Request Successful!11-05 16:20:05
+Request Successful!11-05 16:23:07
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 25s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialSTD_20_ComDetect_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_SerialSTD_20_ComDetect_SAG_ETGOIT_HM" ("hierchmessage_7544"/"queue_13"):
+Request Successful!11-05 16:26:19
+Request Successful!11-05 16:29:20
+Request Successful!11-05 16:32:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 12s
+B2Bi queue health: "B2Bi Logger 12"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 12" ("logger_1517"/"queue_13"):
+Request Successful!11-05 16:35:34
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 24s
+B2Bi queue health: "B2Bi Logger 12"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi Logger 12" ("logger_1517"/"queue_13"):
+Request Successful!11-05 16:38:46
+Request Successful!11-05 16:41:48
+Request Successful!11-05 16:44:50
+Request Successful!11-05 16:47:51
+Request Successful!11-05 16:50:53
+Request Successful!11-05 16:53:55
+Request Successful!11-05 16:56:57
+Request Successful!11-05 16:59:59
+Request Successful!11-05 17:03:01
+Request Successful!11-05 17:06:03
+Request Successful!11-05 17:09:05
+Request Successful!11-05 17:12:07
+Request Successful!11-05 17:15:09
+Request Successful!11-05 17:18:11
+Request Successful!11-05 17:21:13
+Request Successful!11-05 17:24:15
+Request Successful!11-05 17:27:17
+Request Successful!11-05 17:30:19
+Request Successful!11-05 17:33:21
+Request Successful!11-05 17:36:23
+Request Successful!11-05 17:39:25
+Request Successful!11-05 17:42:27
+Request Successful!11-05 17:45:28
+Request Successful!11-05 17:48:30
+Request Successful!11-05 17:51:32
+Request Successful!11-05 17:54:34
+Request Successful!11-05 17:57:36
+Request Successful!11-05 18:00:37
+Request Successful!11-05 18:03:39
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 0s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/11/05) error subdirectories.
+Request Successful!11-05 18:06:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 12s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/11/05) error subdirectories.
+Request Successful!11-05 18:10:01
+Request Successful!11-05 18:13:03
+Request Successful!11-05 18:16:05
+Request Successful!11-05 18:19:07
+Request Successful!11-05 18:22:09
+Request Successful!11-05 18:25:10
+Request Successful!11-05 18:28:12
+Request Successful!11-05 18:31:13
+Request Successful!11-05 18:34:15
+Request Successful!11-05 18:37:16
+Request Successful!11-05 18:40:18
+Request Successful!11-05 18:43:19
+Request Successful!11-05 18:46:21
+Request Successful!11-05 18:49:23
+Request Successful!11-05 18:52:24
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 18s
+Disk
+on
+B2Bi Application Server - Stream 2B (Multicluster - VIP)
+/app/sword/shared 900.78 GiB (90.12%)
+/app/sword/shared 900.78 GiB (90.12%)
+/ 10.90 GiB (54.54%)
+/ 10.90 GiB (54.54%)
+/app/sword/shared/mounts/nfsserver 179.94 GiB (30.00%)
+/app/sword/shared/mounts/nfsserver 179.94 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.94 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.94 GiB (30.00%)
+/app/sword 16.25 GiB (16.26%)
+/app/sword 16.25 GiB (16.26%)
+...
+DISK CRITICAL - free space: / 9305 MB (45.46% inode=98%); /app/sword 85709 MB (83.74% inode=100%); /app/sword/shared 101096 MB (9.87% inode=99%); /mnt/archive 8796079837980 MB (99.99% inode=-); /app/sword/shared/mounts/nfsserver 429949 MB (70.00% inode=99%); /app/sword/shared/mounts/multicluster 429949 MB (70.00% inode=99%);
+Request Successful!11-05 18:55:36
+Request Successful!11-05 18:58:37
+Request Successful!11-05 19:01:39
+Request Successful!11-05 19:04:40
+Request Successful!11-05 19:07:42
+Request Successful!11-05 19:10:43
+Request Successful!11-05 19:13:45
+Request Successful!11-05 19:16:47
+Request Successful!11-05 19:19:48
+Request Successful!11-05 19:22:50
+Request Successful!11-05 19:25:51
+Request Successful!11-05 19:28:54
+Request Successful!11-05 19:31:55
+Request Successful!11-05 19:34:57
+Request Successful!11-05 19:37:59
+Request Successful!11-05 19:41:00
+Request Successful!11-05 19:44:02
+Request Successful!11-05 19:47:04
+Request Successful!11-05 19:50:05
+Request Successful!11-05 19:53:07
+Request Successful!11-05 19:56:09
+Request Successful!11-05 19:59:10
+Request Successful!11-05 20:02:12
+Request Successful!11-05 20:05:14
+Request Successful!11-05 20:08:16
+Request Successful!11-05 20:11:17
+Request Successful!11-05 20:14:19
+Request Successful!11-05 20:17:21
+Request Successful!11-05 20:20:23
+Request Successful!11-05 20:23:25
+Request Successful!11-05 20:26:29
+Request Successful!11-05 20:29:31
+Request Successful!11-05 20:32:33
+Request Successful!11-05 20:35:35
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 29s
+Disk
+on
+B2Bi Application Server - Stream 2B (Multicluster - VIP)
+/app/sword/shared 901.56 GiB (90.20%)
+/app/sword/shared 901.56 GiB (90.20%)
+/ 10.98 GiB (54.96%)
+/ 10.98 GiB (54.96%)
+/app/sword/shared/mounts/nfsserver 179.93 GiB (30.00%)
+/app/sword/shared/mounts/nfsserver 179.93 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.93 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.93 GiB (30.00%)
+/app/sword 16.26 GiB (16.27%)
+/app/sword 16.26 GiB (16.27%)
+...
+DISK CRITICAL - free space: / 9219 MB (45.04% inode=98%); /app/sword 85701 MB (83.73% inode=100%); /app/sword/shared 100297 MB (9.79% inode=99%); /mnt/archive 8796079833440 MB (99.99% inode=-); /app/sword/shared/mounts/nfsserver 429959 MB (70.00% inode=99%); /app/sword/shared/mounts/multicluster 429959 MB (70.00% inode=99%);
+Request Successful!11-05 20:38:46
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 40s
+Disk
+on
+B2Bi Application Server - Stream 2B (Multicluster - VIP)
+/app/sword/shared 902.75 GiB (90.32%)
+/app/sword/shared 902.75 GiB (90.32%)
+/ 10.95 GiB (54.81%)
+/ 10.95 GiB (54.81%)
+/app/sword/shared/mounts/nfsserver 179.94 GiB (30.00%)
+/app/sword/shared/mounts/nfsserver 179.94 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.94 GiB (30.00%)
+/app/sword/shared/mounts/multicluster 179.94 GiB (30.00%)
+/app/sword 16.27 GiB (16.27%)
+/app/sword 16.27 GiB (16.27%)
+...
+DISK CRITICAL - free space: / 9250 MB (45.19% inode=98%); /app/sword 85693 MB (83.72% inode=100%); /app/sword/shared 99083 MB (9.68% inode=99%); /mnt/archive 8796079833440 MB (99.99% inode=-); /app/sword/shared/mounts/nfsserver 429951 MB (70.00% inode=99%); /app/sword/shared/mounts/multicluster 429951 MB (70.00% inode=99%);
+Request Successful!11-05 20:41:57
+Request Successful!11-05 20:44:59
+Request Successful!11-05 20:48:01
+Request Successful!11-05 20:51:03
+Request Successful!11-05 20:54:05
+Request Successful!11-05 20:57:08
+Request Successful!11-05 21:00:10
+Request Successful!11-05 21:03:12
+Request Successful!11-05 21:06:14
+Request Successful!11-05 21:09:16
+Request Successful!11-05 21:12:18
+Request Successful!11-05 21:15:20
+Request Successful!11-05 21:18:22
+Request Successful!11-05 21:21:24
+Request Successful!11-05 21:24:26
+Request Successful!11-05 21:27:28
+Request Successful!11-05 21:30:30
+Request Successful!11-05 21:33:32
+Request Successful!11-05 21:36:34
+Request Successful!11-05 21:39:36
+Request Successful!11-05 21:42:37
+Request Successful!11-05 21:45:39
+Request Successful!11-05 21:48:41
+Request Successful!11-05 21:51:43
+Request Successful!11-05 21:54:44
+Request Successful!11-05 21:57:46
+Request Successful!11-05 22:00:48
+Request Successful!11-05 22:03:50
+Request Successful!11-05 22:06:51
+Request Successful!11-05 22:09:53
+Request Successful!11-05 22:12:55
+Request Successful!11-05 22:15:56
+Request Successful!11-05 22:18:58
+Request Successful!11-05 22:22:00
+Request Successful!11-05 22:25:01
+Request Successful!11-05 22:28:04
+Request Successful!11-05 22:31:06
+Request Successful!11-05 22:34:07
+Request Successful!11-05 22:37:09
+Request Successful!11-05 22:40:11
+Request Successful!11-05 22:43:12
+Request Successful!11-05 22:46:14
+Request Successful!11-05 22:49:15
+Request Successful!11-05 22:52:17
+Request Successful!11-05 22:55:18
+Request Successful!11-05 22:58:20
+Request Successful!11-05 23:01:21
+Request Successful!11-05 23:04:23
+Request Successful!11-05 23:07:25
+Request Successful!11-05 23:10:27
+Request Successful!11-05 23:13:28
+Request Successful!11-05 23:16:30
+Request Successful!11-05 23:19:31
+Request Successful!11-05 23:22:33

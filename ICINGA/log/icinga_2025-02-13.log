@@ -1,0 +1,193 @@
+Request Successful!02-13 16:09:49
+Request Successful!02-13 16:12:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 3s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!02-13 16:16:02
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 15s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!02-13 16:19:13
+Request Successful!02-13 16:22:15
+Request Successful!02-13 16:25:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 27s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!02-13 16:28:29
+Request Successful!02-13 16:31:31
+Request Successful!02-13 16:34:32
+Request Successful!02-13 16:37:34
+Request Successful!02-13 16:40:35
+Request Successful!02-13 16:43:37
+Request Successful!02-13 16:46:39
+Request Successful!02-13 16:49:41
+Request Successful!02-13 16:52:43
+Request Successful!02-13 16:55:44
+Request Successful!02-13 16:58:46
+Request Successful!02-13 17:01:48
+Request Successful!02-13 17:04:50
+Request Successful!02-13 17:07:51
+Request Successful!02-13 17:10:53
+Request Successful!02-13 17:13:55
+Request Successful!02-13 17:16:56
+Request Successful!02-13 17:19:58
+Request Successful!02-13 17:23:00
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 0s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM"
+on
+B2Bi Application Server - Stream 1A
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.101_Parallel_Out_20_InhouseEnveloper(Inhouse)_HM" ("hierchmessage_2367"/"queue_13"):
+Request Successful!02-13 17:26:11
+Request Successful!02-13 17:29:13
+Request Successful!02-13 17:32:14
+Request Successful!02-13 17:35:16
+Request Successful!02-13 17:38:18
+Request Successful!02-13 17:41:20
+Request Successful!02-13 17:44:21
+Request Successful!02-13 17:47:23
+Request Successful!02-13 17:50:26
+Request Successful!02-13 17:53:27
+Request Successful!02-13 17:56:29
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 55s
+Check that ComSys pickup directory /app/sword/shared/comsys/Parallel3/pickups/comsys_parallel doesn't contain too many files.
+on
+Communication Server 1 Production
+CRITICAL : /app/sword/shared/comsys/Parallel3/pickups/comsys_parallel holds 3526 files. Critical limit 1000 exceeded.
+Request Successful!02-13 17:59:40
+Request Successful!02-13 18:02:42
+Request Successful!02-13 18:05:44
+Request Successful!02-13 18:08:45
+Request Successful!02-13 18:11:47
+Request Successful!02-13 18:14:49
+Request Successful!02-13 18:17:51
+Request Successful!02-13 18:20:53
+Request Successful!02-13 18:23:54
+Request Successful!02-13 18:26:56
+Request Successful!02-13 18:29:58
+Request Successful!02-13 18:32:59
+Request Successful!02-13 18:36:01
+Request Successful!02-13 18:39:03
+Request Successful!02-13 18:42:05
+Request Successful!02-13 18:45:07
+Request Successful!02-13 18:48:09
+Request Successful!02-13 18:51:10
+Request Successful!02-13 18:54:12
+Request Successful!02-13 18:57:14
+Request Successful!02-13 19:00:16
+Request Successful!02-13 19:03:17
+Request Successful!02-13 19:06:19
+Request Successful!02-13 19:09:21
+Request Successful!02-13 19:12:23
+Request Successful!02-13 19:15:27
+Request Successful!02-13 19:18:29
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 8s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 19s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!02-13 19:21:51
+Request Successful!02-13 19:24:52
+Request Successful!02-13 19:27:54
+Request Successful!02-13 19:30:56
+Request Successful!02-13 19:33:57
+Request Successful!02-13 19:36:59
+Request Successful!02-13 19:40:01
+Request Successful!02-13 19:43:02
+Request Successful!02-13 19:46:04
+Request Successful!02-13 19:49:07
+Request Successful!02-13 19:52:08
+Request Successful!02-13 19:55:10
+Request Successful!02-13 19:58:12
+Request Successful!02-13 20:01:14
+Request Successful!02-13 20:04:15
+Request Successful!02-13 20:07:17
+Request Successful!02-13 20:10:19
+Request Successful!02-13 20:13:21
+Request Successful!02-13 20:16:23
+Request Successful!02-13 20:19:26
+Request Successful!02-13 20:22:28
+Request Successful!02-13 20:25:29
+Request Successful!02-13 20:28:31
+Request Successful!02-13 20:31:33
+Request Successful!02-13 20:34:35
+Request Successful!02-13 20:37:37
+Request Successful!02-13 20:40:39
+Request Successful!02-13 20:43:40
+Request Successful!02-13 20:46:43
+Request Successful!02-13 20:49:45
+Request Successful!02-13 20:52:46
+Request Successful!02-13 20:55:48
+Request Successful!02-13 20:58:51
+Request Successful!02-13 21:01:53
+Request Successful!02-13 21:04:55
+Request Successful!02-13 21:07:56
+Request Successful!02-13 21:10:58
+Request Successful!02-13 21:14:00
+Request Successful!02-13 21:17:02
+Request Successful!02-13 21:20:04
+Request Successful!02-13 21:23:13
+Request Successful!02-13 21:26:15
+Request Successful!02-13 21:29:18
+Request Successful!02-13 21:32:20
+Request Successful!02-13 21:35:22
+Request Successful!02-13 21:38:24
+Request Successful!02-13 21:41:26
+Request Successful!02-13 21:44:28
+Request Successful!02-13 21:47:30
+Request Successful!02-13 21:50:32
+Request Successful!02-13 21:53:33
+Request Successful!02-13 21:56:36
+Request Successful!02-13 21:59:37
+Request Successful!02-13 22:02:39
+Request Successful!02-13 22:05:40
+Request Successful!02-13 22:08:42
+Request Successful!02-13 22:11:44
+Request Successful!02-13 22:14:45
+Request Successful!02-13 22:17:47
+Request Successful!02-13 22:20:48
+Request Successful!02-13 22:23:50
+Request Successful!02-13 22:26:51
+Request Successful!02-13 22:29:53
+Request Successful!02-13 22:32:55
+Request Successful!02-13 22:35:56
+Request Successful!02-13 22:38:57
+Request Successful!02-13 22:41:59
+Request Successful!02-13 22:45:01
+Request Successful!02-13 22:48:02
+Request Successful!02-13 22:51:04
+Request Successful!02-13 22:54:05
+Request Successful!02-13 22:57:07
+Request Successful!02-13 23:00:09
+Request Successful!02-13 23:03:11
+Request Successful!02-13 23:06:13
+Request Successful!02-13 23:09:14
+Request Successful!02-13 23:12:16
+Request Successful!02-13 23:15:17
+Request Successful!02-13 23:18:19
+Request Successful!02-13 23:21:21
+Request Successful!02-13 23:24:22

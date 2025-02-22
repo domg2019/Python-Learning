@@ -1,0 +1,107 @@
+Request Successful!07-31 15:33:20
+Request Successful!07-31 15:36:21
+Request Successful!07-31 15:39:22
+Request Successful!07-31 15:42:23
+Request Successful!07-31 15:45:26
+Request Successful!07-31 15:48:27
+Request Successful!07-31 15:51:29
+Request Successful!07-31 15:54:30
+Request Successful!07-31 15:57:31
+Request Successful!07-31 16:00:33
+Request Successful!07-31 16:03:34
+Request Successful!07-31 16:06:35
+Request Successful!07-31 16:09:37
+Request Successful!07-31 16:12:38
+Request Successful!07-31 16:15:39
+Request Successful!07-31 16:18:41
+Request Successful!07-31 16:21:42
+Request Successful!07-31 16:24:44
+Request Successful!07-31 16:27:45
+Request Successful!07-31 16:30:46
+Request Successful!07-31 16:33:52
+Request Successful!07-31 16:36:53
+Request Successful!07-31 16:39:55
+Request Successful!07-31 16:42:58
+Request Successful!07-31 16:45:59
+Request Successful!07-31 16:49:01
+Request Successful!07-31 16:52:03
+Request Successful!07-31 16:55:05
+Request Successful!07-31 16:58:06
+Request Successful!07-31 17:01:08
+Request Successful!07-31 17:04:09
+Request Successful!07-31 17:07:11
+Request Successful!07-31 17:10:12
+Request Successful!07-31 17:13:14
+Request Successful!07-31 17:16:15
+Request Successful!07-31 17:19:17
+Request Successful!07-31 17:22:18
+Request Successful!07-31 17:25:20
+Request Successful!07-31 17:28:21
+Request Successful!07-31 17:31:23
+Request Successful!07-31 17:34:24
+Request Successful!07-31 17:37:27
+Request Successful!07-31 17:40:28
+Request Successful!07-31 17:43:31
+Request Successful!07-31 17:46:32
+Request Successful!07-31 17:49:34
+Request Successful!07-31 17:52:35
+Request Successful!07-31 17:55:37
+Request Successful!07-31 17:58:38
+Request Successful!07-31 18:01:40
+Request Successful!07-31 18:04:41
+Request Successful!07-31 18:07:43
+Request Successful!07-31 18:10:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 7s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/07/31) error subdirectories.
+Request Successful!07-31 18:13:57
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 19s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/07/31) error subdirectories.
+Request Successful!07-31 18:17:09
+Request Successful!07-31 18:20:11
+Request Successful!07-31 18:23:12
+Request Successful!07-31 18:26:14
+Request Successful!07-31 18:29:15
+Request Successful!07-31 18:32:17
+Request Successful!07-31 18:35:18
+Request Successful!07-31 18:38:20
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 50s
+Check size of queue "SCO.IN.P.0002.CC3 on "QM.TANGO"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!07-31 18:41:32
+Request Successful!07-31 18:44:33
+Request Successful!07-31 18:47:35
+Request Successful!07-31 18:50:36
+Request Successful!07-31 18:53:38
+Request Successful!07-31 18:56:39
+Request Successful!07-31 18:59:41
+Request Successful!07-31 19:02:42
+Request Successful!07-31 19:05:44
+Request Successful!07-31 19:08:45
+Request Successful!07-31 19:11:46
+Request Successful!07-31 19:14:48
+Request Successful!07-31 19:17:49
+Request Successful!07-31 19:20:51
+Request Successful!07-31 19:23:52
+Request Successful!07-31 19:26:53
+Request Successful!07-31 19:29:55
+Request Successful!07-31 19:32:56
+Request Successful!07-31 19:35:57
+Request Successful!07-31 19:38:59
+Request Successful!07-31 19:42:00
+Request Successful!07-31 19:45:01
+Request Successful!07-31 19:48:03
+Request Successful!07-31 19:51:04

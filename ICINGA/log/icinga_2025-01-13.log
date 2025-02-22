@@ -1,0 +1,388 @@
+Request Successful!01-13 16:48:39
+Request Successful!01-13 16:51:41
+Request Successful!01-13 16:54:42
+Request Successful!01-13 16:57:44
+Request Successful!01-13 17:00:45
+Request Successful!01-13 17:03:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 41s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1B
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 17:06:59
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 54s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1B
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 17:10:12
+Request Successful!01-13 17:13:13
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 6s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+Timed out waiting for test file after 570 seconds.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 3s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 17:16:34
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 27s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 17:19:47
+Request Successful!01-13 17:22:48
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 39s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 17:26:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 51s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 17:29:14
+Request Successful!01-13 17:32:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 3s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 17:35:28
+Request Successful!01-13 17:38:30
+Request Successful!01-13 17:41:33
+Request Successful!01-13 17:44:36
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 59s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2025/01/13) error subdirectories.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 53s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 17:48:00
+Request Successful!01-13 17:51:02
+Request Successful!01-13 17:54:04
+Request Successful!01-13 17:57:06
+Request Successful!01-13 18:00:08
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 4s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1B
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 18:03:21
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 6s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 16s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1B
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 18:06:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 52s
+B2Bi queue health: "B2Bi Logger 18"
+on
+B2Bi Application Server - Stream 3C (Multicluster)
+CRITICAL - Queue "B2Bi Logger 18" ("logger_1044"/"queue_16"):
+Request Successful!01-13 18:09:57
+Request Successful!01-13 18:12:59
+Request Successful!01-13 18:16:02
+Request Successful!01-13 18:19:04
+Request Successful!01-13 18:22:06
+Request Successful!01-13 18:25:08
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 55s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 18:28:20
+Request Successful!01-13 18:31:22
+Request Successful!01-13 18:34:24
+Request Successful!01-13 18:37:26
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 35s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 54s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!01-13 18:40:48
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:43:50
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:46:52
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:49:54
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:52:56
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:55:58
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 18:59:00
+check if there is a ticket. One critical alert is existed since 17:58
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:02:02
+check if there is a ticket. One critical alert is existed since 17:58
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:05:04
+check if there is a ticket. One critical alert is existed since 17:58
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:08:06
+check if there is a ticket. One critical alert is existed since 17:58
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:11:07
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:14:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 4s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+Timed out waiting for test file after 570 seconds.
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:17:21
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:20:23
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:23:26
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:26:28
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 58s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:29:41
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:32:43
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:35:44
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:38:46
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:41:48
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:44:50
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:47:52
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:50:53
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:53:55
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:56:57
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 19:59:59
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:03:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 26s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:06:15
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 40s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:09:27
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:12:30
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:15:32
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:18:34
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:21:37
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:24:39
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:27:41
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:30:43
+check if there is a ticket. One critical alert is existed since 17:40
+Request Successful!01-13 20:33:45
+Request Successful!01-13 20:36:47
+Request Successful!01-13 20:39:49
+Request Successful!01-13 20:42:51
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 13s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 20:46:04
+Request Successful!01-13 20:49:06
+Request Successful!01-13 20:52:08
+Request Successful!01-13 20:55:10
+Request Successful!01-13 20:58:12
+Request Successful!01-13 21:01:14
+Request Successful!01-13 21:04:17
+Request Successful!01-13 21:07:18
+Request Successful!01-13 21:10:21
+Request Successful!01-13 21:13:23
+Request Successful!01-13 21:16:24
+Request Successful!01-13 21:19:26
+Request Successful!01-13 21:22:28
+Request Successful!01-13 21:25:30
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 19s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 21:28:42
+Request Successful!01-13 21:31:44
+Request Successful!01-13 21:34:47
+Request Successful!01-13 21:37:48
+Request Successful!01-13 21:40:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 13s
+Soft 1/2
+Multicluster JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Configuration Server 1 - Stream 3 (Multicluster)
+CRIT : Timed out waiting for test file after 570 seconds.
+check if there is a ticket. One critical alert is existed since 20:38
+Request Successful!01-13 21:44:03
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 25s
+Soft 1/2
+Multicluster JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Configuration Server 1 - Stream 3 (Multicluster)
+CRIT : Timed out waiting for test file after 570 seconds.
+Request Successful!01-13 21:47:16
+Request Successful!01-13 21:50:18
+Request Successful!01-13 21:53:20
+Request Successful!01-13 21:56:21
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 46s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2025/01/13) error subdirectories.
+Request Successful!01-13 21:59:35
+Request Successful!01-13 22:02:37
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 50s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 22:05:49
+Request Successful!01-13 22:08:55
+Request Successful!01-13 22:11:57
+Request Successful!01-13 22:14:59
+Request Successful!01-13 22:18:01
+Request Successful!01-13 22:21:03
+Request Successful!01-13 22:24:05
+Request Successful!01-13 22:27:06
+Request Successful!01-13 22:30:08
+Request Successful!01-13 22:33:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 23s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-13 22:36:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 6s
+Check size of queue "LQ.CUST5C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-13 22:39:35
+Request Successful!01-13 22:42:36
+Request Successful!01-13 22:45:38
+Request Successful!01-13 22:48:40
+Request Successful!01-13 22:51:42
+Request Successful!01-13 22:54:43
+Request Successful!01-13 22:57:45
+Request Successful!01-13 23:00:47
+Request Successful!01-13 23:03:48
+Request Successful!01-13 23:06:50
+Request Successful!01-13 23:09:52
+Request Successful!01-13 23:12:53
+Request Successful!01-13 23:15:55
+Request Successful!01-13 23:18:56
+Request Successful!01-13 23:21:58
+Request Successful!01-13 23:25:00

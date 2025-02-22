@@ -1,0 +1,123 @@
+Request Successful!11-20 21:39:40
+Request Successful!11-20 21:42:42
+Request Successful!11-20 21:45:44
+Request Successful!11-20 21:48:46
+Request Successful!11-20 21:51:47
+Request Successful!11-20 21:54:50
+Request Successful!11-20 21:57:52
+Request Successful!11-20 22:00:54
+Request Successful!11-20 22:03:55
+Request Successful!11-20 22:06:57
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:09:58
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:13:00
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:16:02
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:19:03
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:22:05
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:25:07
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:28:08
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:31:10
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:34:12
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:37:17
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:40:18
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:43:20
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:46:22
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:49:24
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:52:25
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:55:27
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 39s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc2
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 106032 entries in mon_events_processing_sc2. Critical threshold 100000 breached!
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 22:58:38
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:01:40
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:04:41
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:07:43
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:10:44
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 43s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc2
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 107255 entries in mon_events_processing_sc2. Critical threshold 100000 breached!
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:13:55
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:16:57
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:19:58
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:23:00
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:26:01
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 56s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc2
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 104495 entries in mon_events_processing_sc2. Critical threshold 100000 breached!
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:29:12
+check if there is a ticket. One critical alert is existed since 21:04
+Request Successful!11-20 23:32:14
+Request Successful!11-20 23:35:15
+Request Successful!11-20 23:38:18
+Request Successful!11-20 23:41:20
+Request Successful!11-20 23:44:21
+Request Successful!11-20 23:47:23
+Request Successful!11-20 23:50:24
+Request Successful!11-20 23:53:26
+Request Successful!11-20 23:56:27
+Request Successful!11-20 23:59:29
+Request Successful!11-21 00:02:30
+Request Successful!11-21 00:05:31
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 25s
+Check if there're unprocessed monitoring events piling up in mon_events_processing_sc2
+on
+b2biprddb1.sl3.comp.db.de
+CRIT : 101053 entries in mon_events_processing_sc2. Critical threshold 100000 breached!
+Request Successful!11-21 00:08:42
+Request Successful!11-21 00:11:44
+Request Successful!11-21 00:14:45
+Request Successful!11-21 00:17:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 53s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!11-21 00:20:58
+Request Successful!11-21 00:24:00
+Request Successful!11-21 00:27:01
+Request Successful!11-21 00:30:03
+Request Successful!11-21 00:33:05
+Request Successful!11-21 00:36:06
+Request Successful!11-21 00:39:08

@@ -1,0 +1,204 @@
+Request Successful!12-10 17:00:58
+Request Successful!12-10 17:04:00
+Request Successful!12-10 17:07:01
+Request Successful!12-10 17:10:03
+Request Successful!12-10 17:13:04
+Request Successful!12-10 17:16:06
+Request Successful!12-10 17:19:07
+Request Successful!12-10 17:22:09
+Request Successful!12-10 17:25:10
+Request Successful!12-10 17:28:11
+Request Successful!12-10 17:31:13
+Request Successful!12-10 17:34:14
+Request Successful!12-10 17:37:16
+Request Successful!12-10 17:40:17
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 11s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 68600.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 17:43:28
+Request Successful!12-10 17:46:30
+Request Successful!12-10 17:49:31
+Request Successful!12-10 17:52:33
+Request Successful!12-10 17:55:34
+Request Successful!12-10 17:58:35
+Request Successful!12-10 18:01:37
+Request Successful!12-10 18:04:38
+Request Successful!12-10 18:07:39
+Request Successful!12-10 18:10:41
+Request Successful!12-10 18:13:42
+Request Successful!12-10 18:16:44
+Request Successful!12-10 18:19:45
+Request Successful!12-10 18:22:47
+Request Successful!12-10 18:25:48
+Request Successful!12-10 18:28:50
+Request Successful!12-10 18:31:51
+Request Successful!12-10 18:34:53
+Request Successful!12-10 18:37:55
+Request Successful!12-10 18:40:56
+Request Successful!12-10 18:43:57
+Request Successful!12-10 18:46:59
+Request Successful!12-10 18:50:00
+Request Successful!12-10 18:53:02
+Request Successful!12-10 18:56:04
+Request Successful!12-10 18:59:05
+Request Successful!12-10 19:02:07
+Request Successful!12-10 19:05:09
+Request Successful!12-10 19:08:10
+Request Successful!12-10 19:11:11
+Request Successful!12-10 19:14:13
+Request Successful!12-10 19:17:15
+Request Successful!12-10 19:20:16
+Request Successful!12-10 19:23:18
+Request Successful!12-10 19:26:19
+Request Successful!12-10 19:29:21
+Request Successful!12-10 19:32:23
+Request Successful!12-10 19:35:24
+Request Successful!12-10 19:38:26
+Request Successful!12-10 19:41:27
+Request Successful!12-10 19:44:29
+Request Successful!12-10 19:47:30
+Request Successful!12-10 19:50:32
+Request Successful!12-10 19:53:34
+Request Successful!12-10 19:56:35
+Request Successful!12-10 19:59:37
+Request Successful!12-10 20:02:38
+Request Successful!12-10 20:05:40
+Request Successful!12-10 20:08:41
+Request Successful!12-10 20:11:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 52s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 66600.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 20:14:58
+Request Successful!12-10 20:18:00
+Request Successful!12-10 20:21:02
+Request Successful!12-10 20:24:04
+Request Successful!12-10 20:27:08
+Request Successful!12-10 20:30:10
+Request Successful!12-10 20:33:11
+Request Successful!12-10 20:36:13
+Request Successful!12-10 20:39:14
+Request Successful!12-10 20:42:16
+Request Successful!12-10 20:45:17
+Request Successful!12-10 20:48:19
+Request Successful!12-10 20:51:21
+Request Successful!12-10 20:54:22
+Request Successful!12-10 20:57:24
+Request Successful!12-10 21:00:34
+Request Successful!12-10 21:03:35
+Request Successful!12-10 21:06:37
+Request Successful!12-10 21:09:38
+Request Successful!12-10 21:12:40
+Request Successful!12-10 21:15:41
+Request Successful!12-10 21:18:43
+Request Successful!12-10 21:21:44
+Request Successful!12-10 21:24:46
+Request Successful!12-10 21:27:47
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 0s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 66000.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 21:30:59
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 12s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 66000.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 21:34:11
+Request Successful!12-10 21:37:12
+Request Successful!12-10 21:40:14
+Request Successful!12-10 21:43:16
+Request Successful!12-10 21:46:17
+Request Successful!12-10 21:49:19
+Request Successful!12-10 21:52:21
+Request Successful!12-10 21:55:22
+Request Successful!12-10 21:58:24
+Request Successful!12-10 22:01:25
+Request Successful!12-10 22:04:27
+Request Successful!12-10 22:07:29
+Request Successful!12-10 22:10:30
+Request Successful!12-10 22:13:32
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 12s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_CASE_DetermineTrunk_HM" ("hierchmessage_7542"/"queue_13"):
+Request Successful!12-10 22:16:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 1s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 90100.68 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 22:19:57
+Request Successful!12-10 22:22:59
+Request Successful!12-10 22:26:01
+Request Successful!12-10 22:29:03
+Request Successful!12-10 22:32:04
+Request Successful!12-10 22:35:06
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 22s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdxsr1.sl3.comp.db.de
+CRITICAL : No data received from host
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 26s
+Check if we still can connect to ftp.sword.dbschenker.com using ftp.
+on
+b2biprdoem1.sl3.comp.db.de
+CRITICAL : No data received from host
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 32s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdoem1.sl3.comp.db.de
+CRITICAL : Server answer:
+Request Successful!12-10 22:38:38
+Request Successful!12-10 22:41:39
+Request Successful!12-10 22:44:41
+Request Successful!12-10 22:47:42
+Request Successful!12-10 22:50:44
+Request Successful!12-10 22:53:46
+Request Successful!12-10 22:56:47
+Request Successful!12-10 22:59:49
+Request Successful!12-10 23:02:50
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 48s
+Check size of directory "/app/sword/shared/axway/data/coreservices"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Critical: size of 64700.63 MB found in path "/app/sword/shared/axway/data/coreservices"
+Request Successful!12-10 23:06:03
+Request Successful!12-10 23:09:04
+Request Successful!12-10 23:12:05
+Request Successful!12-10 23:15:07
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 32s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 2 files in todays (2024/12/10) error subdirectories.
+Request Successful!12-10 23:18:19
+Request Successful!12-10 23:21:20
+Request Successful!12-10 23:24:22

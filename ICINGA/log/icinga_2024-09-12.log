@@ -1,0 +1,121 @@
+Request Successful!09-12 16:44:33
+Request Successful!09-12 16:47:34
+Request Successful!09-12 16:50:35
+Request Successful!09-12 16:53:37
+Request Successful!09-12 16:56:38
+Request Successful!09-12 16:59:39
+Request Successful!09-12 17:02:41
+Request Successful!09-12 17:05:43
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 26s
+Check size of queue "LQ.CUST1C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-12 17:08:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 43s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr5.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 43s
+Check if we still can connect to ftp.sword.dbschenker.com host using ssh.
+on
+b2biprdxsr7.sl3.comp.db.de
+CRITICAL : Server answer:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 39s
+Check size of queue "LQ.CUST1C on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!09-12 17:12:28
+Request Successful!09-12 17:15:29
+Request Successful!09-12 17:18:30
+Request Successful!09-12 17:21:32
+Request Successful!09-12 17:24:33
+Request Successful!09-12 17:27:34
+Request Successful!09-12 17:30:36
+Request Successful!09-12 17:33:37
+Request Successful!09-12 17:36:39
+Request Successful!09-12 17:39:40
+Request Successful!09-12 17:42:42
+Request Successful!09-12 17:45:43
+Request Successful!09-12 17:48:45
+Request Successful!09-12 17:51:46
+Request Successful!09-12 17:54:47
+Request Successful!09-12 17:57:49
+Request Successful!09-12 18:00:50
+Request Successful!09-12 18:03:51
+Request Successful!09-12 18:06:53
+Request Successful!09-12 18:09:54
+Request Successful!09-12 18:12:55
+Request Successful!09-12 18:15:57
+Request Successful!09-12 18:18:58
+Request Successful!09-12 18:21:59
+Request Successful!09-12 18:25:01
+Request Successful!09-12 18:28:02
+Request Successful!09-12 18:31:04
+Request Successful!09-12 18:34:05
+Request Successful!09-12 18:37:07
+Request Successful!09-12 18:40:08
+Request Successful!09-12 18:43:10
+Request Successful!09-12 18:46:11
+Request Successful!09-12 18:49:13
+Request Successful!09-12 18:52:14
+Request Successful!09-12 18:55:16
+Request Successful!09-12 18:58:17
+Request Successful!09-12 19:01:19
+Request Successful!09-12 19:04:20
+Request Successful!09-12 19:07:22
+Request Successful!09-12 19:10:24
+Request Successful!09-12 19:13:25
+Request Successful!09-12 19:16:27
+Request Successful!09-12 19:19:28
+Request Successful!09-12 19:22:30
+Request Successful!09-12 19:25:31
+Request Successful!09-12 19:28:33
+Request Successful!09-12 19:31:34
+Request Successful!09-12 19:34:36
+Request Successful!09-12 19:37:37
+Request Successful!09-12 19:40:39
+Request Successful!09-12 19:43:40
+Request Successful!09-12 19:46:42
+Request Successful!09-12 19:49:44
+Request Successful!09-12 19:52:46
+Request Successful!09-12 19:55:47
+Request Successful!09-12 19:58:49
+Request Successful!09-12 20:01:50
+Request Successful!09-12 20:04:52
+Request Successful!09-12 20:07:53
+Request Successful!09-12 20:10:55
+Request Successful!09-12 20:13:56
+Request Successful!09-12 20:16:58
+Request Successful!09-12 20:19:59
+Request Successful!09-12 20:23:01
+Request Successful!09-12 20:26:02
+Request Successful!09-12 20:29:04
+Request Successful!09-12 20:32:05
+Request Successful!09-12 20:35:07
+Request Successful!09-12 20:38:08
+Request Successful!09-12 20:41:10
+Request Successful!09-12 20:44:11
+Request Successful!09-12 20:47:13
+Request Successful!09-12 20:50:14
+Request Successful!09-12 20:53:16
+Request Successful!09-12 20:56:17
+Request Successful!09-12 20:59:19
+Request Successful!09-12 21:02:22
+Request Successful!09-12 21:05:23
+Request Successful!09-12 21:08:25
+Request Successful!09-12 21:11:26
+Request Successful!09-12 21:14:28
+Request Successful!09-12 21:17:29
+Request Successful!09-12 21:20:31
+Request Successful!09-12 21:23:32

@@ -1,0 +1,326 @@
+Request Successful!01-10 16:25:56
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 3s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 16:29:09
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 3s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 16:32:21
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 15s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 16:35:32
+Request Successful!01-10 16:38:34
+Request Successful!01-10 16:41:36
+Request Successful!01-10 16:44:38
+Request Successful!01-10 16:47:40
+Request Successful!01-10 16:50:42
+Request Successful!01-10 16:53:43
+Request Successful!01-10 16:56:45
+Request Successful!01-10 16:59:47
+Request Successful!01-10 17:02:49
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 17s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 39s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 17:06:11
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 39s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 17:09:24
+Request Successful!01-10 17:12:26
+Request Successful!01-10 17:15:28
+Request Successful!01-10 17:18:30
+Request Successful!01-10 17:21:32
+Request Successful!01-10 17:24:33
+Request Successful!01-10 17:27:35
+Request Successful!01-10 17:30:37
+Request Successful!01-10 17:33:40
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 33s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3A (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 17:36:51
+Request Successful!01-10 17:39:53
+Request Successful!01-10 17:42:55
+Request Successful!01-10 17:45:57
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 45s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 4 files in todays (2025/01/10) error subdirectories.
+Request Successful!01-10 17:49:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 59s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 58s
+Checking for files in JMSClient error directories under /app/sword/schenker/jmsclients
+on
+Communication Server 1 Production
+CRIT : 1 JMSClients with issues! Found a total of 4 files in todays (2025/01/10) error subdirectories.
+Request Successful!01-10 17:52:33
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 56s
+Checking JMS-Client Backlogs.
+on
+Communication Server 1 Production
+CRITICAL : At least one value exceed CRIT thresholds.
+Request Successful!01-10 17:55:46
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 36s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 17:58:58
+Request Successful!01-10 18:02:00
+Request Successful!01-10 18:05:02
+Request Successful!01-10 18:08:04
+Request Successful!01-10 18:11:06
+Request Successful!01-10 18:14:08
+Request Successful!01-10 18:17:10
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 40s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 18:20:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 52s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 18:23:35
+Request Successful!01-10 18:26:38
+Request Successful!01-10 18:29:40
+Request Successful!01-10 18:32:42
+Request Successful!01-10 18:35:44
+Request Successful!01-10 18:38:46
+Request Successful!01-10 18:41:48
+Request Successful!01-10 18:44:50
+Request Successful!01-10 18:47:53
+check if there is a ticket. One critical alert is existed since 17:46
+Request Successful!01-10 18:50:55
+check if there is a ticket. One critical alert is existed since 17:46
+Request Successful!01-10 18:53:57
+check if there is a ticket. One critical alert is existed since 17:46
+Request Successful!01-10 18:56:59
+Request Successful!01-10 19:00:01
+Request Successful!01-10 19:03:03
+Request Successful!01-10 19:06:05
+Request Successful!01-10 19:09:07
+Request Successful!01-10 19:12:11
+Request Successful!01-10 19:15:13
+Request Successful!01-10 19:18:15
+Request Successful!01-10 19:21:17
+Request Successful!01-10 19:24:19
+Request Successful!01-10 19:27:22
+Request Successful!01-10 19:30:24
+Request Successful!01-10 19:33:27
+Request Successful!01-10 19:36:29
+Request Successful!01-10 19:39:32
+Request Successful!01-10 19:42:35
+Request Successful!01-10 19:45:37
+Request Successful!01-10 19:48:40
+Request Successful!01-10 19:51:42
+Request Successful!01-10 19:54:45
+Request Successful!01-10 19:57:47
+Request Successful!01-10 20:00:49
+Request Successful!01-10 20:03:51
+Request Successful!01-10 20:06:53
+Request Successful!01-10 20:09:56
+Request Successful!01-10 20:12:57
+Request Successful!01-10 20:15:59
+Request Successful!01-10 20:19:02
+Request Successful!01-10 20:22:04
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 11s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 20:25:16
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 6m 23s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 3B (Multicluster)
+Timed out waiting for test file after 570 seconds.
+Request Successful!01-10 20:28:28
+Request Successful!01-10 20:31:30
+Request Successful!01-10 20:34:32
+Request Successful!01-10 20:37:34
+Request Successful!01-10 20:40:36
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 10s
+Ping via IPv4: b2biprdweb1.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+pl 100% (100.00%)
+pl 100% (100.00%)
+PING CRITICAL - Packet loss = 100%
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 44s
+Icinga Cluster Status
+on
+b2biprddep1.sl3.comp.db.de
+Icinga 2 Cluster Problem: 1 endpoints are not connected.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 54s
+Icinga Cluster-Zone Status: b2biprdweb1.sl3.comp.db.de
+on
+b2biprddep1.sl3.comp.db.de
+Zone 'b2biprdweb1.sl3.comp.db.de' is not connected. Log lag: 5 minutes and 21 seconds
+Request Successful!01-10 20:44:11
+Request Successful!01-10 20:47:13
+Request Successful!01-10 20:50:15
+Request Successful!01-10 20:53:18
+Request Successful!01-10 20:56:20
+Request Successful!01-10 20:59:22
+Request Successful!01-10 21:02:26
+Request Successful!01-10 21:05:28
+Request Successful!01-10 21:08:30
+Request Successful!01-10 21:11:33
+Request Successful!01-10 21:14:35
+Request Successful!01-10 21:17:37
+Request Successful!01-10 21:20:40
+Request Successful!01-10 21:23:42
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 8s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1A
+Timed out waiting for test file after 570 seconds.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 35s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 21:27:05
+Request Successful!01-10 21:30:07
+Request Successful!01-10 21:33:10
+Request Successful!01-10 21:36:12
+Request Successful!01-10 21:39:14
+Request Successful!01-10 21:42:16
+Request Successful!01-10 21:45:18
+Request Successful!01-10 21:48:20
+Request Successful!01-10 21:51:22
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 4m 6s
+B2Bi queue health: "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM"
+on
+B2Bi Application Server - Stream 1B
+CRITICAL - Queue "B2Bi CI HME - PROD_Framework_Parallel_001.Z_Local_402_Serial_Out_20_InhouseEnveloper(Inhouse)_4_SAG_ETGOIT_HM" ("hierchmessage_11217"/"queue_13"):
+Request Successful!01-10 21:54:35
+Request Successful!01-10 21:57:37
+Request Successful!01-10 22:00:39
+Request Successful!01-10 22:03:41
+Request Successful!01-10 22:06:43
+Request Successful!01-10 22:09:45
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 38s
+Check size of queue "LQ.C2K.FROM.RIEGE on "QM.SWORD"
+on
+MQM Server Production
+CRITICAL - Queue depth exceeding critical limit
+Request Successful!01-10 22:12:57
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 3m 46s
+Soft 1/2
+JMS Loop - Send test file to scintilla and expect it back.
+on
+B2Bi Application Server - Stream 1C
+Timed out waiting for test file after 570 seconds.
+New alert more than 5 minutes! See details below: 
+CRITICAL
+for 5m 5s
+JMS Clients Connected
+on
+Communication Server 1 Production
+CRITICAL - Following JMS clients are with errors:
+Request Successful!01-10 22:16:20
+Request Successful!01-10 22:19:21
+Request Successful!01-10 22:22:23
+Request Successful!01-10 22:25:25
+Request Successful!01-10 22:28:27
+Request Successful!01-10 22:31:29
+Request Successful!01-10 22:34:31
+Request Successful!01-10 22:37:33
+Request Successful!01-10 22:40:34
+Request Successful!01-10 22:43:36
+Request Successful!01-10 22:46:38
+Request Successful!01-10 22:49:40
+Request Successful!01-10 22:52:42
+Request Successful!01-10 22:55:43
+Request Successful!01-10 22:58:45
+Request Successful!01-10 23:01:47
+Request Successful!01-10 23:04:48
+Request Successful!01-10 23:07:50
+Request Successful!01-10 23:10:52
+Request Successful!01-10 23:13:53
+Request Successful!01-10 23:16:55
+Request Successful!01-10 23:19:57
+Request Successful!01-10 23:22:58
